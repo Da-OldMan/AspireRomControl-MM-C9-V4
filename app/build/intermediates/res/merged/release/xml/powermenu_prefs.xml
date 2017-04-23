@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="power_poweroff"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Shutdown" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="power_restart"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Restart" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="power_screenshot"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Screenshot" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="power_torch"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Flashlight" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="power_recovery"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Recovery mode" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="power_download"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Download mode" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="power_emergency"
+        android:summaryOff="Disabled"
+        android:summaryOn="Enabled"
+        android:title="Emergency mode" />
+</PreferenceScreen>

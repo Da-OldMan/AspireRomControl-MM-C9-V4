@@ -1,0 +1,279 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:23
+# view res/layout/app_bar_main.xml #generated:24
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:31
+-keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
+
+# view res/layout/activity_about.xml #generated:15
+# view res/layout/app_bar_main.xml #generated:15
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/reboot_item.xml #generated:23
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:17
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+# view res/layout/about_activity_content.xml #generated:15
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/about_activity_content.xml #generated:32
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/activity_about.xml #generated:57
+# view res/layout/app_bar_main.xml #generated:29
+# view res/layout/nested_preference_toolbar_layout.xml #generated:15
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.wubydax.romcontrol.v2.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.wubydax.romcontrol.v2.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.wubydax.romcontrol.v2.MyApp { <init>(...); }
+
+# view land\res/layout-land/dialog_color_picker.xml #generated:60
+# view land\res/layout-land/dialog_color_picker.xml #generated:75
+# view res/layout/dialog_color_picker.xml #generated:67
+# view res/layout/dialog_color_picker.xml #generated:82
+-keep class com.wubydax.romcontrol.v2.prefs.ColorPickerPanelView { <init>(...); }
+
+# view res/xml/phone_prefs.xml #generated:43
+# view res/xml/phone_prefs.xml #generated:47
+# view res/xml/statusbar_prefs.xml #generated:199
+# view res/xml/statusbar_prefs.xml #generated:288
+# view res/xml/statusbar_prefs.xml #generated:292
+# view res/xml/ui_prefs.xml #generated:104
+# view res/xml/ui_prefs.xml #generated:525
+# view res/xml/ui_prefs.xml #generated:542
+# view res/xml/ui_prefs.xml #generated:88
+# view res/xml/ui_prefs.xml #generated:95
+-keep class com.wubydax.romcontrol.v2.prefs.ColorPickerPreference { <init>(...); }
+
+# view land\res/layout-land/dialog_color_picker.xml #generated:25
+# view res/layout/dialog_color_picker.xml #generated:26
+-keep class com.wubydax.romcontrol.v2.prefs.ColorPickerView { <init>(...); }
+
+# view res/xml/ui_prefs.xml #generated:309
+# view res/xml/ui_prefs.xml #generated:317
+-keep class com.wubydax.romcontrol.v2.prefs.FilePreference { <init>(...); }
+
+# view res/xml/ui_prefs.xml #generated:513
+-keep class com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference { <init>(...); }
+
+# view res/xml/keys_prefs.xml #generated:17
+# view res/xml/keys_prefs.xml #generated:30
+# view res/xml/keys_prefs.xml #generated:49
+# view res/xml/ui_prefs.xml #generated:226
+# view res/xml/ui_prefs.xml #generated:234
+# view res/xml/ui_prefs.xml #generated:243
+-keep class com.wubydax.romcontrol.v2.prefs.IntentDialogPreference { <init>(...); }
+
+# view res/xml/ui_prefs.xml #generated:71
+-keep class com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference { <init>(...); }
+
+# view res/xml/statusbar_prefs.xml #generated:228
+# view res/xml/ui_prefs.xml #generated:164
+-keep class com.wubydax.romcontrol.v2.prefs.MyEditTextPreference { <init>(...); }
+
+# view res/xml/call_prefs.xml #generated:12
+# view res/xml/keys_prefs.xml #generated:11
+# view res/xml/keys_prefs.xml #generated:24
+# view res/xml/keys_prefs.xml #generated:35
+# view res/xml/keys_prefs.xml #generated:43
+# view res/xml/lockscreen_prefs.xml #generated:8
+# view res/xml/phone_prefs.xml #generated:26
+# view res/xml/phone_prefs.xml #generated:36
+# view res/xml/phone_prefs.xml #generated:51
+# view res/xml/statusbar_prefs.xml #generated:107
+# view res/xml/statusbar_prefs.xml #generated:120
+# view res/xml/statusbar_prefs.xml #generated:154
+# view res/xml/statusbar_prefs.xml #generated:175
+# view res/xml/statusbar_prefs.xml #generated:187
+# view res/xml/statusbar_prefs.xml #generated:193
+# view res/xml/statusbar_prefs.xml #generated:237
+# view res/xml/statusbar_prefs.xml #generated:257
+# view res/xml/statusbar_prefs.xml #generated:91
+# view res/xml/statusbar_prefs.xml #generated:99
+# view res/xml/ui_prefs.xml #generated:155
+-keep class com.wubydax.romcontrol.v2.prefs.MyListPreference { <init>(...); }
+
+# view res/xml/lockscreen_prefs.xml #generated:38
+# view res/xml/phone_prefs.xml #generated:57
+# view res/xml/statusbar_prefs.xml #generated:270
+# view res/xml/statusbar_prefs.xml #generated:277
+# view res/xml/statusbar_prefs.xml #generated:86
+# view res/xml/ui_prefs.xml #generated:119
+# view res/xml/ui_prefs.xml #generated:125
+# view res/xml/ui_prefs.xml #generated:135
+-keep class com.wubydax.romcontrol.v2.prefs.MySeekBarPreference { <init>(...); }
+
+# view res/xml/apps_prefs.xml #generated:40
+# view res/xml/keys_prefs.xml #generated:5
+# view res/xml/lockscreen_prefs.xml #generated:13
+# view res/xml/lockscreen_prefs.xml #generated:20
+# view res/xml/lockscreen_prefs.xml #generated:26
+# view res/xml/lockscreen_prefs.xml #generated:32
+# view res/xml/lockscreen_prefs.xml #generated:4
+# view res/xml/lockscreen_prefs.xml #generated:43
+# view res/xml/phone_prefs.xml #generated:17
+# view res/xml/powermenu_prefs.xml #generated:10
+# view res/xml/powermenu_prefs.xml #generated:16
+# view res/xml/powermenu_prefs.xml #generated:22
+# view res/xml/powermenu_prefs.xml #generated:28
+# view res/xml/powermenu_prefs.xml #generated:34
+# view res/xml/powermenu_prefs.xml #generated:4
+# view res/xml/powermenu_prefs.xml #generated:40
+# view res/xml/statusbar_prefs.xml #generated:126
+# view res/xml/statusbar_prefs.xml #generated:133
+# view res/xml/statusbar_prefs.xml #generated:15
+# view res/xml/statusbar_prefs.xml #generated:160
+# view res/xml/statusbar_prefs.xml #generated:166
+# view res/xml/statusbar_prefs.xml #generated:181
+# view res/xml/statusbar_prefs.xml #generated:21
+# view res/xml/statusbar_prefs.xml #generated:222
+# view res/xml/statusbar_prefs.xml #generated:243
+# view res/xml/statusbar_prefs.xml #generated:250
+# view res/xml/statusbar_prefs.xml #generated:264
+# view res/xml/statusbar_prefs.xml #generated:282
+# view res/xml/statusbar_prefs.xml #generated:29
+# view res/xml/statusbar_prefs.xml #generated:35
+# view res/xml/statusbar_prefs.xml #generated:41
+# view res/xml/statusbar_prefs.xml #generated:49
+# view res/xml/statusbar_prefs.xml #generated:55
+# view res/xml/statusbar_prefs.xml #generated:61
+# view res/xml/statusbar_prefs.xml #generated:79
+# view res/xml/statusbar_prefs.xml #generated:9
+# view res/xml/ui_prefs.xml #generated:33
+# view res/xml/ui_prefs.xml #generated:41
+# view res/xml/ui_prefs.xml #generated:519
+# view res/xml/ui_prefs.xml #generated:52
+# view res/xml/ui_prefs.xml #generated:536
+# view res/xml/ui_prefs.xml #generated:62
+-keep class com.wubydax.romcontrol.v2.prefs.MySwitchPreference { <init>(...); }
+
+# view res/xml/statusbar_prefs.xml #generated:205
+# view res/xml/ui_prefs.xml #generated:21
+# view res/xml/ui_prefs.xml #generated:348
+# view res/xml/ui_prefs.xml #generated:352
+# view res/xml/ui_prefs.xml #generated:357
+# view res/xml/ui_prefs.xml #generated:364
+-keep class com.wubydax.romcontrol.v2.prefs.OpenAppPreference { <init>(...); }
+
+# view res/xml/statusbar_prefs.xml #generated:141
+# view res/xml/statusbar_prefs.xml #generated:145
+# view res/xml/statusbar_prefs.xml #generated:209
+# view res/xml/statusbar_prefs.xml #generated:213
+# view res/xml/theme_prefs.xml #generated:5
+# view res/xml/theme_prefs.xml #generated:9
+# view res/xml/ui_prefs.xml #generated:397
+# view res/xml/ui_prefs.xml #generated:410
+# view res/xml/ui_prefs.xml #generated:438
+# view res/xml/ui_prefs.xml #generated:445
+# view res/xml/ui_prefs.xml #generated:458
+-keep class com.wubydax.romcontrol.v2.prefs.RunScriptPreference { <init>(...); }
+
+# view res/xml/ui_prefs.xml #generated:179
+# view res/xml/ui_prefs.xml #generated:189
+-keep class com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference { <init>(...); }
+
+# view res/xml/phone_prefs.xml #generated:33
+# view res/xml/ui_prefs.xml #generated:273
+# view res/xml/ui_prefs.xml #generated:276
+# view res/xml/ui_prefs.xml #generated:279
+# view res/xml/ui_prefs.xml #generated:282
+-keep class com.wubydax.romcontrol.v2.prefs.UriSelectionPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.wubydax.romcontrol.v2.utils.BackupRestoreIntentService { <init>(...); }
+
+# view land\res/layout-land/reboot_layout.xml #generated:40
+# view land\res/layout-land/reboot_layout.xml #generated:51
+# view land\res/layout-land/reboot_layout.xml #generated:62
+# view res/layout/reboot_layout.xml #generated:40
+# view res/layout/reboot_layout.xml #generated:49
+# view res/layout/reboot_layout.xml #generated:58
+-keep class com.wubydax.romcontrol.v2.views.RebootView { <init>(...); }
+
+# view res/layout/about_contact_us_item.xml #generated:24
+# view res/layout/about_people_item.xml #generated:21
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# onClick res/layout/about_contact_us_item.xml #generated:15
+# onClick res/layout/about_people_item.xml #generated:15
+-keepclassmembers class * { *** onClick(...); }
+

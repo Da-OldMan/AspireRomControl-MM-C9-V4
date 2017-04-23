@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

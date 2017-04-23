@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceScreen
+        android:icon="@drawable/ic_norm_4"
+        android:summary="Setup the 3 virtual buttons on the Statusbar"
+        android:title="Virtual Buttons">
+        <PreferenceScreen android:title="LockScreen Key">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_rightcornerlock"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="On Right" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_leftcornerlock"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="On Left" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_centerlock"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="In the MiddleIn the Middle" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="Home Key">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_rightcornerhome"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="On Right" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_leftcornerhome"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="On Left" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_centerhome"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="In the Middle" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="Recents Key">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_rightcornertask"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="On Right" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_leftcornertask"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="On Left" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="false"
+                android:key="cocoyaya_centertask"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="In the Middle" />
+        </PreferenceScreen>
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:icon="@drawable/ic_norm_2"
+        android:summary="Clock, date&amp;week statusbar display settings"
+        android:title="Status bar date&amp;clock">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="tomatolei_status_bar_clock"
+            android:summaryOff="Disabled"
+            android:summaryOn="Enabled"
+            android:title="Display clock on statusbar" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:dependency="tomatolei_status_bar_clock"
+            android:key="tomatolei_clock_use_second"
+            android:summaryOff="Disabled"
+            android:summaryOn="Enabled"
+            android:title="Display seconds in statusbar clock" />
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+            android:defaultValue="14"
+            android:key="tomatolei_statusbar_clock_font_size"
+            android:title="Clock size"
+            app:maxValue="24" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:dependency="tomatolei_status_bar_clock"
+            android:entries="@array/tomatolei_clock_style_entries"
+            android:entryValues="@array/tomatolei_clock_style_values"
+            android:key="tomatolei_statusbar_clock_style"
+            android:summary="%s"
+            android:title="Clock position" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:dependency="tomatolei_status_bar_clock"
+            android:entries="@array/tomatolei_clock_weekday_entries"
+            android:entryValues="@array/tomatolei_clock_weekday_values"
+            android:key="tomatolei_statusbar_clock_date_display"
+            android:summary="%s"
+            android:title="Display the day of the week on statusbar" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="EEEEE"
+            android:dependency="tomatolei_status_bar_clock"
+            android:entries="@array/tomatolei_clock_date_format_entries"
+            android:entryValues="@array/tomatolei_clock_date_format_values"
+            android:key="tomatolei_statusbar_clock_date_format"
+            android:summary="%s"
+            android:title="Week Day&amp;Date format" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:icon="@drawable/ic_setting_grid_blockingmdoe"
+        android:summary="Customize Position of Icons on Statusbar"
+        android:title="Statusbar Icons">
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:entries="@array/SignalPositionName"
+            android:entryValues="@array/SignalPositionValue"
+            android:key="leftsignal"
+            android:title="Signal Position" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="1"
+            android:key="man_dualsim_layout"
+            android:summaryOff="Disabled"
+            android:summaryOn="Enabled"
+            android:title="Pulldown Dual Simcard Display"
+            app:packageNameToKill="com.android.systemui" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="1"
+            android:key="man_show_sim_icon"
+            android:summaryOff="Hide"
+            android:summaryOn="Display"
+            android:title="Statusbar SimCard Icons"
+            app:isSilent="true"
+            app:packageNameToKill="com.android.systemui" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
+            android:summary="Hide 4G3G2G icons when Wifi is enabled"
+            android:title="Hide networking icons on Wifi"
+            app:scriptFileName="theme.sh" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
+            android:summary="Show 4G3G2G icons when Wifi is enabled"
+            android:title="Show networking icons on Wifi"
+            app:scriptFileName="themes.sh" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:icon="@drawable/ic_setting_grid_powersaving"
+        android:summary="Customize the statusbar battery icon"
+        android:title="Battery icon">
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:entries="@array/battery_icon_entries"
+            android:entryValues="@array/battery_icon_values"
+            android:key="battery_icon_type"
+            android:title="Battery icon" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="0"
+            android:key="status_bar_show_battery_percent"
+            android:summaryOff="Hidden"
+            android:summaryOn="Displayed"
+            android:title="Display stock icon with percentages" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="display_battery_percentage"
+            android:summaryOff="Hidden"
+            android:summaryOn="Displayed"
+            android:title="Display percentage text on statusbar" />
+        <PreferenceScreen
+            android:summary="Battery Bar on top of the Statusbar"
+            android:title="Battery Bar">
+            <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                android:defaultValue="0"
+                android:entries="@array/battery_bar_entries"
+                android:entryValues="@array/battery_bar_values"
+                android:key="battery_bar"
+                android:title="Battery Bar" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="true"
+                android:key="battery_bar_animate"
+                android:summaryOff="Disabled"
+                android:summaryOn="Enabled"
+                android:title="Battery Bar Animation" />
+            <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                android:defaultValue="1"
+                android:entries="@array/battery_bar_style_entries"
+                android:entryValues="@array/battery_bar_style_values"
+                android:key="battery_bar_style"
+                android:title="Battery Bar Style" />
+            <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                android:defaultValue="1"
+                android:entries="@array/battery_bar_thickness_entries"
+                android:entryValues="@array/battery_bar_thickness_values"
+                android:key="battery_bar_thickness"
+                android:title="Battery Bar thickness" />
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                android:defaultValue="\#ff33b5e5"
+                android:key="battery_bar_color"
+                android:summary="Choose the Battery Bar color"
+                android:title="Battery Bar Color" />
+        </PreferenceScreen>
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            android:summary="Launch 3minit battery settings"
+            android:title="3Minit battery settings"
+            app:componentName="com.three.minit.minitbatterysettings/com.three.minit.minitbatterysettings.MainActivity" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
+            android:summary="Display stock battery icon"
+            android:title="Stock Battery"
+            app:scriptFileName="bl1.sh" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
+            android:summary="Display green stock battery icon"
+            android:title="Green Battery"
+            app:scriptFileName="bl2.sh" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:icon="@drawable/ic_norm_5"
+        android:summary="Display Cusom Carrier on the Statusbar"
+        android:title="Carrier Display on Statusbar">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="0"
+            android:key="infinity_carrier_status_label_onoff"
+            android:summaryOff="Hidden"
+            android:summaryOn="Displayed"
+            android:title="Carrier Information" />
+        <com.wubydax.romcontrol.v2.prefs.MyEditTextPreference
+            android:dialogTitle="Custom Carrier name"
+            android:key="infinity_carrier_status_label"
+            android:title="Customized carrier name" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:icon="@drawable/ic_setting_grid_tethering"
+        android:summary="Internet traffic speed display"
+        android:title="Traffic Speed display">
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:entries="@array/traffic_state_items"
+            android:entryValues="@array/traffic_state_values"
+            android:key="network_traffic_state"
+            android:title="Network speed display style" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:dependency="network_traffic_state"
+            android:key="network_traffic_unit"
+            android:summaryOff="Displayed in Kbytes"
+            android:summaryOn="Displayed in bytes"
+            android:title="Show units in bytes units" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:dependency="network_traffic_state"
+            android:key="network_traffic_show_arrows"
+            android:summaryOff="Hidden"
+            android:summaryOn="Displayed"
+            android:title="Arrows display" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:dependency="network_traffic_show_arrows"
+            android:entries="@array/arrow_position_entries"
+            android:entryValues="@array/arrow_position_values"
+            android:key="network_traffic_arrows_position"
+            android:title="Arrows position" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="network_traffic_autohide"
+            android:summaryOff="Always displayed"
+            android:summaryOn="Auto Hide Enabled"
+            android:title="Low traffic auto-hide" />
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+            android:defaultValue="10"
+            android:dependency="network_traffic_autohide"
+            android:key="network_traffic_threshold"
+            android:title="Auto-hide"
+            app:maxValue="100"
+            app:unitsValue="Kb" />
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+            android:defaultValue="8"
+            android:key="network_traffic_scale"
+            android:title="Text size"
+            app:maxValue="10" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="network_traffic_global_color"
+            android:summaryOff="The text color will be applied to the arrows"
+            android:summaryOn="Text and arrows can be individually colored"
+            android:title="Customize traffic colors" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:defaultValue="\#ffffff"
+            android:key="network_traffic_color"
+            android:title="Traffic text color" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:defaultValue="\#ffffff"
+            android:dependency="network_traffic_global_color"
+            android:key="network_traffic_arrow_color"
+            android:title="Arrow Color" />
+    </PreferenceScreen>
+</PreferenceScreen>

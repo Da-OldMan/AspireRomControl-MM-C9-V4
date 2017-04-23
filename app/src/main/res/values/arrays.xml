@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="utf-8"?><!--/*      Created by Roberto Mariani and Anna Berkovitch, 2015-2016
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
+<resources>
+
+    <string-array name="SignalPositionName">
+        <item>The signal is shown on the right</item>
+        <item>The signal is shown on the left</item>
+    </string-array>
+    <string-array name="SignalPositionValue">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="backup_restore_items">
+        <item>Backup data</item>
+        <item>Restore data</item>
+    </string-array>
+    <string-array name="battery_bar_entries">
+        <item>Hide</item>
+        <item>Display</item>
+    </string-array>
+    <string-array name="battery_bar_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="battery_bar_style_entries">
+        <item>Normal</item>
+        <item>Centered</item>
+    </string-array>
+    <string-array name="battery_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="battery_bar_thickness_entries">
+        <item>1 dp</item>
+        <item>2 dp</item>
+        <item>3 dp</item>
+        <item>4 dp</item>
+    </string-array>
+    <string-array name="battery_bar_thickness_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="battery_icon_entries">
+        <item>Stock clock</item>
+        <item>3Minit battery clock</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="battery_icon_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="call_delay_entries">
+        <item>No delay</item>
+        <item>1 sec</item>
+        <item>2.5 secs</item>
+        <item>5 secs (Stock)</item>
+    </string-array>
+    <string-array name="call_delay_values">
+        <item>0</item>
+        <item>1000</item>
+        <item>2500</item>
+        <item>5000</item>
+    </string-array>
+    <string-array name="carrier_entries">
+        <item>Stock Carrier Label</item>
+        <item>Custom Carrier Label</item>
+    </string-array>
+    <string-array name="carrier_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clock_date_display_entries">
+        <item>Hide week</item>
+        <item>Week is small</item>
+        <item>Day of the week</item>
+    </string-array>
+    <string-array name="clock_date_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_date_format_entries_values">
+        <item>dd/MM/yy</item>
+        <item>MM/dd/yy</item>
+        <item>yyyy-MM-dd</item>
+        <item>yyyy-dd-MM</item>
+        <item>dd-MM-yyyy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MMM dd</item>
+        <item>MMM dd, yyyy</item>
+        <item>MMMM dd, yyyy</item>
+        <item>EEE</item>
+        <item>EEE dd</item>
+        <item>EEE dd/MM</item>
+        <item>EEE MM/dd</item>
+        <item>EEE dd MMM</item>
+        <item>EEE MMM dd</item>
+        <item>EEE MMMM dd</item>
+        <item>EEEE dd/MM</item>
+        <item>EEEE MM/dd</item>
+    </string-array>
+    <string-array name="clock_date_style_entries">
+        <item>Normal date</item>
+        <item>Lowercase date</item>
+        <item>Uppercase date</item>
+    </string-array>
+    <string-array name="clock_date_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_font_style_entries">
+        <item>Bold</item>
+        <item>Condensed</item>
+        <item>Light</item>
+        <item>Light Italic</item>
+        <item>Use System Font (restart UI to set)</item>
+        <item>Chococooky</item>
+        <item>Coming Soon</item>
+        <item>Cool Jazz</item>
+        <item>Lindsey for Samsung</item>
+        <item>MTL</item>
+    </string-array>
+    <string-array name="clock_font_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="clock_format_entries">
+        <item>Ordinary clock</item>
+        <item>English clock</item>
+        <item>Text clock</item>
+    </string-array>
+    <string-array name="clock_format_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Centered</item>
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="clock_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="crop_entries">
+        <item>Center crop</item>
+        <item>Center inside</item>
+        <item>Fit XY</item>
+    </string-array>
+    <string-array name="crop_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="custom_bg_type_entries">
+        <item>Image</item>
+        <item>Solid color</item>
+        <item>Gradient</item>
+    </string-array>
+    <string-array name="custom_bg_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="custom_date">
+        <item>Fri, October 16 (Stock)</item>
+        <item>Fri, 16 October</item>
+        <item>16 October, 2014</item>
+        <item>2014, October 16</item>
+        <item>"Thursday
+October 16, 2014"</item>
+        <item>"Thursday
+Oct 16, 2014"</item>
+        <item>Oct–16–2014</item>
+        <item>"Thursday
+Oct-16-2014"</item>
+        <item>10–16–2014</item>
+        <item>"Thursday
+10-16-2014"</item>
+        <item>10–16–14</item>
+        <item>"Thursday
+10-16-14"</item>
+        <item>Oct/16/2014</item>
+        <item>"Thursday
+Oct/16/2014"</item>
+        <item>10/16/2014</item>
+        <item>"Thursday
+10/16/2014"</item>
+        <item>10/16/14</item>
+        <item>"Thursday
+10/16/14"</item>
+    </string-array>
+    <string-array name="custom_date_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+    </string-array>
+    <string-array name="dashboard_num_columns_entries">
+        <item>Single Column(stock)</item>
+        <item>Dual Columns</item>
+    </string-array>
+    <string-array name="dashboard_num_columns_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="data_usage_gravity_entries">
+        <item>To end</item>
+        <item>Center horizontal</item>
+        <item>To start</item>
+    </string-array>
+    <string-array name="data_usage_gravity_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="data_usage_text_style_entries">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold italic</item>
+    </string-array>
+    <string-array name="data_usage_text_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="device_info_keys">
+        <item>device_model</item>
+        <item>device_android_version</item>
+        <item>device_build_version</item>
+        <item>device_battery_level</item>
+        <item>device_network_name</item>
+        <item>device_wifi_info</item>
+        <item>device_next_alarm</item>
+        <item>device_up_time</item>
+    </string-array>
+    <string-array name="device_info_titles">
+        <item>Device model:</item>
+        <item>Android version:</item>
+        <item>Build version:</item>
+        <item>Battery level:</item>
+        <item>Network:</item>
+        <item>WiFi info:</item>
+        <item>Next alarm:</item>
+        <item>Up time:</item>
+    </string-array>
+    <string-array name="dialer_background_style_entries">
+        <item>Acid</item>
+        <item>Anastasia</item>
+        <item>Black Glass</item>
+        <item>Black Metal</item>
+        <item>Framed Glass</item>
+        <item>Glass</item>
+        <item>Glassplate</item>
+        <item>Gold</item>
+        <item>Grill</item>
+        <item>Leather</item>
+        <item>Mesh</item>
+        <item>Metal</item>
+        <item>Motherboard</item>
+        <item>Moto</item>
+        <item>Rainbow</item>
+        <item>Round</item>
+        <item>Silver</item>
+        <item>Stone</item>
+    </string-array>
+    <string-array name="dialer_background_style_values">
+        <item>10</item>
+        <item>0</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>15</item>
+        <item>4</item>
+        <item>16</item>
+        <item>5</item>
+        <item>17</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="entries_status_bar_am_pm">
+        <item>"Don't show"</item>
+        <item>Small AM/PM</item>
+        <item>Regular AM/PM</item>
+    </string-array>
+    <string-array name="gear_reboot_entries">
+        <item>Off</item>
+        <item>Left Side</item>
+        <item>Right Side</item>
+    </string-array>
+    <string-array name="gear_reboot_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gradient_entries">
+        <item>Top to bottom</item>
+        <item>Bottom to top</item>
+        <item>Left to right</item>
+        <item>Right to left</item>
+    </string-array>
+    <string-array name="gradient_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="home_doubletap">
+        <item>Disabled</item>
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+        <item>Menu</item>
+    </string-array>
+    <string-array name="home_doubletap_values">
+        <item>8</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>0</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="home_longpress">
+        <item>Disabled</item>
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+        <item>Menu</item>
+    </string-array>
+    <string-array name="home_longpress_values">
+        <item>8</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>6</item>
+        <item>7</item>
+        <item>3</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="home_tripletap">
+        <item>Disabled</item>
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+        <item>Menu</item>
+    </string-array>
+    <string-array name="home_tripletap_values">
+        <item>0</item>
+        <item>5</item>
+        <item>6</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="immersive_entries">
+        <item>Show Statusbar (Default)</item>
+        <item>Hide StatusBar</item>
+    </string-array>
+    <string-array name="immersive_values">
+        <item>immersive.full</item>
+        <item>immersive.status=*</item>
+    </string-array>
+    <string-array name="incall_background_entries">
+        <item>Nature Girl</item>
+        <item>Love</item>
+        <item>Mamas Boy</item>
+        <item>Frog</item>
+        <item>Darksyde Eyes</item>
+        <item>Flying High</item>
+        <item>Brushed Aluminum</item>
+        <item>Open Field</item>
+        <item>Red Lightning</item>
+        <item>Rock Cliff</item>
+        <item>Stock or Custom Image</item>
+    </string-array>
+    <string-array name="incall_background_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="keyboard_delay_entries">
+        <item>200ms</item>
+        <item>500ms(Stock)</item>
+        <item>750ms</item>
+        <item>1000ms</item>
+    </string-array>
+    <string-array name="keyboard_delay_values">
+        <item>200</item>
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="launcher_gesture_entries">
+        <item>Turn off the screen</item>
+        <item>Power menu</item>
+        <item>Recent applications</item>
+        <item>Volume +</item>
+        <item>Volume -</item>
+        <item>Dialer</item>
+        <item>Google search</item>
+        <item>Sound Mode: Sound / Vibration / Silent</item>
+        <item>Torchlight</item>
+        <item>Screenshot</item>
+        <item>Notifications panel</item>
+        <item>Switch Wi-Fi</item>
+        <item>Switch Mobile data</item>
+        <item>Switch Bluetooth</item>
+        <item>Clear memory</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="launcher_gesture_values">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="left_longpress">
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+        <item>Menu</item>
+    </string-array>
+    <string-array name="left_longpress_values">
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>6</item>
+        <item>7</item>
+        <item>3</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="left_shortpress">
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+        <item>Menu</item>
+    </string-array>
+    <string-array name="left_shortpress_values">
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>6</item>
+        <item>7</item>
+        <item>3</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="listview_animation_entries">
+        <item>Off</item>
+        <item>Wave Left</item>
+        <item>Wave Right</item>
+        <item>Scale</item>
+        <item>Alpha</item>
+        <item>Stack Top</item>
+        <item>Stack Bottom</item>
+        <item>Unfold</item>
+        <item>Fold</item>
+        <item>Translate Left</item>
+        <item>Translate Right</item>
+        <item>Rotate</item>
+    </string-array>
+    <string-array name="listview_animation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="listview_interpolator_entries">
+        <item>Off</item>
+        <item>Accelerate</item>
+        <item>Decelerate</item>
+        <item>Accelerate decelerate</item>
+        <item>Anticipate</item>
+        <item>Overshoot</item>
+        <item>Anticipate overshoot</item>
+        <item>Bounce</item>
+    </string-array>
+    <string-array name="listview_interpolator_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="lockscreen_clock_size_entries">
+        <item>Normal</item>
+        <item>Tiny</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="lockscreen_clock_size_values">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="lockscreen_entries">
+        <item>None</item>
+        <item>Brilliant ring</item>
+        <item>Stone skipping</item>
+        <item>Sparkling bubbles</item>
+        <item>Coloured Droplets</item>
+    </string-array>
+    <string-array name="lockscreen_font_style_entries">
+        <item>Roboto Light</item>
+        <item>Roboto Condensed Light</item>
+        <item>Apple Mint</item>
+        <item>Archibald</item>
+        <item>Caviar Dreams</item>
+        <item>Chococooky</item>
+        <item>Cutive Mono</item>
+        <item>Cool Jazz</item>
+        <item>Rosemary</item>
+        <item>Ultima</item>
+    </string-array>
+    <string-array name="lockscreen_font_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="lockscreen_notif_entries">
+        <item>2 max shown</item>
+        <item>3 (Stock)</item>
+        <item>4 max shown</item>
+        <item>5 max shown</item>
+    </string-array>
+    <string-array name="lockscreen_notif_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="lockscreen_values">
+        <item>0</item>
+        <item>6</item>
+        <item>7</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="power_doubletap">
+        <item>Disabled</item>
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+    </string-array>
+    <string-array name="power_doubletap_values">
+        <item>0</item>
+        <item>5</item>
+        <item>6</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+        <item>8</item>
+        <item>1</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="right_longpress">
+        <item>Disable</item>
+        <item>Application</item>
+        <item>Flashlight</item>
+        <item>Kill App</item>
+        <item>Recent Apps</item>
+        <item>Screenshot</item>
+        <item>Screen Recorder</item>
+        <item>Google Now</item>
+        <item>Voice Command</item>
+        <item>Lock Phone</item>
+        <item>Menu</item>
+    </string-array>
+    <string-array name="right_longpress_values">
+        <item>10</item>
+        <item>4</item>
+        <item>5</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>3</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="signal_entries">
+        <item>4 bars</item>
+        <item>5 bars</item>
+        <item>6 bars</item>
+    </string-array>
+    <string-array name="signal_values">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="sysbar_lock">
+        <item>Disabled</item>
+        <item>Left Side</item>
+        <item>Right Side</item>
+        <item>Both Sides</item>
+    </string-array>
+    <string-array name="sysbar_lock_lock">
+        <item>Disabled</item>
+        <item>Right Side</item>
+    </string-array>
+    <string-array name="sysbar_lock_lock_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="sysbar_lock_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="sysbar_recent">
+        <item>Disabled</item>
+        <item>Lock Button</item>
+        <item>Home Button</item>
+    </string-array>
+    <string-array name="sysbar_recent_values">
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="test_list_entries">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>"Let's make twenty"</item>
+    </string-array>
+    <string-array name="test_list_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="theme_items">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+    </string-array>
+    <array name="thumbnail_drawables">
+        <item>@drawable/icon_6</item>
+        <item>@drawable/icon_5</item>
+    </array>
+    <string-array name="thumbnail_items">
+        <item>Icon 1</item>
+        <item>Icon 2</item>
+    </string-array>
+    <string-array name="thumbnail_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="traffic_entries">
+        <item>Disabled</item>
+        <item>Outgoing</item>
+        <item>Incoming</item>
+        <item>Show Both</item>
+    </string-array>
+    <string-array name="traffic_update_entries">
+        <item>500 ms</item>
+        <item>1000 ms</item>
+        <item>1500 ms</item>
+        <item>2000 ms</item>
+    </string-array>
+    <string-array name="traffic_update_values">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+    <string-array name="traffic_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="tw_effect_entries">
+        <item>None</item>
+        <item>Cascade</item>
+        <item>Outer cube</item>
+        <item>Inner Cube</item>
+        <item>Carousal</item>
+        <item>Plain</item>
+        <item>Conveyor</item>
+        <item>Card</item>
+    </string-array>
+    <string-array name="tw_effect_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="values_status_bar_am_pm">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="volbtn_action_entries">
+        <item>Next</item>
+        <item>Pause</item>
+        <item>Play</item>
+        <item>Play/Pause</item>
+        <item>Previous</item>
+        <item>Stop</item>
+    </string-array>
+    <string-array name="volbtn_action_values">
+        <item>87</item>
+        <item>127</item>
+        <item>126</item>
+        <item>85</item>
+        <item>88</item>
+        <item>86</item>
+    </string-array>
+    <string-array name="volbtn_timeout_entries">
+        <item>100ms</item>
+        <item>150ms</item>
+        <item>200ms</item>
+        <item>250ms</item>
+        <item>300ms</item>
+        <item>350ms</item>
+        <item>400ms</item>
+        <item>450ms</item>
+        <item>500ms</item>
+    </string-array>
+    <string-array name="volbtn_timeout_values">
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+        <item>450</item>
+        <item>500</item>
+    </string-array>
+    <string-array name="crop_entries1">
+        <item>Center crop</item>
+        <item>Center inside</item>
+        <item>Fit XY</item>
+    </string-array>
+    <string-array name="crop_values1">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="custom_bg_type_entries1">
+        <item>Image</item>
+        <item>Solid color</item>
+        <item>Gradient</item>
+    </string-array>
+    <string-array name="custom_bg_type_values1">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="torchlight_timeout_entries">
+        <item>15 Seconds</item>
+        <item>30 Seconds</item>
+        <item>1 Minute</item>
+        <item>2 Minutes</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+    </string-array>
+    <string-array name="torchlight_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+    </string-array>
+    <string-array name="lam1990_network">
+        <item>0.5s(default)</item>
+        <item>1s</item>
+        <item>2s</item>
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+    </string-array>
+    <string-array name="lam1990_network_values">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+    </string-array>
+    <string-array name="shape_entries">
+        <item>Stock shape</item>
+        <item>Rounded corners</item>
+    </string-array>
+    <string-array name="shape_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="TrafficName">
+        <item>Do not show</item>
+        <item>Show only download</item>
+        <item>Only show uploads</item>
+        <item>Two-line display upload and download</item>
+        <item>The combined display upload and download</item>
+    </string-array>
+    <string-array name="TrafficValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="traffic_style_entries">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold italic</item>
+    </string-array>
+    <string-array name="traffic_style_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="traffic_unit_entries">
+        <item>Bits per second</item>
+        <item>Bytes per second</item>
+    </string-array>
+    <string-array name="traffic_unit_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="show_network_speed_entries">
+        <item>Refresh Interval 0.5 seconds</item>
+        <item>Refresh interval 1 second</item>
+        <item>Refresh interval 2 second</item>
+        <item>Refresh interval 3 second</item>
+        <item>Refresh interval 4 second</item>
+        <item>Refresh interval 5 second</item>
+    </string-array>
+    <string-array name="show_network_speed_values">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+    </string-array>
+    <string-array name="traffic_state_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="traffic_state_items">
+        <item>Disabled</item>
+        <item>Only uploads are displayed</item>
+        <item>Only download is displayed</item>
+        <item>Both upload and download are displayed</item>
+    </string-array>
+    <string-array name="arrow_position_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="arrow_position_entries">
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="traffic_style_entries_position">
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+    <string-array name="traffic_style_values_position">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="button_key_light_entries">
+        <item>Always off</item>
+        <item>1 second</item>
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+    </string-array>
+    <string-array name="button_key_light_values">
+        <item>0</item>
+        <item>1000</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+    </string-array>
+    <string-array name="virtual_key_longpress_actions">
+        <item>Turn off the screen</item>
+        <item>Power menu</item>
+        <item>Return key</item>
+        <item>Home key</item>
+        <item>Recent tasks</item>
+        <item>Menu</item>
+        <item>Volume up</item>
+        <item>Volume down</item>
+        <item>Dial</item>
+        <item>Search</item>
+        <item>Sound Mode: Sound/Vibration /Silent</item>
+        <item>End the current process</item>
+        <item>Flashlight</item>
+        <item>Reboot device</item>
+        <item>Custom program</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="virtual_key_longpress_action_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>888</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="single_line">
+        <item>11.0dip</item>
+        <item>12.0dip</item>
+        <item>13.0dip</item>
+        <item>14.0dip</item>
+        <item>15.0dip</item>
+        <item>16.0dip</item>
+        <item>17.0dip</item>
+        <item>18.0dip</item>
+        <item>19.0dip</item>
+        <item>20.0dip</item>
+    </string-array>
+    <string-array name="single_line_value">
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="dual_line">
+        <item>1.0dip</item>
+        <item>2.0dip</item>
+        <item>3.0dip</item>
+        <item>4.0dip</item>
+        <item>5.0dip</item>
+        <item>6.0dip</item>
+        <item>7.0dip</item>
+        <item>8.0dip</item>
+        <item>9.0dip</item>
+        <item>10.0dip</item>
+    </string-array>
+    <string-array name="dual_line_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="double_home_entries">
+        <item>Return</item>
+        <item>Recent Tasks</item>
+        <item>Menu</item>
+        <item>The volume increases</item>
+        <item>The volume is reduced</item>
+        <item>Dial</item>
+        <item>Search for</item>
+        <item>Sound / Vibration / Mute</item>
+        <item>End the current process</item>
+        <item>Flashlight</item>
+        <item>Screenshot</item>
+        <item>Notification Bar</item>
+        <item>Wireless</item>
+        <item>Data</item>
+        <item>Bluetooth</item>
+        <item>Camera</item>
+        <item>Split Screen</item>
+        <item>Specifies the program</item>
+        <item>Memory cleanup</item>
+        <item>Nothing</item>
+    </string-array>
+    <string-array name="double_home_values">
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>101</item>
+        <item>102</item>
+        <item>21</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="long_back_entries">
+        <item>Off screen</item>
+        <item>Power menu</item>
+        <item>Return</item>
+        <item>Home Page</item>
+        <item>Recent Tasks</item>
+        <item>menu</item>
+        <item>The volume increases</item>
+        <item>The volume is reduced</item>
+        <item>Dial</item>
+        <item>Search for</item>
+        <item>Sound / Vibration / Mute</item>
+        <item>End the current process</item>
+        <item>Flashlight</item>
+        <item>Screenshot</item>
+        <item>Notification Bar</item>
+        <item>Wireless</item>
+        <item>Data</item>
+        <item>Bluetooth</item>
+        <item>Camera</item>
+        <item>Split Screen</item>
+        <item>Specifies the program</item>
+        <item>Memory cleanup</item>
+        <item>Nothing</item>
+    </string-array>
+    <string-array name="long_back_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>101</item>
+        <item>102</item>
+        <item>19</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="long_home_entries">
+        <item>Return</item>
+        <item>Recent Tasks</item>
+        <item>Menu</item>
+        <item>The volume increases</item>
+        <item>The volume is reduced</item>
+        <item>Dial</item>
+        <item>Search for</item>
+        <item>Sound / Vibration / Mute</item>
+        <item>End the current process</item>
+        <item>Flashlight</item>
+        <item>Screenshot</item>
+        <item>Notification Bar</item>
+        <item>Wireless</item>
+        <item>Data</item>
+        <item>Bluetooth</item>
+        <item>Camera</item>
+        <item>Split Screen</item>
+        <item>Specifies the program</item>
+        <item>Memory cleanup</item>
+        <item>Nothing</item>
+    </string-array>
+    <string-array name="long_home_values">
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>101</item>
+        <item>102</item>
+        <item>20</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="click_menu_entries">
+        <item>Off screen</item>
+        <item>Power menu</item>
+        <item>Return</item>
+        <item>Home Page</item>
+        <item>Recent Tasks</item>
+        <item>Menu</item>
+        <item>The volume increases</item>
+        <item>The volume is reduced</item>
+        <item>Dial</item>
+        <item>Search for</item>
+        <item>Sound / Vibration / Mute</item>
+        <item>End the current process</item>
+        <item>Flashlight</item>
+        <item>Screenshot</item>
+        <item>Notification Bar</item>
+        <item>Wireless</item>
+        <item>Data</item>
+        <item>Bluetooth</item>
+        <item>Turn on the camera</item>
+        <item>Multi-task split screen</item>
+        <item>Memory cleanup</item>
+        <item>Nothing</item>
+    </string-array>
+    <string-array name="click_menu_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>101</item>
+        <item>102</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="long_menu_entries">
+        <item>Off screen</item>
+        <item>Power menu</item>
+        <item>Return</item>
+        <item>Home Page</item>
+        <item>Recent Tasks</item>
+        <item>Menu</item>
+        <item>The volume increases</item>
+        <item>The volume is reduced</item>
+        <item>Dial</item>
+        <item>Search for</item>
+        <item>Sound / Vibration / Mute</item>
+        <item>End the current process</item>
+        <item>Flashlight</item>
+        <item>Screenshot</item>
+        <item>Notification Bar</item>
+        <item>Wireless</item>
+        <item>Data</item>
+        <item>Bluetooth</item>
+        <item>Camera</item>
+        <item>Split Screen</item>
+        <item>Specifies the program</item>
+        <item>Memory cleanup</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="long_menu_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>101</item>
+        <item>102</item>
+        <item>18</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="double_tap_actions">
+        <item>Turn off the screen</item>
+        <item>No action</item>
+    </string-array>
+    <string-array name="double_tap_values">
+        <item>0</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="CallDelayName">
+        <item>Without Delay</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="CallDelayValue">
+        <item>0</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="tomatolei_clock_style_entries">
+        <item>Centered</item>
+        <item>Keep Right</item>
+        <item>Left</item>
+    </string-array>
+    <string-array name="tomatolei_clock_style_values">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tomatolei_clock_weekday_entries">
+        <item>Hide week</item>
+        <item>Smaller weeks</item>
+        <item>Normal week</item>
+    </string-array>
+    <string-array name="tomatolei_clock_weekday_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tomatolei_entries_status_bar_am_pm">
+        <item>Big</item>
+        <item>Small</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="tomatolei_clock_date_format_entries">
+        <item>Day/Month/Short year</item>
+        <item>Short year/Month/Day</item>
+        <item>Long year-Month-Day</item>
+        <item>Day-Month-Long Year</item>
+        <item>Day-Long Month</item>
+        <item>Short day</item>
+        <item>Long day</item>
+        <item>Day number</item>
+        <item>Short day-Day number</item>
+        <item>Long day-Day number</item>
+        <item>Long day-Day/Month</item>
+        <item>Long day-Month/Day</item>
+        <item>Short day-Day/Month</item>
+        <item>Short day-Month/Day</item>
+    </string-array>
+    <string-array name="tomatolei_clock_date_format_values">
+        <item>dd/MM/yy</item>
+        <item>yy/MM/dd</item>
+        <item>yyyy-MM-dd</item>
+        <item>dd-MM-yyyy</item>
+        <item>MMM dd</item>
+        <item>EEEEE</item>
+        <item>EEE</item>
+        <item>dd</item>
+        <item>EEEEE dd</item>
+        <item>EEE dd</item>
+        <item>EEE dd/MM</item>
+        <item>EEE MM/dd</item>
+        <item>EEEEE dd/MM</item>
+        <item>EEEEE MM/dd</item>
+    </string-array>
+    <string-array name="tomatolei_clock_date_style_entries">
+        <item>Normal</item>
+        <item>Lower case</item>
+        <item>Capital</item>
+    </string-array>
+    <string-array name="tomatolei_clock_date_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
