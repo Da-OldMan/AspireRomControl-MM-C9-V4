@@ -1,19 +1,111 @@
 [
     {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_2.jpeg",
+        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_5.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\td.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\td.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\mhmdalsfaf.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\mhmdalsfaf.gif"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_6.jpg",
+        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\tamirda.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\tamirda.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_4.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\android.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\android.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_1.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\geite94.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\geite94.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\darkera13.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\darkera13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_5.jpg",
+        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\gharrington.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\gharrington.gif"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\android.jpg",
+        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\android.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\asc1977.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\asc1977.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\thereassaad.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\thereassaad.gif"
+    },
+    {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_1.jpg",
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\tdunham.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\tdunham.gif"
     },
     {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_4.jpg",
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_4.jpg"
     },
     {
-        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_2.jpeg",
-        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_2.jpeg"
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\chainfire.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\chainfire.gif"
     },
     {
-        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_6.jpg",
-        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_6.jpg"
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_6.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\edzamber.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\edzamber.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\daxgirl.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\daxgirl.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\ambasadii.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\ambasadii.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\killswitch.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\killswitch.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\oweshs28.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\oweshs28.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_3.jpg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_3.jpg"
     },
     {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\td.jpg",
@@ -24,11 +116,19 @@
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_3.jpg"
     },
     {
-        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_5.jpg",
-        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_5.jpg"
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\ananjaser1211.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\ananjaser1211.gif"
     },
     {
-        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\android.jpg",
-        "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\android.jpg"
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\wuby986.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\wuby986.gif"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\icon_2.jpeg",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\icon_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\logel.gif",
+        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\logel.gif"
     }
 ]

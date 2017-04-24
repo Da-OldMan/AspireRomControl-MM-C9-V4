@@ -56,43 +56,76 @@
         <item>XDA</item>
     </string-array>
     <array name="about_credits_drawables">
+        <item>@drawable/daxgirl</item>
+        <item>@drawable/wuby986</item>
+        <item>@drawable/thereassaad</item>
+        <item>@drawable/geite94</item>
+        <item>@drawable/oweshs28</item>
+        <item>@drawable/ambasadii</item>
+        <item>@drawable/edzamber</item>
+        <item>@drawable/mhmdalsfaf</item>
+        <item>@drawable/darkera13</item>
+        <item>@drawable/gharrington</item>
+        <item>@drawable/chainfire</item>
+        <item>@drawable/tamirda</item>
+        <item>@drawable/tdunham</item>
+        <item>@drawable/ananjaser1211</item>
         <item>@drawable/icon_1</item>
-        <item>@drawable/icon_3</item>
-        <item>@drawable/icon_4</item>
-        <item>@drawable/icon_2</item>
-        <item>@drawable/icon_6</item>
-        <item>@drawable/icon_5</item>
+
     </array>
     <string-array name="about_credits_links" translatable="false">
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
-        <item>http://forum.xda-developers.com/</item>
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
-        <item>http://forum.xda-developers.com/</item>
+        <item>https://forum.xda-developers.com/member.php?u=4714483</item>
+        <item>https://forum.xda-developers.com/member.php?u=5493353</item>
+        <item>https://forum.xda-developers.com/member.php?u=5405448</item>
+        <item>https://forum.xda-developers.com/member.php?u=1649452</item>
+        <item>https://forum.xda-developers.com/member.php?u=6006523</item>
+        <item>https://forum.xda-developers.com/member.php?u=4074799</item>
+        <item>https://forum.xda-developers.com/member.php?u=4507636</item>
+        <item>https://forum.xda-developers.com/member.php?u=5901755</item>
+        <item>https://forum.xda-developers.com/member.php?u=4696762</item>
+        <item>https://forum.xda-developers.com/member.php?u=4619873</item>
+        <item>https://forum.xda-developers.com/member.php?u=631273</item>
+        <item>https://forum.xda-developers.com/member.php?u=2739548</item>
+        <item>https://forum.xda-developers.com/member.php?u=1042140</item>
+        <item>https://forum.xda-developers.com/member.php?u=4637718</item>
+        <item>http://bbs.gfan.com</item>
     </string-array>
     <string-array name="about_credits_names">
-        <item>Star Trek - for being ultimately better than Star Wars</item>
-        <item>Jean-Luc Picard - for making us crave hot earl-grey tea even in the middle of the summer</item>
-        <item>Data - for running on the best rom. Google, we still are waiting for THAT android version</item>
-        <item>Janeway - for being a normal person and drinking black coffee</item>
-        <item>Q - for reminding us that you can live forever and still look great</item>
-        <item>Worf - for teaching us to love Klingons. It was NOT easy</item>
+        <item>DaxGirl-Thanks for awesome RC App and awesome mods.</item>
+        <item>Wuby986-Thanks For Your awesome Private Mode fix.</item>
+        <item>Thereassaad-Thanks For always helping us</item>
+        <item>geiti94- Thanks for 32 bit apps tips, framework fix guide</item>
+        <item>Ouwesh- Thanks for helping with Chinese weather mate</item>
+        <item>ambasadii- Thanks for the hardware info problem solution</item>
+        <item>edzamber- Thanks for the sBrowser updates</item>
+        <item>mhmdalsfaf-  Thanks for the Adreno drivers</item>
+        <item>darkera13- The master of note3 ports, ever</item>
+        <item>gharrington- The great 3minit dev</item>
+        <item>Chainfire- The root expert</item>
+        <item>tamirda- Thanks for bringing back toggles for us. Thanks for always being there to help</item>
+        <item>tdunham-Thanks for the mods thread and personal </item>
+        <item>Ananjaser1211– Thanks for the SystemUI theme mod</item>
+        <item>Norma-Thanks for your base and your never ending updates</item>
+
+
     </string-array>
     <array name="about_team_drawables">
         <item>@drawable/icon_5</item>
-        <item>@drawable/icon_6</item>
+        <item>@drawable/killswitch</item>
+        <item>@drawable/logel</item>
         <item>@drawable/icon_1</item>
     </array>
     <string-array name="about_team_links" translatable="false">
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
+        <item>https://forum.xda-developers.com/member.php?u=3026895</item>
+        <item>https://forum.xda-developers.com/member.php?u=7098450</item>
+        <item>https://forum.xda-developers.com/member.php?u=3901205</item>
         <item>http://forum.xda-developers.com/</item>
     </string-array>
     <string-array name="about_team_names">
-        <item>Master Yoda - wise and talented lead developer</item>
-        <item>Luke Skywalker - one handed theme master</item>
-        <item>Darth Vader - dark theme master</item>
+        <item>DaOldMan</item>
+        <item>KiLL-SwitCH</item>
+        <item>Logel</item>
+        <item>Nahum</item>
     </string-array>
     <string-array name="arrow_position_entries">
         <item>Left</item>

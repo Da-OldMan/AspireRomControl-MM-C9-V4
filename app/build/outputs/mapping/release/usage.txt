@@ -51,7 +51,7 @@ android.support.coreutils.BuildConfig
 android.support.coreutils.R
 android.support.design.BuildConfig
 android.support.design.R:
-    9:1241:public R()
+    9:9:public R()
 android.support.design.R$anim:
     10:10:public R$anim()
 android.support.design.R$attr:
@@ -4010,7 +4010,7 @@ android.support.v7.app.WindowDecorActionBar$ActionModeImpl:
 android.support.v7.app.WindowDecorActionBar$TabImpl
 android.support.v7.appcompat.BuildConfig
 android.support.v7.appcompat.R:
-    9:1014:public R()
+    9:9:public R()
 android.support.v7.appcompat.R$anim
 android.support.v7.appcompat.R$attr:
     22:22:public R$attr()
@@ -4035,7 +4035,7 @@ android.support.v7.appcompat.R$styleable:
     1014:1014:public R$styleable()
 android.support.v7.cardview.BuildConfig
 android.support.v7.cardview.R:
-    9:40:public R()
+    9:9:public R()
 android.support.v7.cardview.R$attr
 android.support.v7.cardview.R$color:
     23:23:public R$color()
@@ -4080,7 +4080,7 @@ android.support.v7.graphics.drawable.DrawerArrowDrawable:
 android.support.v7.graphics.drawable.DrawerArrowDrawable$ArrowDirection
 android.support.v7.recyclerview.BuildConfig
 android.support.v7.recyclerview.R:
-    9:24:public R()
+    9:9:public R()
 android.support.v7.recyclerview.R$attr
 android.support.v7.recyclerview.R$dimen
 android.support.v7.recyclerview.R$id
@@ -5185,7 +5185,7 @@ com.stericson.RootTools.internal.RootToolsInternalMethods$9
 com.stericson.RootTools.internal.Runner
 com.wubydax.romcontrol.v2.BuildConfig
 com.wubydax.romcontrol.v2.R:
-    10:3904:public R()
+    10:10:public R()
 com.wubydax.romcontrol.v2.R$anim
 com.wubydax.romcontrol.v2.R$animator
 com.wubydax.romcontrol.v2.R$array
@@ -5203,7 +5203,7 @@ com.wubydax.romcontrol.v2.R$raw
 com.wubydax.romcontrol.v2.R$string
 com.wubydax.romcontrol.v2.R$style
 com.wubydax.romcontrol.v2.R$styleable:
-    3904:3904:public R$styleable()
+    3921:3921:public R$styleable()
 com.wubydax.romcontrol.v2.R$xml
 com.wubydax.romcontrol.v2.prefs.ColorPickerDialog:
     178:178:public boolean getHexValueEnabled()
@@ -5261,7 +5261,7 @@ de.hdodenhof.circleimageview.CircleImageView:
     private static final boolean DEFAULT_BORDER_OVERLAY
     187:187:public boolean isBorderOverlay()
 de.hdodenhof.circleimageview.R:
-    9:16:public R()
+    9:9:public R()
 de.hdodenhof.circleimageview.R$attr
 de.hdodenhof.circleimageview.R$styleable:
     16:16:public R$styleable()
