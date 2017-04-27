@@ -39,11 +39,9 @@
         <item>http://forum.xda-developers.com/</item>
     </string-array>
 
-
-
     <!--Team info arrays-->
     <array name="about_team_drawables">
-        <item>@drawable/icon_5</item>
+        <item>@drawable/icebullet_silons2</item>
         <item>@drawable/killswitch</item>
         <item>@drawable/logel</item>
         <item>@drawable/icon_1</item>
@@ -58,10 +56,8 @@
         <item>https://forum.xda-developers.com/member.php?u=3026895</item>
         <item>https://forum.xda-developers.com/member.php?u=7098450</item>
         <item>https://forum.xda-developers.com/member.php?u=3901205</item>
-        <item>http://forum.xda-developers.com/</item>
+        <item>https://forum.xda-developers.com/member.php?u=4412157</item>
     </string-array>
-
-
 
     <!--Credits and thanks info arrays-->
     <array name="about_credits_drawables">

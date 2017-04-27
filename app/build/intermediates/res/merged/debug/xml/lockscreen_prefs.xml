@@ -30,7 +30,7 @@
         android:summaryOn="Displayed"
         android:title="Lockscreen camera icon" />
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-        android:defaultValue="true"
+        android:defaultValue="false"
         android:key="nrom_lockscreen_lunar"
         android:summaryOff="Disabled"
         android:summaryOn="Enabled"
@@ -47,13 +47,4 @@
         android:summaryOn="Visible"
         android:title="Weather on Lockscreen"
         app:packageNameToKill="com.android.systemui" />
-    <PreferenceScreen
-        android:key="key_private_mode"
-        android:persistent="false"
-        android:title="Private Mode">
-        <intent
-            android:action="android.intent.action.MAIN"
-            android:targetClass="com.android.settings.personalpage.PersonalPageSettings"
-            android:targetPackage="com.android.settings" />
-    </PreferenceScreen>
 </PreferenceScreen>

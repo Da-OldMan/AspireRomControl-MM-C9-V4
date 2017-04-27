@@ -2,7 +2,6 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <PreferenceScreen
-        android:icon="@drawable/ic_norm_4"
         android:summary="Setup the 3 virtual buttons on the Statusbar"
         android:title="Virtual Buttons">
         <PreferenceScreen android:title="LockScreen Key">
@@ -67,7 +66,6 @@
         </PreferenceScreen>
     </PreferenceScreen>
     <PreferenceScreen
-        android:icon="@drawable/ic_norm_2"
         android:summary="Clock, date&amp;week statusbar display settings"
         android:title="Status bar date&amp;clock">
         <SwitchPreference
@@ -114,7 +112,6 @@
             android:title="Week Day&amp;Date format" />
     </PreferenceScreen>
     <PreferenceScreen
-        android:icon="@drawable/ic_setting_grid_blockingmdoe"
         android:summary="Customize Position of Icons on Statusbar"
         android:title="Statusbar Icons">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
@@ -148,7 +145,6 @@
             app:scriptFileName="themes.sh" />
     </PreferenceScreen>
     <PreferenceScreen
-        android:icon="@drawable/ic_setting_grid_powersaving"
         android:summary="Customize the statusbar battery icon"
         android:title="Battery icon">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
@@ -197,7 +193,7 @@
                 android:key="battery_bar_thickness"
                 android:title="Battery Bar thickness" />
             <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
-                android:defaultValue="\#ff33b5e5"
+                android:defaultValue="#ff33b5e5"
                 android:key="battery_bar_color"
                 android:summary="Choose the Battery Bar color"
                 android:title="Battery Bar Color" />
@@ -216,7 +212,6 @@
             app:scriptFileName="bl2.sh" />
     </PreferenceScreen>
     <PreferenceScreen
-        android:icon="@drawable/ic_norm_5"
         android:summary="Display Cusom Carrier on the Statusbar"
         android:title="Carrier Display on Statusbar">
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
@@ -231,7 +226,6 @@
             android:title="Customized carrier name" />
     </PreferenceScreen>
     <PreferenceScreen
-        android:icon="@drawable/ic_setting_grid_tethering"
         android:summary="Internet traffic speed display"
         android:title="Traffic Speed display">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
@@ -286,11 +280,11 @@
             android:summaryOn="Text and arrows can be individually colored"
             android:title="Customize traffic colors" />
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
-            android:defaultValue="\#ffffff"
+            android:defaultValue="#ffffff"
             android:key="network_traffic_color"
             android:title="Traffic text color" />
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
-            android:defaultValue="\#ffffff"
+            android:defaultValue="#ffffff"
             android:dependency="network_traffic_global_color"
             android:key="network_traffic_arrow_color"
             android:title="Arrow Color" />

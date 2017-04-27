@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Hamza-Zaharna\Desktop\AspireRomControl-MM-C9-V2\app\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\Hamza-Zaharna\Desktop\AspireRomControl-MM-C9-V2\app\src\release\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\release\jniLibs"/></dataSet></merger>

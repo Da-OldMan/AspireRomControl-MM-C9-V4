@@ -24,13 +24,14 @@
     MAKE SURE THE ITEMS IN ALL 3 ARRAYS CORRESPOND IN ORDER AND ALL 3 ARRAYS ARE SAME LENGTH-->
     <array name="nav_menu_prefs_drawables">
         <item>@drawable/ic_web_asset_black_24dp</item> <!-- StatusBar Prefs-->
-        <item>@drawable/ic_norm_3</item>       <!--Lockscreen Setting-->
-        <item>@drawable/ic_norm_7</item>       <!--Other apps-->
-        <item>@drawable/paint_bucket</item>    <!--Keys Customisation-->
+        <item>@drawable/ic_screen_lock_portrait_black_24dp</item>       <!--Lockscreen Setting-->
+        <item>@drawable/ic_apps_black_24dp</item>       <!--Other apps-->
+        <item>@drawable/ic_vpn_key_black_24dp</item>    <!--Keys Customisation-->
         <item>@drawable/ic_phone</item>       <!--Call Prefs-->
-        <item>@drawable/nnotegrid</item>       <!--Power Menu-->
-        <item>@drawable/ic_norm_4</item>       <!--Theme menu-->
-        <item>@drawable/ic_setting_grid_security</item>         <!--Secret Menus-->
+        <item>@drawable/ic_menu_black_24dp</item>       <!--Power Menu-->
+        <item>@drawable/ic_wallpaper_black_24dp</item>       <!--Theme menu-->
+        <item>@drawable/ic_restaurant_menu_black_24dp</item>         <!--Secret Menus-->
+        <item>@drawable/ic_mood_black_24dp</item>
     </array>
 
 
@@ -46,6 +47,7 @@
         <item>@string/powermenu_prefs</item>
         <item>@string/theme_prefs</item>
         <item>@string/secretcodes_prefs</item>
+        <item>@string/othermods_prefs</item>
     </string-array>
 
 
@@ -62,6 +64,7 @@
         <item>powermenu_prefs</item>
         <item>theme_prefs</item>
         <item>secretcodes_prefs</item>
+        <item>othermods_prefs</item>
     </string-array>
 
 </resources>

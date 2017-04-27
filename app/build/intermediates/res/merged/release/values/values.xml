@@ -93,24 +93,24 @@
     <string-array name="about_credits_names">
         <item>DaxGirl-Thanks for awesome RC App and awesome mods.</item>
         <item>Wuby986-Thanks For Your awesome Private Mode fix.</item>
-        <item>Thereassaad-Thanks For always helping us</item>
-        <item>geiti94- Thanks for 32 bit apps tips, framework fix guide</item>
-        <item>Ouwesh- Thanks for helping with Chinese weather mate</item>
-        <item>ambasadii- Thanks for the hardware info problem solution</item>
-        <item>edzamber- Thanks for the sBrowser updates</item>
-        <item>mhmdalsfaf-  Thanks for the Adreno drivers</item>
-        <item>darkera13- The master of note3 ports, ever</item>
-        <item>gharrington- The great 3minit dev</item>
-        <item>Chainfire- The root expert</item>
-        <item>tamirda- Thanks for bringing back toggles for us. Thanks for always being there to help</item>
-        <item>tdunham-Thanks for the mods thread and personal </item>
-        <item>Ananjaser1211– Thanks for the SystemUI theme mod</item>
-        <item>Norma-Thanks for your base and your never ending updates</item>
+        <item>Thereassaad-Thanks For always helping us.</item>
+        <item>geiti94- Thanks for 32 bit apps tips, framework fix guide.</item>
+        <item>Ouwesh- Thanks for helping with Chinese weather mate.</item>
+        <item>ambasadii- Thanks for the hardware info problem solution.</item>
+        <item>edzamber- Thanks for the sBrowser updates.</item>
+        <item>mhmdalsfaf-  Thanks for the Adreno drivers.</item>
+        <item>darkera13- The master of note3 ports, ever.</item>
+        <item>gharrington- The great 3minit dev.</item>
+        <item>Chainfire- The root expert.</item>
+        <item>tamirda- Thanks for bringing back toggles for us. Thanks for always being there to help.</item>
+        <item>tdunham-Thanks for the mods thread and personal.</item>
+        <item>Ananjaser1211– Thanks for the SystemUI theme mod.</item>
+        <item>Norma-Thanks for your base and your never ending updates.</item>
 
 
     </string-array>
     <array name="about_team_drawables">
-        <item>@drawable/icon_5</item>
+        <item>@drawable/icebullet_silons2</item>
         <item>@drawable/killswitch</item>
         <item>@drawable/logel</item>
         <item>@drawable/icon_1</item>
@@ -119,7 +119,7 @@
         <item>https://forum.xda-developers.com/member.php?u=3026895</item>
         <item>https://forum.xda-developers.com/member.php?u=7098450</item>
         <item>https://forum.xda-developers.com/member.php?u=3901205</item>
-        <item>http://forum.xda-developers.com/</item>
+        <item>https://forum.xda-developers.com/member.php?u=4412157</item>
     </string-array>
     <string-array name="about_team_names">
         <item>DaOldMan</item>
@@ -1124,13 +1124,14 @@ Oct/16/2014"</item>
     </string-array>
     <array name="nav_menu_prefs_drawables">
         <item>@drawable/ic_web_asset_black_24dp</item> <!-- StatusBar Prefs-->
-        <item>@drawable/ic_norm_3</item>       <!--Lockscreen Setting-->
-        <item>@drawable/ic_norm_7</item>       <!--Other apps-->
-        <item>@drawable/paint_bucket</item>    <!--Keys Customisation-->
+        <item>@drawable/ic_screen_lock_portrait_black_24dp</item>       <!--Lockscreen Setting-->
+        <item>@drawable/ic_apps_black_24dp</item>       <!--Other apps-->
+        <item>@drawable/ic_vpn_key_black_24dp</item>    <!--Keys Customisation-->
         <item>@drawable/ic_phone</item>       <!--Call Prefs-->
-        <item>@drawable/nnotegrid</item>       <!--Power Menu-->
-        <item>@drawable/ic_norm_4</item>       <!--Theme menu-->
-        <item>@drawable/ic_setting_grid_security</item>         <!--Secret Menus-->
+        <item>@drawable/ic_menu_black_24dp</item>       <!--Power Menu-->
+        <item>@drawable/ic_wallpaper_black_24dp</item>       <!--Theme menu-->
+        <item>@drawable/ic_restaurant_menu_black_24dp</item>         <!--Secret Menus-->
+        <item>@drawable/ic_mood_black_24dp</item>
     </array>
     <string-array name="nav_menu_prefs_titles">
         <item>@string/statusbar_prefs</item>
@@ -1141,6 +1142,7 @@ Oct/16/2014"</item>
         <item>@string/powermenu_prefs</item>
         <item>@string/theme_prefs</item>
         <item>@string/secretcodes_prefs</item>
+        <item>@string/othermods_prefs</item>
     </string-array>
     <string-array name="nav_menu_xml_file_names" translatable="false">
         <item>statusbar_prefs</item>
@@ -1151,6 +1153,7 @@ Oct/16/2014"</item>
         <item>powermenu_prefs</item>
         <item>theme_prefs</item>
         <item>secretcodes_prefs</item>
+        <item>othermods_prefs</item>
     </string-array>
     <string-array name="power_doubletap">
         <item>Disabled</item>
@@ -2180,6 +2183,7 @@ Oct/16/2014"</item>
     <string name="no_su_dialog_message">We could not acquire root access on your device.\n\nMost of this app\'s functions can be performed without root access. However, you might experience problems with running scripts or rebooting.\n\nWe strongly recommend to allow root access on next request or allow such access in your Su client manually.</string>
     <string name="no_su_dialog_title">No root privileges</string>
     <string name="notification_panel_prefs">Notification panel prefs</string>
+    <string name="othermods_prefs">Other Mods</string>
     <string name="phone_prefs">Phone prefs</string>
     <string name="powermenu_prefs">Power Menu</string>
     <string name="press_color_to_apply">Press to apply</string>
@@ -2202,7 +2206,7 @@ Oct/16/2014"</item>
     <string name="run_script_confirm_dialog_positive_button">Yes, run</string>
     <string name="run_script_confirm_dialog_title">Confirmation required</string>
     <string name="search_menu_title">Search</string>
-    <string name="secretcodes_prefs">Hidden menus</string>
+    <string name="secretcodes_prefs">Hidden Menus</string>
     <string name="set_theme">Set theme</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="statusbar_prefs">Statusbar Options</string>

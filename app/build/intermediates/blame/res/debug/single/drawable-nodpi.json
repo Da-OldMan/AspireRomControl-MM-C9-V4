@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\potatoclock.png",
-        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\potatoclock.png"
-    },
-    {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\google_ic.png",
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\google_ic.png"
     },
@@ -12,15 +8,7 @@
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\potatoclock.png"
     },
     {
-        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\header.png",
-        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\header.png"
-    },
-    {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\header.png",
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\header.png"
-    },
-    {
-        "merged": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\google_ic.png",
-        "source": "C:\\Users\\Hamza-Zaharna\\Desktop\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\drawable-nodpi\\google_ic.png"
     }
 ]
