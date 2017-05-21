@@ -68,7 +68,7 @@
     <PreferenceScreen
         android:summary="Clock, date&amp;week statusbar display settings"
         android:title="Status bar date&amp;clock">
-        <SwitchPreference
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="true"
             android:key="tomatolei_status_bar_clock"
             android:summaryOff="Disabled"
@@ -110,39 +110,6 @@
             android:key="tomatolei_statusbar_clock_date_format"
             android:summary="%s"
             android:title="Week Day&amp;Date format" />
-    </PreferenceScreen>
-    <PreferenceScreen
-        android:summary="Customize Position of Icons on Statusbar"
-        android:title="Statusbar Icons">
-        <com.wubydax.romcontrol.v2.prefs.MyListPreference
-            android:defaultValue="0"
-            android:entries="@array/SignalPositionName"
-            android:entryValues="@array/SignalPositionValue"
-            android:key="leftsignal"
-            android:title="Signal Position" />
-        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-            android:defaultValue="1"
-            android:key="man_dualsim_layout"
-            android:summaryOff="Disabled"
-            android:summaryOn="Enabled"
-            android:title="Pulldown Dual Simcard Display"
-            app:packageNameToKill="com.android.systemui" />
-        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-            android:defaultValue="1"
-            android:key="man_show_sim_icon"
-            android:summaryOff="Hide"
-            android:summaryOn="Display"
-            android:title="Statusbar SimCard Icons"
-            app:isSilent="true"
-            app:packageNameToKill="com.android.systemui" />
-        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
-            android:summary="Hide 4G3G2G icons when Wifi is enabled"
-            android:title="Hide networking icons on Wifi"
-            app:scriptFileName="theme.sh" />
-        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
-            android:summary="Show 4G3G2G icons when Wifi is enabled"
-            android:title="Show networking icons on Wifi"
-            app:scriptFileName="themes.sh" />
     </PreferenceScreen>
     <PreferenceScreen
         android:summary="Customize the statusbar battery icon"
@@ -202,14 +169,6 @@
             android:summary="Launch 3minit battery settings"
             android:title="3Minit battery settings"
             app:componentName="com.three.minit.minitbatterysettings/com.three.minit.minitbatterysettings.MainActivity" />
-        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
-            android:summary="Display stock battery icon"
-            android:title="Stock Battery"
-            app:scriptFileName="bl1.sh" />
-        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference
-            android:summary="Display green stock battery icon"
-            android:title="Green Battery"
-            app:scriptFileName="bl2.sh" />
     </PreferenceScreen>
     <PreferenceScreen
         android:summary="Display Cusom Carrier on the Statusbar"
@@ -289,4 +248,10 @@
             android:key="network_traffic_arrow_color"
             android:title="Arrow Color" />
     </PreferenceScreen>
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:entries="@array/SignalPositionName"
+            android:entryValues="@array/SignalPositionValue"
+            android:key="leftsignal"
+            android:title="Signal Position" />
 </PreferenceScreen>

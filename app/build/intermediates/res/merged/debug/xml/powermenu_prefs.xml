@@ -31,12 +31,12 @@
         android:summaryOff="Disabled"
         android:summaryOn="Enabled"
         android:title="Recovery mode" />
-    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-        android:defaultValue="false"
-        android:key="power_download"
-        android:summaryOff="Disabled"
-        android:summaryOn="Enabled"
-        android:title="Download mode" />
+    <!--<com.wubydax.romcontrol.v2.prefs.MySwitchPreference-->
+        <!--android:defaultValue="false"-->
+        <!--android:key="power_download"-->
+        <!--android:summaryOff="Disabled"-->
+        <!--android:summaryOn="Enabled"-->
+        <!--android:title="Download mode" />-->
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
         android:key="power_emergency"

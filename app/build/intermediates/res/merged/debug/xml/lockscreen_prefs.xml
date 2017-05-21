@@ -18,18 +18,6 @@
         android:title="Charging information"
         app:packageNameToKill="com.android.systemui" />
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-        android:defaultValue="true"
-        android:key="set_shortcuts_phone"
-        android:summaryOff="Hidden"
-        android:summaryOn="Displayed"
-        android:title="Lockscreen phone icon" />
-    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-        android:defaultValue="true"
-        android:key="set_shortcuts_mode"
-        android:summaryOff="Hidden"
-        android:summaryOn="Displayed"
-        android:title="Lockscreen camera icon" />
-    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
         android:key="nrom_lockscreen_lunar"
         android:summaryOff="Disabled"
@@ -39,7 +27,8 @@
         android:defaultValue="17"
         android:key="aod_brightness"
         android:title="Aod Brightness Control"
-        app:maxValue="100" />
+        app:maxValue="100"
+        app:rebootDevice="true" />
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
         android:key="JJDS_weather_visibility"

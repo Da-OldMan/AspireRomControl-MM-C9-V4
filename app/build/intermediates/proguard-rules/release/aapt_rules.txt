@@ -114,9 +114,9 @@
 
 # view res/xml/phone_prefs.xml #generated:43
 # view res/xml/phone_prefs.xml #generated:47
-# view res/xml/statusbar_prefs.xml #generated:195
-# view res/xml/statusbar_prefs.xml #generated:282
-# view res/xml/statusbar_prefs.xml #generated:286
+# view res/xml/statusbar_prefs.xml #generated:162
+# view res/xml/statusbar_prefs.xml #generated:241
+# view res/xml/statusbar_prefs.xml #generated:245
 # view res/xml/ui_prefs.xml #generated:104
 # view res/xml/ui_prefs.xml #generated:525
 # view res/xml/ui_prefs.xml #generated:542
@@ -146,7 +146,7 @@
 # view res/xml/ui_prefs.xml #generated:71
 -keep class com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference { <init>(...); }
 
-# view res/xml/statusbar_prefs.xml #generated:223
+# view res/xml/statusbar_prefs.xml #generated:182
 # view res/xml/ui_prefs.xml #generated:164
 -keep class com.wubydax.romcontrol.v2.prefs.MyEditTextPreference { <init>(...); }
 
@@ -161,21 +161,21 @@
 # view res/xml/phone_prefs.xml #generated:51
 # view res/xml/statusbar_prefs.xml #generated:105
 # view res/xml/statusbar_prefs.xml #generated:117
+# view res/xml/statusbar_prefs.xml #generated:138
 # view res/xml/statusbar_prefs.xml #generated:150
-# view res/xml/statusbar_prefs.xml #generated:171
-# view res/xml/statusbar_prefs.xml #generated:183
-# view res/xml/statusbar_prefs.xml #generated:189
-# view res/xml/statusbar_prefs.xml #generated:231
+# view res/xml/statusbar_prefs.xml #generated:156
+# view res/xml/statusbar_prefs.xml #generated:190
+# view res/xml/statusbar_prefs.xml #generated:210
 # view res/xml/statusbar_prefs.xml #generated:251
 # view res/xml/statusbar_prefs.xml #generated:89
 # view res/xml/statusbar_prefs.xml #generated:97
 # view res/xml/ui_prefs.xml #generated:155
 -keep class com.wubydax.romcontrol.v2.prefs.MyListPreference { <init>(...); }
 
-# view res/xml/lockscreen_prefs.xml #generated:38
+# view res/xml/lockscreen_prefs.xml #generated:26
 # view res/xml/phone_prefs.xml #generated:57
-# view res/xml/statusbar_prefs.xml #generated:264
-# view res/xml/statusbar_prefs.xml #generated:271
+# view res/xml/statusbar_prefs.xml #generated:223
+# view res/xml/statusbar_prefs.xml #generated:230
 # view res/xml/statusbar_prefs.xml #generated:84
 # view res/xml/ui_prefs.xml #generated:119
 # view res/xml/ui_prefs.xml #generated:125
@@ -186,37 +186,34 @@
 # view res/xml/keys_prefs.xml #generated:5
 # view res/xml/lockscreen_prefs.xml #generated:13
 # view res/xml/lockscreen_prefs.xml #generated:20
-# view res/xml/lockscreen_prefs.xml #generated:26
 # view res/xml/lockscreen_prefs.xml #generated:32
 # view res/xml/lockscreen_prefs.xml #generated:4
-# view res/xml/lockscreen_prefs.xml #generated:43
+# view res/xml/othermods_prefs.xml #generated:10
 # view res/xml/othermods_prefs.xml #generated:4
 # view res/xml/phone_prefs.xml #generated:17
 # view res/xml/powermenu_prefs.xml #generated:10
 # view res/xml/powermenu_prefs.xml #generated:16
 # view res/xml/powermenu_prefs.xml #generated:22
 # view res/xml/powermenu_prefs.xml #generated:28
-# view res/xml/powermenu_prefs.xml #generated:34
 # view res/xml/powermenu_prefs.xml #generated:4
 # view res/xml/powermenu_prefs.xml #generated:40
 # view res/xml/statusbar_prefs.xml #generated:123
-# view res/xml/statusbar_prefs.xml #generated:130
+# view res/xml/statusbar_prefs.xml #generated:129
 # view res/xml/statusbar_prefs.xml #generated:14
-# view res/xml/statusbar_prefs.xml #generated:156
-# view res/xml/statusbar_prefs.xml #generated:162
-# view res/xml/statusbar_prefs.xml #generated:177
+# view res/xml/statusbar_prefs.xml #generated:144
+# view res/xml/statusbar_prefs.xml #generated:176
+# view res/xml/statusbar_prefs.xml #generated:196
 # view res/xml/statusbar_prefs.xml #generated:20
+# view res/xml/statusbar_prefs.xml #generated:203
 # view res/xml/statusbar_prefs.xml #generated:217
-# view res/xml/statusbar_prefs.xml #generated:237
-# view res/xml/statusbar_prefs.xml #generated:244
-# view res/xml/statusbar_prefs.xml #generated:258
-# view res/xml/statusbar_prefs.xml #generated:276
+# view res/xml/statusbar_prefs.xml #generated:235
 # view res/xml/statusbar_prefs.xml #generated:28
 # view res/xml/statusbar_prefs.xml #generated:34
 # view res/xml/statusbar_prefs.xml #generated:40
 # view res/xml/statusbar_prefs.xml #generated:48
 # view res/xml/statusbar_prefs.xml #generated:54
 # view res/xml/statusbar_prefs.xml #generated:60
+# view res/xml/statusbar_prefs.xml #generated:71
 # view res/xml/statusbar_prefs.xml #generated:77
 # view res/xml/statusbar_prefs.xml #generated:8
 # view res/xml/ui_prefs.xml #generated:33
@@ -227,7 +224,7 @@
 # view res/xml/ui_prefs.xml #generated:62
 -keep class com.wubydax.romcontrol.v2.prefs.MySwitchPreference { <init>(...); }
 
-# view res/xml/statusbar_prefs.xml #generated:201
+# view res/xml/statusbar_prefs.xml #generated:168
 # view res/xml/ui_prefs.xml #generated:21
 # view res/xml/ui_prefs.xml #generated:348
 # view res/xml/ui_prefs.xml #generated:352
@@ -235,10 +232,6 @@
 # view res/xml/ui_prefs.xml #generated:364
 -keep class com.wubydax.romcontrol.v2.prefs.OpenAppPreference { <init>(...); }
 
-# view res/xml/statusbar_prefs.xml #generated:138
-# view res/xml/statusbar_prefs.xml #generated:142
-# view res/xml/statusbar_prefs.xml #generated:205
-# view res/xml/statusbar_prefs.xml #generated:209
 # view res/xml/theme_prefs.xml #generated:5
 # view res/xml/theme_prefs.xml #generated:9
 # view res/xml/ui_prefs.xml #generated:397

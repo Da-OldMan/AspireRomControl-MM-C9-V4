@@ -27,15 +27,11 @@
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
     <string-array name="about_contact_us_text">
-        <item>Facebook</item>
-        <item>Our Site</item>
         <item>XDA</item>
     </string-array>
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
     <string-array name="about_contact_us_links" translatable="false">
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
         <item>http://forum.xda-developers.com/</item>
     </string-array>
 
@@ -64,7 +60,7 @@
         <item>@drawable/daxgirl</item>
         <item>@drawable/wuby986</item>
         <item>@drawable/thereassaad</item>
-        <item>@drawable/geite94</item>
+        <item>@drawable/geiti94</item>
         <item>@drawable/oweshs28</item>
         <item>@drawable/ambasadii</item>
         <item>@drawable/edzamber</item>
@@ -79,21 +75,21 @@
 
     </array>
     <string-array name="about_credits_names">
-        <item>DaxGirl-Thanks for awesome RC App and awesome mods.</item>
-        <item>Wuby986-Thanks For Your awesome Private Mode fix.</item>
-        <item>Thereassaad-Thanks For always helping us.</item>
-        <item>geiti94- Thanks for 32 bit apps tips, framework fix guide.</item>
-        <item>Ouwesh- Thanks for helping with Chinese weather mate.</item>
-        <item>ambasadii- Thanks for the hardware info problem solution.</item>
-        <item>edzamber- Thanks for the sBrowser updates.</item>
-        <item>mhmdalsfaf-  Thanks for the Adreno drivers.</item>
-        <item>darkera13- The master of note3 ports, ever.</item>
-        <item>gharrington- The great 3minit dev.</item>
-        <item>Chainfire- The root expert.</item>
-        <item>tamirda- Thanks for bringing back toggles for us. Thanks for always being there to help.</item>
-        <item>tdunham-Thanks for the mods thread and personal.</item>
-        <item>Ananjaser1211– Thanks for the SystemUI theme mod.</item>
-        <item>Norma-Thanks for your base and your never ending updates.</item>
+        <item>DaxGirl - Awesome Rom Control&amp;WubyDax work.</item>
+        <item>Wuby986 - Private Mode fix&amp;WubyDax work</item>
+        <item>Thereassaad - AirCommand&amp;Tons of help</item>
+        <item>Geiti94 - 32 bit apps tips&amp;framework fix guide.</item>
+        <item>Ouwesh - Chinese rom perks&amp;just beeing nice.</item>
+        <item>Ambasadii -Hardware info problem solution.</item>
+        <item>Edzamber - sBrowser updates.</item>
+        <item>Mhmdalsfaf - Adreno drivers.</item>
+        <item>Darkera13 - The master of note3 ports, ever.</item>
+        <item>Gharrington - 3minit dev.</item>
+        <item>Chainfire - The root expert.</item>
+        <item>Tamirda - Bringing back toggles&amp;being there to help.</item>
+        <item>Tdunham - Awesome mods thread&amp;being there to help.</item>
+        <item>Ananjaser1211 – SystemUI theme mod.</item>
+        <item>NormaTeam - Base,mods and tons of bugs.</item>
 
 
     </string-array>

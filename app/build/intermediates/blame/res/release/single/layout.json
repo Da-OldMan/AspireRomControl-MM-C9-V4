@@ -1,19 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\Thomas\\.android\\build-cache\\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\changelog_item.xml",
         "source": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\src\\main\\res\\layout\\changelog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Thomas\\.android\\build-cache\\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\Thomas\\AndroidStudioProjects\\AspireRomControl-MM-C9-V2\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",

@@ -7,6 +7,12 @@
         android:summaryOff="Displayed"
         android:summaryOn="Hidden"
         android:title="Roaming Ongoing Notification" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="Heads-up Notifications"
+        android:key="heads_up_notifications_enabled"
+        android:defaultValue="false"
+        android:summaryOn="Heads-up notifications are disabled"
+        android:summaryOff="Heads-up notifications are enabled" />
 	<PreferenceScreen
         android:key="key_private_mode"
         android:persistent="false"
