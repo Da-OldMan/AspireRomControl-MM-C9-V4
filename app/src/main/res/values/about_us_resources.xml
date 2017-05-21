@@ -60,8 +60,8 @@
         <item>@drawable/daxgirl</item>
         <item>@drawable/wuby986</item>
         <item>@drawable/thereassaad</item>
-        <item>@drawable/geiti94</item>
         <item>@drawable/oweshs28</item>
+        <item>@drawable/geiti94</item>
         <item>@drawable/ambasadii</item>
         <item>@drawable/edzamber</item>
         <item>@drawable/mhmdalsfaf</item>
@@ -76,10 +76,10 @@
     </array>
     <string-array name="about_credits_names">
         <item>DaxGirl - Awesome Rom Control&amp;WubyDax work.</item>
-        <item>Wuby986 - Private Mode fix&amp;WubyDax work</item>
+        <item>Wuby986 - Private Mode fix&amp;DpiChanger&amp;WubyDax work</item>
         <item>Thereassaad - AirCommand&amp;Tons of help</item>
+        <item>Ouwesh - Chinese rom perks&amp;just being nice.</item>
         <item>Geiti94 - 32 bit apps tips&amp;framework fix guide.</item>
-        <item>Ouwesh - Chinese rom perks&amp;just beeing nice.</item>
         <item>Ambasadii -Hardware info problem solution.</item>
         <item>Edzamber - sBrowser updates.</item>
         <item>Mhmdalsfaf - Adreno drivers.</item>
@@ -97,8 +97,8 @@
         <item>https://forum.xda-developers.com/member.php?u=4714483</item>
         <item>https://forum.xda-developers.com/member.php?u=5493353</item>
         <item>https://forum.xda-developers.com/member.php?u=5405448</item>
-        <item>https://forum.xda-developers.com/member.php?u=1649452</item>
         <item>https://forum.xda-developers.com/member.php?u=6006523</item>
+        <item>https://forum.xda-developers.com/member.php?u=1649452</item>
         <item>https://forum.xda-developers.com/member.php?u=4074799</item>
         <item>https://forum.xda-developers.com/member.php?u=4507636</item>
         <item>https://forum.xda-developers.com/member.php?u=5901755</item>

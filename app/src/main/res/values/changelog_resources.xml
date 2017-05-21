@@ -46,7 +46,7 @@
         <item>Fixed art updating string</item>
         <item>New mod for showing model in settings</item>
         <item>Fixed short number Sms in framework</item>
-        <item>Perfomance fix in framework (thanks @geiti)</item>
+        <item>Performance fix in framework (thanks @geiti)</item>
         <item>Fixed confirmation power menu dialog in framework</item>
         <item>Fixed Chinese strings in weather</item>
         <item>Cable connection doesn\'t ask for access permission when connected by cable</item>
@@ -62,6 +62,8 @@
         <item>New full sized icon for Aspire Rom Control</item>
         <item>Implanted s8 calculator with conversions</item>
         <item>Added S8 power menu Icons</item>
+        <item>Fixed default CSC</item>
+        <item>Replaced DpiChanger app</item>
     </string-array>
 
     <!--This will be the dialog title.
