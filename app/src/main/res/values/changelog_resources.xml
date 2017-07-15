@@ -9,67 +9,45 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items">
-        <item>Removed all Chinese apps&amp;trojan</item>
-        <item>Translated framework</item>
-        <item>Fixed Gps in framework&amp;conf (thanks @logel)</item>
-        <item>Removed useless 64 bit libs</item>
-        <item>Added English versions of Chinese apps</item>
-        <item>Added google apps</item>
-        <item>New Samsung ported keyboard. HandWriting is disabled but everything else works 100%.</item>
-        <item>Replaced Toolbox app (thanks @daxgirl)</item>
-        <item>New RomControl V2.1 – translated, reorganized from scratch</item>
-        <item>Fixed hardware test</item>
-        <item>Fixed QuickTools</item>
-        <item>Added CSC to Aroma</item>
-        <item>Translated Aroma</item>
-        <item>Fixed YouTube freezes</item>
-        <item>Removed call/msg spam filter</item>
-        <item>Fixed Google Play Services permissions</item>
-        <item>Changed default app installer</item>
-        <item>Default locale is CSC dependent</item>
-        <item>Fixed BlueLight filter auto activating without end</item>
-        <item>Fixed SmartStay</item>
-        <item>Disabled&amp;Fixed diagnostic info</item>
-        <item>Removed possibility to enable diagnostic info at setup wizard</item>
-        <item>Fixed batterybar settings</item>
-        <item>Fixed clock size slider</item>
-        <item>Updated 3minit settings app</item>
-        <item>Added mod for roaming notification in Rom Control</item>
-        <item>Fixed TwLauncher default layout on first startup</item>
-        <item>Fixed default quick toggles order</item>
-        <item>Fixed signature V2 mod</item>
-        <item>Fixed Aroma and updated</item>
-        <item>Added native blur on pulldown</item>
-        <item>Added and fixed Private Mode including toggle</item>
-        <item>Fixed Ultra Saving Mode quick toggle</item>
-        <item>Added Toolbox&amp;MultiWindows quick toggle</item>
-        <item>Fixed art updating string</item>
-        <item>New mod for showing model in settings</item>
-        <item>Fixed short number Sms in framework</item>
-        <item>Performance fix in framework (thanks @geiti)</item>
-        <item>Fixed confirmation power menu dialog in framework</item>
-        <item>Fixed Chinese strings in weather</item>
-        <item>Cable connection doesn\'t ask for access permission when connected by cable</item>
-        <item>New s8 TwLauncher (thanks @jjjhitel)</item>
-        <item>Changed kernel to Phantom where possible</item>
-        <item>Fixed telephony port</item>
-        <item>Fixed contacts fc when using auto-fix on pictures taken</item>
-        <item>Removed non working mods from Rom Control</item>
-        <item>New S-Music implanted</item>
-        <item>Fixed Display Clock on StatusBar mod in Rom Control</item>
-        <item>Fixed Charging info mod in framework (thanks @thereAssad)</item>
-        <item>Fixed AOD brightness mod in framework</item>
-        <item>New full sized icon for Aspire Rom Control</item>
-        <item>Implanted s8 calculator with conversions</item>
-        <item>Added S8 power menu Icons</item>
-        <item>Fixed default CSC</item>
-        <item>Replaced DpiChanger app</item>
+        <item>Multi-Language Rom</item>
+        <item>Fixed SPen Keeper</item>
+        <item>Added MultiLanguage Contacts &amp; Provider</item>
+        <item>Double Tap to Sleep mod added (thanks thereAssad)</item>
+        <item>Fixed Am/Pm mod (thanks to Norma for more bugs)</item>
+        <item>Fixed HeadsUp Notification in RC</item>
+        <item>Added rotation of LockScreen</item>
+        <item>Compressed some big apps</item>
+        <item>Fixed AutoBrightness bug in framework (thanks TDunham)</item>
+        <item>Grouxho Status Official Mod</item>
+        <item>Removed quickpin unlock Aurora bugged mod</item>
+        <item>Grouping mod added</item>
+        <item>Fixed power profile in framework</item>
+        <item>Added blur mod in notification</item>
+        <item>Remoded S8 with a. Sliding toggles on top, Nougat brightness toggle on top, 6 toggles in a row (thanks Craftingmod)</item>
+        <item>Data usage automatic mod</item>
+        <item>Added 1st and 2nd swipe brightness in all SystemUI</item>
+        <item>Password security fixed (thanks Norma)</item>
+        <item>Removed theme store mods - xda complience</item>
+        <item>Link Share fixed</item>
+        <item>QuickConnect added to launcher (thanks DaxGirl)</item>
+        <item>Fixed blank space on brightness on first swipe thanks to josephpatrick</item>
+        <item>Fixed s8 clock mod thanks to Oidy</item>
+        <item>Added TUR csc thanks to Eleo</item>
+        <item>Fixed SmartSwitch &amp; UniversalSwitch</item>
+        <item>Updated tzdata to 6/17</item>
+        <item>Fixed BTU default launcher home screens</item>
+        <item>Fixed magnifier in toolbox</item>
+        <item>Reprogrammed toolbox settings</item>
+        <item>Rom Control 3minit fix (thanks DaxGirl)</item>
+        <item>Loudness maximum reworked</item>
+        <item>Notification icons only view layout fixed</item>
+
     </string-array>
 
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog">V2.0, Aspire Rom</string>
+    <string name="rom_version_for_changelog">V3.0, Aspire Rom</string>
 
 
 </resources>

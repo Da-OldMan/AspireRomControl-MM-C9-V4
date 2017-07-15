@@ -234,10 +234,15 @@ Oct/16/2014"</item>
         <item>16</item>
         <item>17</item>
     </string-array>
-    <string-array name="entries_status_bar_am_pm">
+    <string-array name="tomatolei_statusbar_clock_am_pm_style_entries">
         <item>"Don't show"</item>
         <item>Small AM/PM</item>
         <item>Regular AM/PM</item>
+    </string-array>
+    <string-array name="tomatolei_statusbar_clock_am_pm_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="gear_reboot_entries">
         <item>Off</item>
@@ -260,84 +265,6 @@ Oct/16/2014"</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </string-array>
-    <string-array name="home_doubletap">
-        <item>Disabled</item>
-        <item>Application</item>
-        <item>Flashlight</item>
-        <item>Kill App</item>
-        <item>Recent Apps</item>
-        <item>Screenshot</item>
-        <item>Screen Recorder</item>
-        <item>Google Now</item>
-        <item>Voice Command</item>
-        <item>Lock Phone</item>
-        <item>Menu</item>
-    </string-array>
-    <string-array name="home_doubletap_values">
-        <item>8</item>
-        <item>4</item>
-        <item>5</item>
-        <item>3</item>
-        <item>1</item>
-        <item>2</item>
-        <item>6</item>
-        <item>7</item>
-        <item>0</item>
-        <item>9</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="home_longpress">
-        <item>Disabled</item>
-        <item>Application</item>
-        <item>Flashlight</item>
-        <item>Kill App</item>
-        <item>Recent Apps</item>
-        <item>Screenshot</item>
-        <item>Screen Recorder</item>
-        <item>Google Now</item>
-        <item>Voice Command</item>
-        <item>Lock Phone</item>
-        <item>Menu</item>
-    </string-array>
-    <string-array name="home_longpress_values">
-        <item>8</item>
-        <item>4</item>
-        <item>5</item>
-        <item>2</item>
-        <item>0</item>
-        <item>1</item>
-        <item>6</item>
-        <item>7</item>
-        <item>3</item>
-        <item>9</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="home_tripletap">
-        <item>Disabled</item>
-        <item>Application</item>
-        <item>Flashlight</item>
-        <item>Kill App</item>
-        <item>Recent Apps</item>
-        <item>Screenshot</item>
-        <item>Screen Recorder</item>
-        <item>Google Now</item>
-        <item>Voice Command</item>
-        <item>Lock Phone</item>
-        <item>Menu</item>
-    </string-array>
-    <string-array name="home_tripletap_values">
-        <item>0</item>
-        <item>5</item>
-        <item>6</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-        <item>9</item>
-        <item>10</item>
     </string-array>
     <string-array name="immersive_entries">
         <item>Show Statusbar (Default)</item>
@@ -524,11 +451,6 @@ Oct/16/2014"</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </string-array>
-    <string-array name="values_status_bar_am_pm">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="crop_entries1">
         <item>Center crop</item>
@@ -752,73 +674,29 @@ Oct/16/2014"</item>
         <item>9</item>
         <item>10</item>
     </string-array>
-    <string-array name="double_home_entries">
-        <item>Return</item>
-        <item>Recent Tasks</item>
-        <item>Menu</item>
-        <item>The volume increases</item>
-        <item>The volume is reduced</item>
-        <item>Dial</item>
-        <item>Search for</item>
-        <item>Sound / Vibration / Mute</item>
-        <item>End the current process</item>
-        <item>Flashlight</item>
-        <item>Screenshot</item>
-        <item>Notification Bar</item>
-        <item>Wireless</item>
-        <item>Data</item>
-        <item>Bluetooth</item>
-        <item>Camera</item>
-        <item>Split Screen</item>
-        <item>Specifies the program</item>
-        <item>Memory cleanup</item>
-        <item>Nothing</item>
-    </string-array>
-    <string-array name="double_home_values">
-        <item>2</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>101</item>
-        <item>102</item>
-        <item>21</item>
-        <item>23</item>
-        <item>999</item>
-    </string-array>
     <string-array name="long_back_entries">
-        <item>Off screen</item>
+        <item>Screen Off</item>
         <item>Power menu</item>
-        <item>Return</item>
-        <item>Home Page</item>
-        <item>Recent Tasks</item>
-        <item>menu</item>
-        <item>The volume increases</item>
-        <item>The volume is reduced</item>
-        <item>Dial</item>
-        <item>Search for</item>
-        <item>Sound / Vibration / Mute</item>
-        <item>End the current process</item>
-        <item>Flashlight</item>
-        <item>Screenshot</item>
-        <item>Notification Bar</item>
-        <item>Wireless</item>
-        <item>Data</item>
-        <item>Bluetooth</item>
-        <item>Camera</item>
+        <item>Return key</item>
+        <item>Go to Home Page</item>
+        <item>Recents</item>
+        <item>Menu key</item>
+        <item>Increase volume</item>
+        <item>Reduce volume</item>
+        <item>Dialer</item>
+        <item>Search (depends on front app)</item>
+        <item>Sound/Vibration/Mute Toggle</item>
+        <item>Kill the current process</item>
+        <item>Toggle Flashlight</item>
+        <item>Take a Screenshot</item>
+        <item>Pull the Notification Bar</item>
+        <item>Toggle WiFi</item>
+        <item>Toggle Data</item>
+        <item>Toggle Bluetooth</item>
+        <item>Camera (N7 only)</item>
         <item>Split Screen</item>
-        <item>Specifies the program</item>
-        <item>Memory cleanup</item>
+        <item>Run specified app</item>
+        <item>Memory cleaner</item>
         <item>Nothing</item>
     </string-array>
     <string-array name="long_back_values">
@@ -847,26 +725,26 @@ Oct/16/2014"</item>
         <item>999</item>
     </string-array>
     <string-array name="long_home_entries">
-        <item>Return</item>
-        <item>Recent Tasks</item>
-        <item>Menu</item>
-        <item>The volume increases</item>
-        <item>The volume is reduced</item>
-        <item>Dial</item>
-        <item>Search for</item>
-        <item>Sound / Vibration / Mute</item>
-        <item>End the current process</item>
-        <item>Flashlight</item>
-        <item>Screenshot</item>
-        <item>Notification Bar</item>
-        <item>Wireless</item>
-        <item>Data</item>
-        <item>Bluetooth</item>
-        <item>Camera</item>
+        <item>Back Key</item>
+        <item>Recents</item>
+        <item>Menu Key</item>
+        <item>Increase volume</item>
+        <item>Reduce volume</item>
+        <item>Dialer</item>
+        <item>Search (depends on front app)</item>
+        <item>Sound/Vibration/Mute Toggle</item>
+        <item>Kill the current process</item>
+        <item>Toggle Flashlight</item>
+        <item>Take a Screenshot</item>
+        <item>Pull Notification Bar</item>
+        <item>Toggle WiFi</item>
+        <item>Toggle Data</item>
+        <item>Toggle Bluetooth</item>
+        <item>Camera (N7 only)</item>
         <item>Split Screen</item>
-        <item>Specifies the program</item>
-        <item>Memory cleanup</item>
-        <item>Nothing</item>
+        <item>Run specified app</item>
+        <item>Memory cleaner</item>
+        <item>Do Nothing</item>
     </string-array>
     <string-array name="long_home_values">
         <item>2</item>
@@ -1033,11 +911,6 @@ Oct/16/2014"</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="tomatolei_entries_status_bar_am_pm">
-        <item>Big</item>
-        <item>Small</item>
-        <item>Hide</item>
     </string-array>
     <string-array name="tomatolei_clock_date_format_entries">
         <item>Day/Month/Short year</item>

@@ -32,7 +32,7 @@
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
     <string-array name="about_contact_us_links" translatable="false">
-        <item>http://forum.xda-developers.com/</item>
+        <item>https://forum.xda-developers.com/galaxy-note-3/development/rom-aspireteam-c9-pro-v2-0-t3610152</item>
     </string-array>
 
     <!--Team info arrays-->
@@ -71,7 +71,11 @@
         <item>@drawable/tamirda</item>
         <item>@drawable/tdunham</item>
         <item>@drawable/ananjaser1211</item>
+        <item>@drawable/grouxho</item>
+        <item>@drawable/eleo</item>
+        <item>@drawable/icon_2</item>
         <item>@drawable/icon_1</item>
+        <item>@drawable/icon_3</item>
 
     </array>
     <string-array name="about_credits_names">
@@ -88,8 +92,12 @@
         <item>Chainfire - The root expert.</item>
         <item>Tamirda - Bringing back toggles&amp;being there to help.</item>
         <item>Tdunham - Awesome mods thread&amp;being there to help.</item>
-        <item>Ananjaser1211 – SystemUI theme mod.</item>
+        <item>Ananjaser1211 – SystemUI theme mod&amp;being so nice</item>
+        <item>Grouxho - Official status mod.</item>
+        <item>Eleo - beta testing, TUR csc &amp; being a friend</item>
+        <item>Craftingmod - thanks for S8 brightness bar mod.</item>
         <item>NormaTeam - Base,mods and tons of bugs.</item>
+        <item>Oidy - S8 clock mod</item>
 
 
     </string-array>
@@ -108,6 +116,10 @@
         <item>https://forum.xda-developers.com/member.php?u=2739548</item>
         <item>https://forum.xda-developers.com/member.php?u=1042140</item>
         <item>https://forum.xda-developers.com/member.php?u=4637718</item>
+        <item>https://forum.xda-developers.com/member.php?u=4985020</item>
+        <item>https://forum.xda-developers.com/member.php?u=4598795</item>
+        <item>https://forum.xda-developers.com/member.php?u=7937275</item>
         <item>http://bbs.gfan.com</item>
+        <item>https://forum.xda-developers.com/member.php?u=6781297</item>
     </string-array>
 </resources>

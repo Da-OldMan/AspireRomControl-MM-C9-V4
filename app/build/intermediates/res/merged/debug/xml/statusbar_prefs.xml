@@ -22,7 +22,7 @@
                 android:key="cocoyaya_centerlock"
                 android:summaryOff="Disabled"
                 android:summaryOn="Enabled"
-                android:title="In the MiddleIn the Middle" />
+                android:title="In the Middle" />
         </PreferenceScreen>
         <PreferenceScreen android:title="Home Key">
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
@@ -67,7 +67,7 @@
     </PreferenceScreen>
     <PreferenceScreen
         android:summary="Clock, date&amp;week statusbar display settings"
-        android:title="Status bar date&amp;clock">
+        android:title="Status bar date &amp; clock">
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="true"
             android:key="tomatolei_status_bar_clock"
@@ -94,6 +94,14 @@
             android:key="tomatolei_statusbar_clock_style"
             android:summary="%s"
             android:title="Clock position" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="2"
+            android:dependency="tomatolei_status_bar_clock"
+            android:entries="@array/tomatolei_statusbar_clock_am_pm_style_entries"
+            android:entryValues="@array/tomatolei_statusbar_clock_am_pm_style_values"
+            android:key="tomatolei_statusbar_clock_am_pm_style"
+            android:summary="%s"
+            android:title="Am/Pm Style" />
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:defaultValue="0"
             android:dependency="tomatolei_status_bar_clock"
@@ -166,12 +174,12 @@
                 android:title="Battery Bar Color" />
         </PreferenceScreen>
         <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
-            android:summary="Launch 3minit battery settings"
-            android:title="3Minit battery settings"
-            app:componentName="com.three.minit.minitbatterysettings/com.three.minit.minitbatterysettings.MainActivity" />
+            android:summary="Launch the 3minit battery settings (free or payed if installed)"
+            android:title="3Minit Battery Settings"
+            app:componentName="com.three.minit.minitbatterysettings.free/com.three.minit.minitbatterysettings.MainActivity" />
     </PreferenceScreen>
     <PreferenceScreen
-        android:summary="Display Cusom Carrier on the Statusbar"
+        android:summary="Display Custom Carrier on the Statusbar"
         android:title="Carrier Display on Statusbar">
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="0"
@@ -248,10 +256,37 @@
             android:key="network_traffic_arrow_color"
             android:title="Arrow Color" />
     </PreferenceScreen>
-        <com.wubydax.romcontrol.v2.prefs.MyListPreference
-            android:defaultValue="0"
-            android:entries="@array/SignalPositionName"
-            android:entryValues="@array/SignalPositionValue"
-            android:key="leftsignal"
-            android:title="Signal Position" />
+    <com.wubydax.romcontrol.v2.prefs.MyListPreference
+        android:defaultValue="0"
+        android:entries="@array/SignalPositionName"
+        android:entryValues="@array/SignalPositionValue"
+        android:key="leftsignal"
+        android:title="Signal Position" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="aspire_is_sb_dt2s"
+        android:summaryOff="Double tap on Statusbar to sleep is disabled"
+        android:summaryOn="Double tap on Statusbar to sleep is enabled"
+        android:title="Double tap on Statusbar to sleep" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="aspire_upper_brightness"
+        android:summaryOff="Brightness Slider on First Swipe is Disabled"
+        android:summaryOn="Brightness Slider on First Swipe is Enabled"
+        android:title="Brightness Slider on First Swipe"
+        app:packageNameToKill="com.android.systemui" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="aspire_noti_grouping"
+        android:summaryOff="Grouped Notifications is Disabled"
+        android:summaryOn="Grouped Notifications is Enabled"
+        android:title="Notification Grouping"
+        app:packageNameToKill="com.android.systemui" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="aspire_noti_blur"
+        android:summaryOff="Blur on Pulldown is Disabled"
+        android:summaryOn="Blur on Pulldown is Enabled"
+        android:title="Blur on Pulldown Screen"
+        app:packageNameToKill="com.android.systemui" />
 </PreferenceScreen>

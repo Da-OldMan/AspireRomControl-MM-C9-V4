@@ -11,9 +11,6 @@ import android.preference.Preference;
 import android.preference.PreferenceManager;
 import android.text.TextUtils;
 import android.util.AttributeSet;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.LinearLayout;
 
 import com.wubydax.romcontrol.v2.MyApp;
 import com.wubydax.romcontrol.v2.R;
@@ -58,14 +55,25 @@ public class OpenAppPreference extends Preference {
     }
 
     private void initPreference(String componentName) {
-
+        PackageManager packageManager = mContext.getPackageManager();
         String[] components = componentName.split("/");
         mIntent = new Intent();
-        ComponentName component = new ComponentName(components[0], components[1]);
+        String packageName = components[0];
+        String activityName = components[1];
+        if (packageName.equals("com.three.minit.minitbatterysettings.free") && isPaidThreeMinitInstalled("com.three.minit.minitbatterysettings", activityName))
+            packageName = "com.three.minit.minitbatterysettings";
+
+        ComponentName component = new ComponentName(packageName, activityName);
         mIntent.setComponent(component);
-        PackageManager packageManager = mContext.getPackageManager();
+
         mResolveInfo = packageManager.resolveActivity(mIntent, 0);
 
+    }
+
+    private boolean isPaidThreeMinitInstalled(String packageName, String activityName) {
+        Intent intent = new Intent();
+        intent.setComponent(new ComponentName(packageName, activityName));
+        return (getContext().getPackageManager().resolveActivity(intent, 0)) != null;
     }
 
     @Override

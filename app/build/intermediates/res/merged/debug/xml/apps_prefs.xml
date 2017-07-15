@@ -22,7 +22,7 @@
     <PreferenceScreen
         android:persistent="false"
         android:summary="Add apps to ultra power saving mode"
-        android:title="Ultra power saving program">
+        android:title="Ultra power saving mode">
         <intent
             android:action="android.intent.action.MAIN"
             android:targetClass="mobi.xperiacle.upsm.manager.MainActivity"

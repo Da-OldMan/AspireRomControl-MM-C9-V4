@@ -57,7 +57,7 @@
     <string name="restore_dialog_description">This action will restore the following items to stock colors</string>
     <string name="statusbar_prefs">Statusbar Options</string>
     <string name="lockscreen_prefs">Lockscreen Options</string>
-    <string name="apps_prefs">Usefull Apps</string>
+    <string name="apps_prefs">Useful Apps</string>
     <string name="keys_prefs">Hardware keys customization</string>
     <string name="call_prefs">Call Settings</string>
     <string name="powermenu_prefs">Power Menu</string>

@@ -29,7 +29,6 @@
         <item>@drawable/ic_vpn_key_black_24dp</item>    <!--Keys Customisation-->
         <item>@drawable/ic_phone</item>       <!--Call Prefs-->
         <item>@drawable/ic_menu_black_24dp</item>       <!--Power Menu-->
-        <item>@drawable/ic_wallpaper_black_24dp</item>       <!--Theme menu-->
         <item>@drawable/ic_restaurant_menu_black_24dp</item>         <!--Secret Menus-->
         <item>@drawable/ic_mood_black_24dp</item>
     </array>
@@ -45,7 +44,6 @@
         <item>@string/keys_prefs</item>
         <item>@string/call_prefs</item>
         <item>@string/powermenu_prefs</item>
-        <item>@string/theme_prefs</item>
         <item>@string/secretcodes_prefs</item>
         <item>@string/othermods_prefs</item>
     </string-array>
@@ -62,7 +60,6 @@
         <item>keys_prefs</item>
         <item>call_prefs</item>
         <item>powermenu_prefs</item>
-        <item>theme_prefs</item>
         <item>secretcodes_prefs</item>
         <item>othermods_prefs</item>
     </string-array>

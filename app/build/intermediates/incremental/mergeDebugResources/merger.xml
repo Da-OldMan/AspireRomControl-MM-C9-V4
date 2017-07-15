@@ -1801,7 +1801,7 @@
         <item name="tabMode">fixed</item>
     </style><dimen name="design_snackbar_action_inline_max_width">0dp</dimen><dimen name="design_snackbar_padding_vertical_2lines">@dimen/design_snackbar_padding_vertical</dimen><dimen name="design_snackbar_max_width">576dp</dimen><dimen name="design_snackbar_extra_spacing_horizontal">24dp</dimen><dimen name="design_snackbar_min_width">320dp</dimen><integer name="design_snackbar_text_max_lines">1</integer><dimen name="design_snackbar_background_corner_radius">2dp</dimen><dimen name="design_navigation_max_width">320dp</dimen><dimen name="design_tab_scrollable_min_width">160dp</dimen></file><file path="C:\Users\Thomas\.android\build-cache\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\output\res\values-v21\values-v21.xml" qualifiers="v21"><style name="Widget.Design.AppBarLayout" parent="Base.Widget.Design.AppBarLayout">
         <item name="android:stateListAnimator">@anim/design_appbar_state_list_animator</item>
-    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res"><file name="fade_in" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="fadein" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\animator\fadein.xml" qualifiers="" type="animator"/><file name="fadeout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\animator\fadeout.xml" qualifiers="" type="animator"/><file name="nav_items_selector_dark" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\color\nav_items_selector_dark.xml" qualifiers="" type="color"/><file name="nav_items_selector_light" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\color\nav_items_selector_light.xml" qualifiers="" type="color"/><file name="bg" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\bg.xml" qualifiers="" type="drawable"/><file name="dialog_bg" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\dialog_bg.xml" qualifiers="" type="drawable"/><file name="dialog_bg_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\dialog_bg_main.xml" qualifiers="" type="drawable"/><file name="ic_apps_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_apps_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_arrow" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_arrow.xml" qualifiers="" type="drawable"/><file name="ic_backup_restore" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_backup_restore.xml" qualifiers="" type="drawable"/><file name="ic_changelog" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_changelog.xml" qualifiers="" type="drawable"/><file name="ic_framework" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_framework.xml" qualifiers="" type="drawable"/><file name="ic_info" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_info.xml" qualifiers="" type="drawable"/><file name="ic_menu_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_menu_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_mood_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_mood_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_notification_panel" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_notification_panel.xml" qualifiers="" type="drawable"/><file name="ic_phone" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_phone.xml" qualifiers="" type="drawable"/><file name="ic_reboot" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_reboot.xml" qualifiers="" type="drawable"/><file name="ic_restaurant_menu_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_restaurant_menu_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_screen_lock_portrait_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_screen_lock_portrait_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_system_ui" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_system_ui.xml" qualifiers="" type="drawable"/><file name="ic_theme" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_theme.xml" qualifiers="" type="drawable"/><file name="ic_vpn_key_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_vpn_key_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_wallpaper_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_wallpaper_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_web_asset_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_web_asset_black_24dp.xml" qualifiers="" type="drawable"/><file name="inset_dialog_bg" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\inset_dialog_bg.xml" qualifiers="" type="drawable"/><file name="protective_gradient_bottom" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\protective_gradient_bottom.xml" qualifiers="" type="drawable"/><file name="protective_semi_transparent_black" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\protective_semi_transparent_black.xml" qualifiers="" type="drawable"/><file name="protective_view_gradient_top" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\protective_view_gradient_top.xml" qualifiers="" type="drawable"/><file name="ambasadii" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\ambasadii.gif" qualifiers="nodpi-v4" type="drawable"/><file name="ananjaser1211" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\ananjaser1211.gif" qualifiers="nodpi-v4" type="drawable"/><file name="android" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\android.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="asc1977" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\asc1977.gif" qualifiers="nodpi-v4" type="drawable"/><file name="chainfire" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\chainfire.gif" qualifiers="nodpi-v4" type="drawable"/><file name="darkera13" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\darkera13.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="daxgirl" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\daxgirl.gif" qualifiers="nodpi-v4" type="drawable"/><file name="edzamber" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\edzamber.gif" qualifiers="nodpi-v4" type="drawable"/><file name="geiti94" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\geiti94.gif" qualifiers="nodpi-v4" type="drawable"/><file name="gharrington" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\gharrington.gif" qualifiers="nodpi-v4" type="drawable"/><file name="google_ic" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\google_ic.png" qualifiers="nodpi-v4" type="drawable"/><file name="header" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\header.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icebullet_silons2" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icebullet_silons2.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_1" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_1.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_2" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_2.jpeg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_3" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_3.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_4" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_4.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_5" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_5.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_6" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_6.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="killswitch" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\killswitch.gif" qualifiers="nodpi-v4" type="drawable"/><file name="logel" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\logel.gif" qualifiers="nodpi-v4" type="drawable"/><file name="mhmdalsfaf" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\mhmdalsfaf.gif" qualifiers="nodpi-v4" type="drawable"/><file name="oweshs28" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\oweshs28.gif" qualifiers="nodpi-v4" type="drawable"/><file name="potatoclock" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\potatoclock.png" qualifiers="nodpi-v4" type="drawable"/><file name="tamirda" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\tamirda.gif" qualifiers="nodpi-v4" type="drawable"/><file name="td" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\td.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="tdunham" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\tdunham.gif" qualifiers="nodpi-v4" type="drawable"/><file name="thereassaad" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\thereassaad.gif" qualifiers="nodpi-v4" type="drawable"/><file name="wuby986" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\wuby986.gif" qualifiers="nodpi-v4" type="drawable"/><file name="about_activity_content" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\about_activity_content.xml" qualifiers="" type="layout"/><file name="about_contact_us_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\about_contact_us_item.xml" qualifiers="" type="layout"/><file name="about_people_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\about_people_item.xml" qualifiers="" type="layout"/><file name="activity_about" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\activity_about.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="app_bar_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\app_bar_main.xml" qualifiers="" type="layout"/><file name="app_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\app_item.xml" qualifiers="" type="layout"/><file name="changelog_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\changelog_item.xml" qualifiers="" type="layout"/><file name="content_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\content_main.xml" qualifiers="" type="layout"/><file name="dialog_color_picker" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\dialog_color_picker.xml" qualifiers="" type="layout"/><file name="global_restore_preference_dialog_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\global_restore_preference_dialog_layout.xml" qualifiers="" type="layout"/><file name="intent_dialog_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\intent_dialog_layout.xml" qualifiers="" type="layout"/><file name="intent_preference_app_icon" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\intent_preference_app_icon.xml" qualifiers="" type="layout"/><file name="nav_header_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\nav_header_main.xml" qualifiers="" type="layout"/><file name="nested_preference_toolbar_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\nested_preference_toolbar_layout.xml" qualifiers="" type="layout"/><file name="preference_header_general" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\preference_header_general.xml" qualifiers="" type="layout"/><file name="reboot_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\reboot_item.xml" qualifiers="" type="layout"/><file name="reboot_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\reboot_layout.xml" qualifiers="" type="layout"/><file name="seekbar_preference_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\seekbar_preference_layout.xml" qualifiers="" type="layout"/><file name="thumbnail_item_view" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\thumbnail_item_view.xml" qualifiers="" type="layout"/><file name="thumbnail_preference_dialog_view" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\thumbnail_preference_dialog_view.xml" qualifiers="" type="layout"/><file name="thumbnail_preference_icon" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\thumbnail_preference_icon.xml" qualifiers="" type="layout"/><file name="dialog_color_picker" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout-land\dialog_color_picker.xml" qualifiers="land" type="layout"/><file name="reboot_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout-land\reboot_layout.xml" qualifiers="land" type="layout"/><file name="activity_main_drawer" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\menu\activity_main_drawer.xml" qualifiers="" type="menu"/><file name="main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="keep" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\raw\keep.xml" qualifiers="" type="raw"/><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\about_us_resources.xml" qualifiers=""><array name="about_team_drawables">
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res"><file name="fade_in" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="fadein" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\animator\fadein.xml" qualifiers="" type="animator"/><file name="fadeout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\animator\fadeout.xml" qualifiers="" type="animator"/><file name="nav_items_selector_dark" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\color\nav_items_selector_dark.xml" qualifiers="" type="color"/><file name="nav_items_selector_light" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\color\nav_items_selector_light.xml" qualifiers="" type="color"/><file name="bg" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\bg.xml" qualifiers="" type="drawable"/><file name="dialog_bg" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\dialog_bg.xml" qualifiers="" type="drawable"/><file name="dialog_bg_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\dialog_bg_main.xml" qualifiers="" type="drawable"/><file name="ic_apps_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_apps_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_arrow" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_arrow.xml" qualifiers="" type="drawable"/><file name="ic_backup_restore" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_backup_restore.xml" qualifiers="" type="drawable"/><file name="ic_changelog" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_changelog.xml" qualifiers="" type="drawable"/><file name="ic_framework" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_framework.xml" qualifiers="" type="drawable"/><file name="ic_info" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_info.xml" qualifiers="" type="drawable"/><file name="ic_menu_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_menu_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_mood_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_mood_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_notification_panel" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_notification_panel.xml" qualifiers="" type="drawable"/><file name="ic_phone" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_phone.xml" qualifiers="" type="drawable"/><file name="ic_reboot" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_reboot.xml" qualifiers="" type="drawable"/><file name="ic_restaurant_menu_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_restaurant_menu_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_screen_lock_portrait_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_screen_lock_portrait_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_system_ui" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_system_ui.xml" qualifiers="" type="drawable"/><file name="ic_theme" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_theme.xml" qualifiers="" type="drawable"/><file name="ic_vpn_key_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_vpn_key_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_wallpaper_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_wallpaper_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_web_asset_black_24dp" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\ic_web_asset_black_24dp.xml" qualifiers="" type="drawable"/><file name="inset_dialog_bg" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\inset_dialog_bg.xml" qualifiers="" type="drawable"/><file name="protective_gradient_bottom" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\protective_gradient_bottom.xml" qualifiers="" type="drawable"/><file name="protective_semi_transparent_black" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\protective_semi_transparent_black.xml" qualifiers="" type="drawable"/><file name="protective_view_gradient_top" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable\protective_view_gradient_top.xml" qualifiers="" type="drawable"/><file name="ambasadii" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\ambasadii.gif" qualifiers="nodpi-v4" type="drawable"/><file name="ananjaser1211" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\ananjaser1211.gif" qualifiers="nodpi-v4" type="drawable"/><file name="android" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\android.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="asc1977" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\asc1977.gif" qualifiers="nodpi-v4" type="drawable"/><file name="chainfire" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\chainfire.gif" qualifiers="nodpi-v4" type="drawable"/><file name="darkera13" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\darkera13.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="daxgirl" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\daxgirl.gif" qualifiers="nodpi-v4" type="drawable"/><file name="edzamber" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\edzamber.gif" qualifiers="nodpi-v4" type="drawable"/><file name="geiti94" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\geiti94.gif" qualifiers="nodpi-v4" type="drawable"/><file name="gharrington" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\gharrington.gif" qualifiers="nodpi-v4" type="drawable"/><file name="google_ic" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\google_ic.png" qualifiers="nodpi-v4" type="drawable"/><file name="grouxho" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\grouxho.gif" qualifiers="nodpi-v4" type="drawable"/><file name="header" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\header.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icebullet_silons2" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icebullet_silons2.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_1" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_1.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_2" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_2.jpeg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_3" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_3.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_4" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_4.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_5" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_5.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="icon_6" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\icon_6.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="killswitch" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\killswitch.gif" qualifiers="nodpi-v4" type="drawable"/><file name="logel" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\logel.gif" qualifiers="nodpi-v4" type="drawable"/><file name="mhmdalsfaf" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\mhmdalsfaf.gif" qualifiers="nodpi-v4" type="drawable"/><file name="oweshs28" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\oweshs28.gif" qualifiers="nodpi-v4" type="drawable"/><file name="potatoclock" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\potatoclock.png" qualifiers="nodpi-v4" type="drawable"/><file name="tamirda" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\tamirda.gif" qualifiers="nodpi-v4" type="drawable"/><file name="td" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\td.jpg" qualifiers="nodpi-v4" type="drawable"/><file name="tdunham" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\tdunham.gif" qualifiers="nodpi-v4" type="drawable"/><file name="thereassaad" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\thereassaad.gif" qualifiers="nodpi-v4" type="drawable"/><file name="wuby986" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\wuby986.gif" qualifiers="nodpi-v4" type="drawable"/><file name="about_activity_content" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\about_activity_content.xml" qualifiers="" type="layout"/><file name="about_contact_us_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\about_contact_us_item.xml" qualifiers="" type="layout"/><file name="about_people_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\about_people_item.xml" qualifiers="" type="layout"/><file name="activity_about" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\activity_about.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="app_bar_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\app_bar_main.xml" qualifiers="" type="layout"/><file name="app_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\app_item.xml" qualifiers="" type="layout"/><file name="changelog_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\changelog_item.xml" qualifiers="" type="layout"/><file name="content_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\content_main.xml" qualifiers="" type="layout"/><file name="dialog_color_picker" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\dialog_color_picker.xml" qualifiers="" type="layout"/><file name="global_restore_preference_dialog_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\global_restore_preference_dialog_layout.xml" qualifiers="" type="layout"/><file name="intent_dialog_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\intent_dialog_layout.xml" qualifiers="" type="layout"/><file name="intent_preference_app_icon" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\intent_preference_app_icon.xml" qualifiers="" type="layout"/><file name="nav_header_main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\nav_header_main.xml" qualifiers="" type="layout"/><file name="nested_preference_toolbar_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\nested_preference_toolbar_layout.xml" qualifiers="" type="layout"/><file name="preference_header_general" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\preference_header_general.xml" qualifiers="" type="layout"/><file name="reboot_item" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\reboot_item.xml" qualifiers="" type="layout"/><file name="reboot_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\reboot_layout.xml" qualifiers="" type="layout"/><file name="seekbar_preference_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\seekbar_preference_layout.xml" qualifiers="" type="layout"/><file name="thumbnail_item_view" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\thumbnail_item_view.xml" qualifiers="" type="layout"/><file name="thumbnail_preference_dialog_view" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\thumbnail_preference_dialog_view.xml" qualifiers="" type="layout"/><file name="thumbnail_preference_icon" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout\thumbnail_preference_icon.xml" qualifiers="" type="layout"/><file name="dialog_color_picker" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout-land\dialog_color_picker.xml" qualifiers="land" type="layout"/><file name="reboot_layout" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\layout-land\reboot_layout.xml" qualifiers="land" type="layout"/><file name="activity_main_drawer" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\menu\activity_main_drawer.xml" qualifiers="" type="menu"/><file name="main" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="keep" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\raw\keep.xml" qualifiers="" type="raw"/><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\about_us_resources.xml" qualifiers=""><array name="about_team_drawables">
         <item>@drawable/icebullet_silons2</item>
         <item>@drawable/killswitch</item>
         <item>@drawable/logel</item>
@@ -1810,8 +1810,8 @@
         <item>https://forum.xda-developers.com/member.php?u=4714483</item>
         <item>https://forum.xda-developers.com/member.php?u=5493353</item>
         <item>https://forum.xda-developers.com/member.php?u=5405448</item>
-        <item>https://forum.xda-developers.com/member.php?u=1649452</item>
         <item>https://forum.xda-developers.com/member.php?u=6006523</item>
+        <item>https://forum.xda-developers.com/member.php?u=1649452</item>
         <item>https://forum.xda-developers.com/member.php?u=4074799</item>
         <item>https://forum.xda-developers.com/member.php?u=4507636</item>
         <item>https://forum.xda-developers.com/member.php?u=5901755</item>
@@ -1821,9 +1821,13 @@
         <item>https://forum.xda-developers.com/member.php?u=2739548</item>
         <item>https://forum.xda-developers.com/member.php?u=1042140</item>
         <item>https://forum.xda-developers.com/member.php?u=4637718</item>
+        <item>https://forum.xda-developers.com/member.php?u=4985020</item>
+        <item>https://forum.xda-developers.com/member.php?u=4598795</item>
+        <item>https://forum.xda-developers.com/member.php?u=7937275</item>
         <item>http://bbs.gfan.com</item>
+        <item>https://forum.xda-developers.com/member.php?u=6781297</item>
     </string-array><string-array name="about_contact_us_links" translatable="false">
-        <item>http://forum.xda-developers.com/</item>
+        <item>https://forum.xda-developers.com/galaxy-note-3/development/rom-aspireteam-c9-pro-v2-0-t3610152</item>
     </string-array><string-array name="about_team_links" translatable="false">
         <item>https://forum.xda-developers.com/member.php?u=3026895</item>
         <item>https://forum.xda-developers.com/member.php?u=7098450</item>
@@ -1833,8 +1837,8 @@
         <item>@drawable/daxgirl</item>
         <item>@drawable/wuby986</item>
         <item>@drawable/thereassaad</item>
-        <item>@drawable/geiti94</item>
         <item>@drawable/oweshs28</item>
+        <item>@drawable/geiti94</item>
         <item>@drawable/ambasadii</item>
         <item>@drawable/edzamber</item>
         <item>@drawable/mhmdalsfaf</item>
@@ -1844,7 +1848,11 @@
         <item>@drawable/tamirda</item>
         <item>@drawable/tdunham</item>
         <item>@drawable/ananjaser1211</item>
+        <item>@drawable/grouxho</item>
+        <item>@drawable/eleo</item>
+        <item>@drawable/icon_2</item>
         <item>@drawable/icon_1</item>
+        <item>@drawable/icon_3</item>
 
     </array><string-array name="about_contact_us_text">
         <item>XDA</item>
@@ -1861,8 +1869,8 @@
         <item>DaxGirl - Awesome Rom Control&amp;WubyDax work.</item>
         <item>Wuby986 - Private Mode fix&amp;DpiChanger&amp;WubyDax work</item>
         <item>Thereassaad - AirCommand&amp;Tons of help</item>
+        <item>Ouwesh - Chinese rom perks&amp;just being nice.</item>
         <item>Geiti94 - 32 bit apps tips&amp;framework fix guide.</item>
-        <item>Ouwesh - Chinese rom perks&amp;just beeing nice.</item>
         <item>Ambasadii -Hardware info problem solution.</item>
         <item>Edzamber - sBrowser updates.</item>
         <item>Mhmdalsfaf - Adreno drivers.</item>
@@ -1871,26 +1879,22 @@
         <item>Chainfire - The root expert.</item>
         <item>Tamirda - Bringing back toggles&amp;being there to help.</item>
         <item>Tdunham - Awesome mods thread&amp;being there to help.</item>
-        <item>Ananjaser1211 – SystemUI theme mod.</item>
+        <item>Ananjaser1211 – SystemUI theme mod&amp;being so nice</item>
+        <item>Grouxho - Official status mod.</item>
+        <item>Eleo - beta testing, TUR csc &amp; being a friend</item>
+        <item>Craftingmod - thanks for S8 brightness bar mod.</item>
         <item>NormaTeam - Base,mods and tons of bugs.</item>
+        <item>Oidy - S8 clock mod</item>
 
 
     </string-array></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="crop_values1">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array><string-array name="home_longpress">
-        <item>Disabled</item>
-        <item>Application</item>
-        <item>Flashlight</item>
-        <item>Kill App</item>
-        <item>Recent Apps</item>
-        <item>Screenshot</item>
-        <item>Screen Recorder</item>
-        <item>Google Now</item>
-        <item>Voice Command</item>
-        <item>Lock Phone</item>
-        <item>Menu</item>
+    </string-array><string-array name="tomatolei_statusbar_clock_am_pm_style_entries">
+        <item>"Don't show"</item>
+        <item>Small AM/PM</item>
+        <item>Regular AM/PM</item>
     </string-array><string-array name="signal_values">
         <item>4</item>
         <item>5</item>
@@ -1898,27 +1902,6 @@
     </string-array><string-array name="traffic_style_entries_position">
         <item>Right</item>
         <item>Left</item>
-    </string-array><string-array name="double_home_values">
-        <item>2</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>101</item>
-        <item>102</item>
-        <item>21</item>
-        <item>23</item>
-        <item>999</item>
     </string-array><string-array name="click_menu_entries">
         <item>Off screen</item>
         <item>Power menu</item>
@@ -1963,10 +1946,6 @@
         <item>20</item>
         <item>23</item>
         <item>999</item>
-    </string-array><string-array name="entries_status_bar_am_pm">
-        <item>"Don't show"</item>
-        <item>Small AM/PM</item>
-        <item>Regular AM/PM</item>
     </string-array><string-array name="gear_reboot_values">
         <item>0</item>
         <item>1</item>
@@ -1979,18 +1958,6 @@
     </string-array><string-array name="traffic_style_values">
         <item>1</item>
         <item>0</item>
-    </string-array><string-array name="home_tripletap_values">
-        <item>0</item>
-        <item>5</item>
-        <item>6</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-        <item>9</item>
-        <item>10</item>
     </string-array><array name="thumbnail_drawables">
         <item>@drawable/icon_6</item>
         <item>@drawable/icon_5</item>
@@ -2015,45 +1982,12 @@
     </string-array><string-array name="double_tap_values">
         <item>0</item>
         <item>999</item>
-    </string-array><string-array name="home_doubletap_values">
-        <item>8</item>
-        <item>4</item>
-        <item>5</item>
-        <item>3</item>
-        <item>1</item>
-        <item>2</item>
-        <item>6</item>
-        <item>7</item>
-        <item>0</item>
-        <item>9</item>
-        <item>10</item>
     </string-array><string-array name="thumbnail_items">
         <item>Icon 1</item>
         <item>Icon 2</item>
     </string-array><string-array name="SignalPositionValue">
         <item>0</item>
         <item>1</item>
-    </string-array><string-array name="double_home_entries">
-        <item>Return</item>
-        <item>Recent Tasks</item>
-        <item>Menu</item>
-        <item>The volume increases</item>
-        <item>The volume is reduced</item>
-        <item>Dial</item>
-        <item>Search for</item>
-        <item>Sound / Vibration / Mute</item>
-        <item>End the current process</item>
-        <item>Flashlight</item>
-        <item>Screenshot</item>
-        <item>Notification Bar</item>
-        <item>Wireless</item>
-        <item>Data</item>
-        <item>Bluetooth</item>
-        <item>Camera</item>
-        <item>Split Screen</item>
-        <item>Specifies the program</item>
-        <item>Memory cleanup</item>
-        <item>Nothing</item>
     </string-array><string-array name="right_longpress_values">
         <item>10</item>
         <item>4</item>
@@ -2071,18 +2005,6 @@
         <item>1000</item>
         <item>1500</item>
         <item>2000</item>
-    </string-array><string-array name="home_tripletap">
-        <item>Disabled</item>
-        <item>Application</item>
-        <item>Flashlight</item>
-        <item>Kill App</item>
-        <item>Recent Apps</item>
-        <item>Screenshot</item>
-        <item>Screen Recorder</item>
-        <item>Google Now</item>
-        <item>Voice Command</item>
-        <item>Lock Phone</item>
-        <item>Menu</item>
     </string-array><string-array name="tomatolei_clock_date_format_values">
         <item>dd/MM/yy</item>
         <item>yy/MM/dd</item>
@@ -2162,18 +2084,6 @@
     </string-array><string-array name="arrow_position_entries">
         <item>Left</item>
         <item>Right</item>
-    </string-array><string-array name="home_longpress_values">
-        <item>8</item>
-        <item>4</item>
-        <item>5</item>
-        <item>2</item>
-        <item>0</item>
-        <item>1</item>
-        <item>6</item>
-        <item>7</item>
-        <item>3</item>
-        <item>9</item>
-        <item>10</item>
     </string-array><string-array name="crop_entries">
         <item>Center crop</item>
         <item>Center inside</item>
@@ -2304,28 +2214,28 @@
         <item>0</item>
         <item>1</item>
     </string-array><string-array name="long_back_entries">
-        <item>Off screen</item>
+        <item>Screen Off</item>
         <item>Power menu</item>
-        <item>Return</item>
-        <item>Home Page</item>
-        <item>Recent Tasks</item>
-        <item>menu</item>
-        <item>The volume increases</item>
-        <item>The volume is reduced</item>
-        <item>Dial</item>
-        <item>Search for</item>
-        <item>Sound / Vibration / Mute</item>
-        <item>End the current process</item>
-        <item>Flashlight</item>
-        <item>Screenshot</item>
-        <item>Notification Bar</item>
-        <item>Wireless</item>
-        <item>Data</item>
-        <item>Bluetooth</item>
-        <item>Camera</item>
+        <item>Return key</item>
+        <item>Go to Home Page</item>
+        <item>Recents</item>
+        <item>Menu key</item>
+        <item>Increase volume</item>
+        <item>Reduce volume</item>
+        <item>Dialer</item>
+        <item>Search (depends on front app)</item>
+        <item>Sound/Vibration/Mute Toggle</item>
+        <item>Kill the current process</item>
+        <item>Toggle Flashlight</item>
+        <item>Take a Screenshot</item>
+        <item>Pull the Notification Bar</item>
+        <item>Toggle WiFi</item>
+        <item>Toggle Data</item>
+        <item>Toggle Bluetooth</item>
+        <item>Camera (N7 only)</item>
         <item>Split Screen</item>
-        <item>Specifies the program</item>
-        <item>Memory cleanup</item>
+        <item>Run specified app</item>
+        <item>Memory cleaner</item>
         <item>Nothing</item>
     </string-array><string-array name="traffic_update_entries">
         <item>500 ms</item>
@@ -2402,7 +2312,7 @@
     </string-array><string-array name="immersive_values">
         <item>immersive.full</item>
         <item>immersive.status=*</item>
-    </string-array><string-array name="values_status_bar_am_pm">
+    </string-array><string-array name="tomatolei_statusbar_clock_am_pm_style_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -2501,26 +2411,26 @@ Oct/16/2014"</item>
         <item>0</item>
         <item>1</item>
     </string-array><string-array name="long_home_entries">
-        <item>Return</item>
-        <item>Recent Tasks</item>
-        <item>Menu</item>
-        <item>The volume increases</item>
-        <item>The volume is reduced</item>
-        <item>Dial</item>
-        <item>Search for</item>
-        <item>Sound / Vibration / Mute</item>
-        <item>End the current process</item>
-        <item>Flashlight</item>
-        <item>Screenshot</item>
-        <item>Notification Bar</item>
-        <item>Wireless</item>
-        <item>Data</item>
-        <item>Bluetooth</item>
-        <item>Camera</item>
+        <item>Back Key</item>
+        <item>Recents</item>
+        <item>Menu Key</item>
+        <item>Increase volume</item>
+        <item>Reduce volume</item>
+        <item>Dialer</item>
+        <item>Search (depends on front app)</item>
+        <item>Sound/Vibration/Mute Toggle</item>
+        <item>Kill the current process</item>
+        <item>Toggle Flashlight</item>
+        <item>Take a Screenshot</item>
+        <item>Pull Notification Bar</item>
+        <item>Toggle WiFi</item>
+        <item>Toggle Data</item>
+        <item>Toggle Bluetooth</item>
+        <item>Camera (N7 only)</item>
         <item>Split Screen</item>
-        <item>Specifies the program</item>
-        <item>Memory cleanup</item>
-        <item>Nothing</item>
+        <item>Run specified app</item>
+        <item>Memory cleaner</item>
+        <item>Do Nothing</item>
     </string-array><string-array name="battery_bar_values">
         <item>0</item>
         <item>1</item>
@@ -2764,22 +2674,6 @@ Oct/16/2014"</item>
         <item>Bottom to top</item>
         <item>Left to right</item>
         <item>Right to left</item>
-    </string-array><string-array name="tomatolei_entries_status_bar_am_pm">
-        <item>Big</item>
-        <item>Small</item>
-        <item>Hide</item>
-    </string-array><string-array name="home_doubletap">
-        <item>Disabled</item>
-        <item>Application</item>
-        <item>Flashlight</item>
-        <item>Kill App</item>
-        <item>Recent Apps</item>
-        <item>Screenshot</item>
-        <item>Screen Recorder</item>
-        <item>Google Now</item>
-        <item>Voice Command</item>
-        <item>Lock Phone</item>
-        <item>Menu</item>
     </string-array><string-array name="virtual_key_longpress_actions">
         <item>Turn off the screen</item>
         <item>Power menu</item>
@@ -2855,62 +2749,40 @@ Oct/16/2014"</item>
         <attr format="reference" name="titlesList"/>
         <attr format="reference" name="keysList"/>
         <attr format="reference" name="valuesList"/>
-    </declare-styleable></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\changelog_resources.xml" qualifiers=""><string name="rom_version_for_changelog">V2.0, Aspire Rom</string><string-array name="changelog_items">
-        <item>Removed all Chinese apps&amp;trojan</item>
-        <item>Translated framework</item>
-        <item>Fixed Gps in framework&amp;conf (thanks @logel)</item>
-        <item>Removed useless 64 bit libs</item>
-        <item>Added English versions of Chinese apps</item>
-        <item>Added google apps</item>
-        <item>New Samsung ported keyboard. HandWriting is disabled but everything else works 100%.</item>
-        <item>Replaced Toolbox app (thanks @daxgirl)</item>
-        <item>New RomControl V2.1 – translated, reorganized from scratch</item>
-        <item>Fixed hardware test</item>
-        <item>Fixed QuickTools</item>
-        <item>Added CSC to Aroma</item>
-        <item>Translated Aroma</item>
-        <item>Fixed YouTube freezes</item>
-        <item>Removed call/msg spam filter</item>
-        <item>Fixed Google Play Services permissions</item>
-        <item>Changed default app installer</item>
-        <item>Default locale is CSC dependent</item>
-        <item>Fixed BlueLight filter auto activating without end</item>
-        <item>Fixed SmartStay</item>
-        <item>Disabled&amp;Fixed diagnostic info</item>
-        <item>Removed possibility to enable diagnostic info at setup wizard</item>
-        <item>Fixed batterybar settings</item>
-        <item>Fixed clock size slider</item>
-        <item>Updated 3minit settings app</item>
-        <item>Added mod for roaming notification in Rom Control</item>
-        <item>Fixed TwLauncher default layout on first startup</item>
-        <item>Fixed default quick toggles order</item>
-        <item>Fixed signature V2 mod</item>
-        <item>Fixed Aroma and updated</item>
-        <item>Added native blur on pulldown</item>
-        <item>Added and fixed Private Mode including toggle</item>
-        <item>Fixed Ultra Saving Mode quick toggle</item>
-        <item>Added Toolbox&amp;MultiWindows quick toggle</item>
-        <item>Fixed art updating string</item>
-        <item>New mod for showing model in settings</item>
-        <item>Fixed short number Sms in framework</item>
-        <item>Perfomance fix in framework (thanks @geiti)</item>
-        <item>Fixed confirmation power menu dialog in framework</item>
-        <item>Fixed Chinese strings in weather</item>
-        <item>Cable connection doesn\'t ask for access permission when connected by cable</item>
-        <item>New s8 TwLauncher (thanks @jjjhitel)</item>
-        <item>Changed kernel to Phantom where possible</item>
-        <item>Fixed telephony port</item>
-        <item>Fixed contacts fc when using auto-fix on pictures taken</item>
-        <item>Removed non working mods from Rom Control</item>
-        <item>New S-Music implanted</item>
-        <item>Fixed Display Clock on StatusBar mod in Rom Control</item>
-        <item>Fixed Charging info mod in framework (thanks @thereAssad)</item>
-        <item>Fixed AOD brightness mod in framework</item>
-        <item>New full sized icon for Aspire Rom Control</item>
-        <item>Implanted s8 calculator with conversions</item>
-        <item>Added S8 power menu Icons</item>
-        <item>Fixed default CSC</item>
-        <item>Replaced DpiChanger app</item>
+    </declare-styleable></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\changelog_resources.xml" qualifiers=""><string name="rom_version_for_changelog">V3.0, Aspire Rom</string><string-array name="changelog_items">
+        <item>Multi-Language Rom</item>
+        <item>Fixed SPen Keeper</item>
+        <item>Added MultiLanguage Contacts &amp; Provider</item>
+        <item>Double Tap to Sleep mod added (thanks thereAssad)</item>
+        <item>Fixed Am/Pm mod (thanks to Norma for more bugs)</item>
+        <item>Fixed HeadsUp Notification in RC</item>
+        <item>Added rotation of LockScreen</item>
+        <item>Compressed some big apps</item>
+        <item>Fixed AutoBrightness bug in framework (thanks TDunham)</item>
+        <item>Grouxho Status Official Mod</item>
+        <item>Removed quickpin unlock Aurora bugged mod</item>
+        <item>Grouping mod added</item>
+        <item>Fixed power profile in framework</item>
+        <item>Added blur mod in notification</item>
+        <item>Remoded S8 with a. Sliding toggles on top, Nougat brightness toggle on top, 6 toggles in a row (thanks Craftingmod)</item>
+        <item>Data usage automatic mod</item>
+        <item>Added 1st and 2nd swipe brightness in all SystemUI</item>
+        <item>Password security fixed (thanks Norma)</item>
+        <item>Removed theme store mods - xda complience</item>
+        <item>Link Share fixed</item>
+        <item>QuickConnect added to launcher (thanks DaxGirl)</item>
+        <item>Fixed blank space on brightness on first swipe thanks to josephpatrick</item>
+        <item>Fixed s8 clock mod thanks to Oidy</item>
+        <item>Added TUR csc thanks to Eleo</item>
+        <item>Fixed SmartSwitch &amp; UniversalSwitch</item>
+        <item>Updated tzdata to 6/17</item>
+        <item>Fixed BTU default launcher home screens</item>
+        <item>Fixed magnifier in toolbox</item>
+        <item>Reprogrammed toolbox settings</item>
+        <item>Rom Control 3minit fix (thanks DaxGirl)</item>
+        <item>Loudness maximum reworked</item>
+        <item>Notification icons only view layout fixed</item>
+
     </string-array></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\colors.xml" qualifiers=""><color name="nav_drawer_default_color">?android:textColorPrimary</color><color name="darkBgColor">#0c0c0d</color><color name="colorPrimaryDark">#0c0c2e</color><color name="colorPrimary">#0f0f3a</color><drawable name="transparentBg">#0000</drawable><color name="colorAccent">#a80028</color></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="nav_header_height">160dp</dimen><dimen name="button_size">30dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="fab_margin">16dp</dimen></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\nav_drawer_arrays.xml" qualifiers=""><array name="nav_menu_prefs_drawables">
         <item>@drawable/ic_web_asset_black_24dp</item> 
         <item>@drawable/ic_screen_lock_portrait_black_24dp</item>       
@@ -2918,7 +2790,6 @@ Oct/16/2014"</item>
         <item>@drawable/ic_vpn_key_black_24dp</item>    
         <item>@drawable/ic_phone</item>       
         <item>@drawable/ic_menu_black_24dp</item>       
-        <item>@drawable/ic_wallpaper_black_24dp</item>       
         <item>@drawable/ic_restaurant_menu_black_24dp</item>         
         <item>@drawable/ic_mood_black_24dp</item>
     </array><string-array name="nav_menu_xml_file_names" translatable="false">
@@ -2928,7 +2799,6 @@ Oct/16/2014"</item>
         <item>keys_prefs</item>
         <item>call_prefs</item>
         <item>powermenu_prefs</item>
-        <item>theme_prefs</item>
         <item>secretcodes_prefs</item>
         <item>othermods_prefs</item>
     </string-array><string-array name="nav_menu_prefs_titles">
@@ -2938,10 +2808,9 @@ Oct/16/2014"</item>
         <item>@string/keys_prefs</item>
         <item>@string/call_prefs</item>
         <item>@string/powermenu_prefs</item>
-        <item>@string/theme_prefs</item>
         <item>@string/secretcodes_prefs</item>
         <item>@string/othermods_prefs</item>
-    </string-array></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\strings.xml" qualifiers=""><string name="reboot_required_dialog_message">For this action to take effect, full device reboot is required. Would you like to reboot now?</string><string name="theme_prefs">Theme Menu</string><string name="backup_restore_dialog_title">Backup/Restore Rom Control system data</string><string name="keys_prefs">Hardware keys customization</string><string name="call_prefs">Call Settings</string><string name="backup_file_prefix_date_format" translatable="false">dd-MM-yy_HH:mm</string><string name="reboot_later_negative_button">later</string><string name="reboot_ui_text">Reboot SystemUI</string><string name="othermods_prefs">Other Mods</string><string name="reboot_required_dialog_title">Device reboot required</string><string name="changelog">Changelog</string><string name="theme_dialog_title">Choose theme</string><string name="restore_confirm_message">You have chosen to restore data from previous Rom Control preferences.\n\n<b>Please note! This operation will change your device settings based on the settings stored in this file.\n\n<font fgcolor="red">DO NOT PROCEED unless absolutely sure!!!</font></b>\n\nRom Control will close to allow data restoration and reopen again upon its completion. Depending on the amount of your settings this may take some time.\n\nPlease click \"CONFIRM\" to proceed or \"CANCEL\" to quit.</string><string name="backup_complete_toast">Backup completed successfully. The backup file can be found at\n%1$s</string><string name="framework_prefs">Framework prefs</string><string name="systemui_prefs">SystemUI prefs</string><string name="phone_prefs">Phone prefs</string><string name="backup_file_suffix" translatable="false">_RCBackup</string><string name="no_backup_dialog_title">No backup found on this device</string><string name="root_tools_exception_toast">File not found or root denied</string><string name="confirm_script_dialog_message">"Are you sure you want to run %1$s?"</string><string name="more_options">More options</string><string name="backup_and_restore">Backup &amp; Restore</string><string name="navigation_drawer_close">Close navigation drawer</string><string name="reboot_recovery_text">Reboot Recovery</string><string name="statusbar_prefs">Statusbar Options</string><string name="changelog_version_title">ROM version: %1$s</string><string name="app_reboot_required_dialog_title">App reboot required</string><string name="notification_panel_prefs">Notification panel prefs</string><string name="choose_backup_dialog_title">Please choose backup to restore</string><string name="run_script_confirm_dialog_positive_button">Yes, run</string><string name="press_color_to_apply">Press to apply</string><string name="powermenu_prefs">Power Menu</string><string name="no_su_dialog_title">No root privileges</string><string name="reboot_menu">Reboot menu</string><string name="app_reboot_required_dialog_message">For this action to take effect it is required to restart %1$s.\n\nPress OK to restart now</string><string name="set_theme">Set theme</string><string name="imminent_reboot_warning">Your device will reboot IMMEDIATELY upon script completion!!!</string><string name="restore_dialog_description">This action will restore the following items to stock colors</string><string name="reboot_now_dialog_button">reboot now</string><string name="lockscreen_prefs">Lockscreen Options</string><string name="no_su_dialog_dismiss_button_text">Whatever, man</string><string name="no_backup_dialog_message">Would you like to create new backup now?</string><string name="navigation_drawer_open">Open navigation drawer</string><string name="dialog_color_picker">Pick Color</string><string name="root_progress_dialog_message">Please wait…</string><string name="command_executed_success_toast">Executed successfully</string><string name="restore_complete_toast">Restore complete</string><string name="about_us">About us</string><string name="restore_confirm_dialog_title">Please confirm restore</string><string name="app_name">Aspire Rom Control</string><string name="root_progress_dialog_title">Acquiring Root Access</string><string name="find_app">Find App</string><string name="apps_prefs">Usefull Apps</string><string name="secretcodes_prefs">Hidden Menus</string><string name="run_script_confirm_dialog_title">Confirmation required</string><string name="reboot_device_text">Reboot Device</string><string name="no_su_dialog_message">We could not acquire root access on your device.\n\nMost of this app\'s functions can be performed without root access. However, you might experience problems with running scripts or rebooting.\n\nWe strongly recommend to allow root access on next request or allow such access in your Su client manually.</string></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\styles.xml" qualifiers=""><integer name="default_theme">0</integer><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </string-array></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\strings.xml" qualifiers=""><string name="reboot_required_dialog_message">For this action to take effect, full device reboot is required. Would you like to reboot now?</string><string name="theme_prefs">Theme Menu</string><string name="backup_restore_dialog_title">Backup/Restore Rom Control system data</string><string name="keys_prefs">Hardware keys customization</string><string name="call_prefs">Call Settings</string><string name="backup_file_prefix_date_format" translatable="false">dd-MM-yy_HH:mm</string><string name="reboot_later_negative_button">later</string><string name="reboot_ui_text">Reboot SystemUI</string><string name="othermods_prefs">Other Mods</string><string name="reboot_required_dialog_title">Device reboot required</string><string name="changelog">Changelog</string><string name="theme_dialog_title">Choose theme</string><string name="restore_confirm_message">You have chosen to restore data from previous Rom Control preferences.\n\n<b>Please note! This operation will change your device settings based on the settings stored in this file.\n\n<font fgcolor="red">DO NOT PROCEED unless absolutely sure!!!</font></b>\n\nRom Control will close to allow data restoration and reopen again upon its completion. Depending on the amount of your settings this may take some time.\n\nPlease click \"CONFIRM\" to proceed or \"CANCEL\" to quit.</string><string name="backup_complete_toast">Backup completed successfully. The backup file can be found at\n%1$s</string><string name="framework_prefs">Framework prefs</string><string name="systemui_prefs">SystemUI prefs</string><string name="phone_prefs">Phone prefs</string><string name="backup_file_suffix" translatable="false">_RCBackup</string><string name="no_backup_dialog_title">No backup found on this device</string><string name="root_tools_exception_toast">File not found or root denied</string><string name="confirm_script_dialog_message">"Are you sure you want to run %1$s?"</string><string name="more_options">More options</string><string name="backup_and_restore">Backup &amp; Restore</string><string name="navigation_drawer_close">Close navigation drawer</string><string name="reboot_recovery_text">Reboot Recovery</string><string name="statusbar_prefs">Statusbar Options</string><string name="changelog_version_title">ROM version: %1$s</string><string name="app_reboot_required_dialog_title">App reboot required</string><string name="notification_panel_prefs">Notification panel prefs</string><string name="choose_backup_dialog_title">Please choose backup to restore</string><string name="run_script_confirm_dialog_positive_button">Yes, run</string><string name="press_color_to_apply">Press to apply</string><string name="powermenu_prefs">Power Menu</string><string name="no_su_dialog_title">No root privileges</string><string name="reboot_menu">Reboot menu</string><string name="app_reboot_required_dialog_message">For this action to take effect it is required to restart %1$s.\n\nPress OK to restart now</string><string name="set_theme">Set theme</string><string name="imminent_reboot_warning">Your device will reboot IMMEDIATELY upon script completion!!!</string><string name="restore_dialog_description">This action will restore the following items to stock colors</string><string name="reboot_now_dialog_button">reboot now</string><string name="lockscreen_prefs">Lockscreen Options</string><string name="no_su_dialog_dismiss_button_text">Whatever, man</string><string name="no_backup_dialog_message">Would you like to create new backup now?</string><string name="navigation_drawer_open">Open navigation drawer</string><string name="dialog_color_picker">Pick Color</string><string name="root_progress_dialog_message">Please wait…</string><string name="command_executed_success_toast">Executed successfully</string><string name="restore_complete_toast">Restore complete</string><string name="about_us">About us</string><string name="restore_confirm_dialog_title">Please confirm restore</string><string name="app_name">Aspire Rom Control</string><string name="root_progress_dialog_title">Acquiring Root Access</string><string name="find_app">Find App</string><string name="apps_prefs">Useful Apps</string><string name="secretcodes_prefs">Hidden Menus</string><string name="run_script_confirm_dialog_title">Confirmation required</string><string name="reboot_device_text">Reboot Device</string><string name="no_su_dialog_message">We could not acquire root access on your device.\n\nMost of this app\'s functions can be performed without root access. However, you might experience problems with running scripts or rebooting.\n\nWe strongly recommend to allow root access on next request or allow such access in your Su client manually.</string></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values\styles.xml" qualifiers=""><integer name="default_theme">0</integer><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -2994,7 +2863,7 @@ Oct/16/2014"</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
-    </style></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="apps_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\apps_prefs.xml" qualifiers="" type="xml"/><file name="call_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\call_prefs.xml" qualifiers="" type="xml"/><file name="keys_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\keys_prefs.xml" qualifiers="" type="xml"/><file name="lockscreen_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\lockscreen_prefs.xml" qualifiers="" type="xml"/><file name="othermods_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\othermods_prefs.xml" qualifiers="" type="xml"/><file name="phone_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\phone_prefs.xml" qualifiers="" type="xml"/><file name="powermenu_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\powermenu_prefs.xml" qualifiers="" type="xml"/><file name="secretcodes_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\secretcodes_prefs.xml" qualifiers="" type="xml"/><file name="statusbar_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\statusbar_prefs.xml" qualifiers="" type="xml"/><file name="theme_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\theme_prefs.xml" qualifiers="" type="xml"/><file name="ui_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\ui_prefs.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\build\generated\res\rs\debug"/><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/></declare-styleable><declare-styleable name="AppCompatSeekBar"><attr name="android:thumb"/><attr format="reference" name="tickMark"/><attr format="color" name="tickMarkTint"/><attr name="tickMarkTintMode">
+    </style></file><file path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="apps_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\apps_prefs.xml" qualifiers="" type="xml"/><file name="call_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\call_prefs.xml" qualifiers="" type="xml"/><file name="keys_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\keys_prefs.xml" qualifiers="" type="xml"/><file name="lockscreen_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\lockscreen_prefs.xml" qualifiers="" type="xml"/><file name="othermods_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\othermods_prefs.xml" qualifiers="" type="xml"/><file name="phone_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\phone_prefs.xml" qualifiers="" type="xml"/><file name="powermenu_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\powermenu_prefs.xml" qualifiers="" type="xml"/><file name="secretcodes_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\secretcodes_prefs.xml" qualifiers="" type="xml"/><file name="statusbar_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\statusbar_prefs.xml" qualifiers="" type="xml"/><file name="ui_prefs" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\xml\ui_prefs.xml" qualifiers="" type="xml"/><file name="eleo" path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\res\drawable-nodpi\eleo.gif" qualifiers="nodpi-v4" type="drawable"/></source><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\build\generated\res\rs\debug"/><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/></declare-styleable><declare-styleable name="AppCompatSeekBar"><attr name="android:thumb"/><attr format="reference" name="tickMark"/><attr format="color" name="tickMarkTint"/><attr name="tickMarkTintMode">
             
             <enum name="src_over" value="3"/>
             

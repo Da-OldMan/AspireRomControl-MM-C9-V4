@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-        android:defaultValue="false"
-        android:key="aspire_roaming"
-        android:summaryOff="Displayed"
-        android:summaryOn="Hidden"
-        android:title="Roaming Ongoing Notification" />
-    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
-        android:title="Heads-up Notifications"
-        android:key="heads_up_notifications_enabled"
-        android:defaultValue="false"
-        android:summaryOn="Heads-up notifications are disabled"
-        android:summaryOff="Heads-up notifications are enabled" />
-	<PreferenceScreen
+    <PreferenceScreen
         android:key="key_private_mode"
         android:persistent="false"
         android:title="Private Mode">
@@ -22,4 +10,24 @@
             android:targetClass="com.android.settings.personalpage.PersonalPageSettings"
             android:targetPackage="com.android.settings" />
     </PreferenceScreen>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="aspire_roaming"
+        android:summaryOff="Displayed"
+        android:summaryOn="Hidden"
+        android:title="Roaming Ongoing Notification"
+        app:packageNameToKill="com.android.systemui" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="true"
+        android:key="heads_up_notifications_enabled"
+        android:summaryOff="Heads-up notifications are disabled"
+        android:summaryOn="Heads-up notifications are enabled"
+        android:title="Heads-up Notifications"
+        app:packageNameToKill="com.android.systemui" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="aspire_email_security"
+        android:summaryOff="Email Security Mod is Disabled"
+        android:summaryOn="Email Security Mod is Enabled"
+        android:title="Email Exchange Security Disable Mod" />
 </PreferenceScreen>
