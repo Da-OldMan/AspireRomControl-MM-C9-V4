@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <SwitchPreferenceScreen
-        android:key="record_calls_automatically"
-        android:title="Automatic Call Recording">
-        <intent
-            android:action="android.intent.action.MAIN"
-            android:targetClass="com.android.phone.RecordCallsAutomaticallyActivity"
-            android:targetPackage="com.android.phone" />
-    </SwitchPreferenceScreen>
+    <PreferenceScreen android:title="Automatic Call Recording">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="record_calls_automatically_on_off"
+            android:summaryOff="Disabled"
+            android:summaryOn="Enabled"
+            android:title="Automatic Call Recording" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="record_calls_notification_on_off"
+            android:summaryOff="Disabled"
+            android:summaryOn="Enabled"
+            android:title="Automatic Call Recording Notifications" />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            android:dependency="record_calls_automatically_on_off"
+            android:summary="Numbers for automatic call recording"
+            android:title="Recording Preferences"
+            app:componentName="com.android.phone/com.android.phone.RecordCallsAutomaticallyActivity" />
+    </PreferenceScreen>
     <com.wubydax.romcontrol.v2.prefs.MyListPreference
         android:defaultValue="0"
         android:entries="@array/CallDelayName"
