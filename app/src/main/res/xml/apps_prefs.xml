@@ -1,46 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <PreferenceScreen
-        android:persistent="false"
-        android:summary="Show Hidden System Advanced menu"
-        android:title="Advanced Settings Menu">
-        <intent
-            android:action="android.intent.action.MAIN"
-            android:targetClass="db.wonitor.flyme.MainActivity"
-            android:targetPackage="com.grace0x.advance.menu" />
-    </PreferenceScreen>
-    <PreferenceScreen
-        android:persistent="false"
+    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
         android:summary="Edit Toolbox Settings"
-        android:title="Toolbox Controller V2.0">
-        <intent
-            android:action="android.intent.action.MAIN"
-            android:targetClass="com.wubydax.toolboxsettings.ToolboxSettings"
-            android:targetPackage="com.wubydax.toolboxsettings" />
-    </PreferenceScreen>
-    <PreferenceScreen
-        android:persistent="false"
+        android:title="Toolbox Controller V2.0"
+        app:componentName="com.wubydax.toolboxsettings/com.wubydax.toolboxsettings.ToolboxSettings" />
+    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
         android:summary="Add apps to ultra power saving mode"
-        android:title="Ultra power saving mode">
-        <intent
-            android:action="android.intent.action.MAIN"
-            android:targetClass="mobi.xperiacle.upsm.manager.MainActivity"
-            android:targetPackage="mobi.xperiacle.upsm.manager" />
-    </PreferenceScreen>
-    <PreferenceScreen
-        android:persistent="false"
+        android:title="Ultra power saving mode"
+        app:componentName="mobi.xperiacle.upsm.manager/mobi.xperiacle.upsm.manager.MainActivity" />
+    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
         android:summary="Runs the dpi customization app"
-        android:title="Change the display dpi">
-        <intent
-            android:action="android.intent.action.MAIN"
-            android:targetClass="com.wubydax.changedpi.MainActivity"
-            android:targetPackage="com.wubydax.changedpi" />
-    </PreferenceScreen>
+        android:title="Change the display dpi"
+        app:componentName="com.wubydax.changedpi/com.wubydax.changedpi.MainActivity" />
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
         android:key="display_outdoor_mode"
         android:summaryOff="Disabled"
         android:summaryOn="Enabled"
-        android:title="Outdoor mode" />
+        android:title="Outdoor Mode" />
 </PreferenceScreen>

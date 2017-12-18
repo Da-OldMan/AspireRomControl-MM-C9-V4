@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <SwitchPreferenceScreen
         android:key="record_calls_automatically"
-        android:title="Automatic call recording">
+        android:title="Automatic Call Recording">
         <intent
             android:action="android.intent.action.MAIN"
             android:targetClass="com.android.phone.RecordCallsAutomaticallyActivity"
@@ -15,5 +15,5 @@
         android:entryValues="@array/CallDelayValue"
         android:key="killprocess_call_delay"
         android:summary="%s"
-        android:title="InCallUI End of call delay" />
+        android:title="InCallUI End of Call Delay" />
 </PreferenceScreen>

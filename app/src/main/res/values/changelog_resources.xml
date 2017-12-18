@@ -9,10 +9,68 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items">
+        <item>V4.0</item>
+        <item>GameChanger:HandWriting Framework fully fixed. Handwriting should work in all apps without problems. SNote,Keyboard all work as intended.</item>
+        <item>SQlite fix (thanks @DJmax81)</item>
+        <item>Fixed weather lockscreen icon, weather predictions, edge weather in S8 ui</item>
+        <item>Added password entry in lockscreen setting</item>
+        <item>Amount of toggles on first swipe added</item>
+        <item>Data Usage Fix on both swipes (aided by @Corsicanu)</item>
+        <item>Dax Data usage mod added</item>
+        <item>Lockscreen rotation mod added</item>
+        <item>Fixed "auto-adjust" in gallery</item>
+        <item>Added Google face unlock option (thanks @Anan1211)</item>
+        <item>Fixed config_enableAutoPowerModes in framework to allow doze mode</item>
+        <item>Amount of rows in UX quick toggles increased to 4</item>
+        <item>Amount of toggles in expanded added</item>
+        <item>S8 keyboard ported Nougat by BlackM3sa</item>
+        <item>S8 Keyboard mod to allow secondary symbols for all languages</item>
+        <item>S8 fix to allow two left multifunction buttons</item>
+        <item>Safe music dialog disabled in rom control by @OvrDriVE</item>
+        <item>Fixed rtl in Grx settings</item>
+        <item>Full volume panel mod (thanks @thereAssad)</item>
+        <item>Device Info mod (thanks @WubyDax)</item>
+        <item>Latest Samsung Email Client</item>
+        <item>Email policy mod with toggle by @Txr33</item>
+        <item>Email rtl fix for all languages</item>
+        <item>New SBrowser v7.0 with secret mode enabled (thanks @Edzamber)</item>
+        <item>My Files with a Nougat theme (thanks @Corsicanu)</item>
+        <item>FirewallM.apk for blocking calls restored per user request</item>
+        <item>Aroma debloating menu added</item>
+        <item>Power management fixed again</item>
+        <item>Vrtheme speedup by @Patrick.H</item>
+        <item>Aroma Progress bar fixed</item>
+        <item>Backup/Restore Aroma options added (thanks @mwilky)</item>
+        <item>New SuperSU in Aroma with new binary</item>
+        <item>Removed all Fingerprint libs &amp; apps (thanks @BlackM3sa)</item>
+        <item>Fixed framework for cpu unsupported methods (thanks @Ale95)</item>
+        <item>Missing auditd binary added</item>
+        <item>Fixed toggle alignment</item>
+        <item>Fixed notification date alignment (thanks @Craftingmod)</item>
+        <item>Removed UPSM app</item>
+        <item>Fix for round Google Search in Browser</item>
+        <item>Add icon in launcher to C9 Weather</item>
+        <item>New ported V5.0 s8 launcher by Josette (thanks to @Anan1211&amp;@Ale95 for porting help)</item>
+        <item>Fix TouchWiz S8 to use C9 weather</item>
+        <item>Reverted ToolboxController</item>
+        <item>Added Debloating SmartManager in Aroma</item>
+        <item>Fixed incall ringing when with headphones&amp;silent/vibrate mode</item>
+        <item>Reverted SoundAlive to old, fully working version</item>
+        <item>Remoded latest SamsungMusic&amp;port with Lightning (thanks to @Corsicanu)</item>
+        <item>Latest 6h0st Aspire Kernel !</item>
+        <item>Completely new clock&amp;date mod (thanks @thereassaad)</item>
+        <item>Two new devices added by 6h0st: Us Cellular&amp;KDDI Corporation</item>
+        <item>Libraries fix for system speedup</item>
+        <item>Added SBrowser edge panel</item>
+        <item>Rtl fixes for StatusBar mods</item>
+        <item>Much more things for you to discover</item>
+        <item> </item>
+        <item> </item>
+        <item>V3.0</item>
         <item>Multi-Language Rom</item>
         <item>Fixed SPen Keeper</item>
         <item>Added MultiLanguage Contacts &amp; Provider</item>
-        <item>Double Tap to Sleep mod added (thanks thereAssad)</item>
+        <item>Double Tap to Sleep mod added (thanks @thereassaad)</item>
         <item>Fixed Am/Pm mod (thanks to Norma for more bugs)</item>
         <item>Fixed HeadsUp Notification in RC</item>
         <item>Added rotation of LockScreen</item>
@@ -47,7 +105,7 @@
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog">V3.0, Aspire Rom</string>
+    <string name="rom_version_for_changelog">V4.0, Aspire Rom</string>
 
 
 </resources>

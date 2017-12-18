@@ -20,9 +20,7 @@
     <!--In this array you will put the icons for contact information,
     for example xda icon for your xda thread, site icon for your site, facebook icon and so on-->
     <array name="about_contact_us_drawables">
-        <item>@drawable/icon_2</item>
-        <item>@drawable/icon_1</item>
-        <item>@drawable/icon_3</item>
+        <item>@drawable/xda</item>
     </array>
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
@@ -38,21 +36,30 @@
     <!--Team info arrays-->
     <array name="about_team_drawables">
         <item>@drawable/icebullet_silons2</item>
-        <item>@drawable/killswitch</item>
+        <item>@drawable/ghost</item>
+        <item>@drawable/eleo</item>
+        <item>@drawable/galili47</item>
+        <item>@drawable/bullmans</item>
         <item>@drawable/logel</item>
-        <item>@drawable/icon_1</item>
+        <item>@drawable/killswitch</item>
     </array>
     <string-array name="about_team_names">
         <item>DaOldMan</item>
-        <item>KiLL-SwitCH</item>
+        <item>6h0st</item>
+        <item>Eleo</item>
+        <item>Galili47</item>
+        <item>Bullmans</item>
         <item>Logel</item>
-        <item>Nahum</item>
+        <item>KiLL-SwitCH</item>
     </string-array>
     <string-array name="about_team_links" translatable="false">
         <item>https://forum.xda-developers.com/member.php?u=3026895</item>
-        <item>https://forum.xda-developers.com/member.php?u=7098450</item>
-        <item>https://forum.xda-developers.com/member.php?u=3901205</item>
+        <item>https://forum.xda-developers.com/member.php?u=4326291</item>
+        <item>https://forum.xda-developers.com/member.php?u=4598795</item>
         <item>https://forum.xda-developers.com/member.php?u=4412157</item>
+        <item>https://forum.xda-developers.com/member.php?u=4590108</item>
+        <item>https://forum.xda-developers.com/member.php?u=3901205</item>
+        <item>https://forum.xda-developers.com/member.php?u=7098450</item>
     </string-array>
 
     <!--Credits and thanks info arrays-->
@@ -72,32 +79,45 @@
         <item>@drawable/tdunham</item>
         <item>@drawable/ananjaser1211</item>
         <item>@drawable/grouxho</item>
-        <item>@drawable/eleo</item>
         <item>@drawable/icon_2</item>
         <item>@drawable/icon_1</item>
         <item>@drawable/icon_3</item>
+        <item>@drawable/corsicanu</item>
+        <item>@drawable/blackm3sa</item>
+        <item>@drawable/ale95</item>
+        <item>@drawable/patrickh</item>
+        <item>@drawable/djmax81</item>
+        <item>@drawable/txr33</item>
+        <item>@drawable/josete_1976</item>
+
 
     </array>
     <string-array name="about_credits_names">
-        <item>DaxGirl - Awesome Rom Control&amp;WubyDax work.</item>
-        <item>Wuby986 - Private Mode fix&amp;DpiChanger&amp;WubyDax work</item>
-        <item>Thereassaad - AirCommand&amp;Tons of help</item>
-        <item>Ouwesh - Chinese rom perks&amp;just being nice.</item>
-        <item>Geiti94 - 32 bit apps tips&amp;framework fix guide.</item>
-        <item>Ambasadii -Hardware info problem solution.</item>
-        <item>Edzamber - sBrowser updates.</item>
-        <item>Mhmdalsfaf - Adreno drivers.</item>
-        <item>Darkera13 - The master of note3 ports, ever.</item>
-        <item>Gharrington - 3minit dev.</item>
-        <item>Chainfire - The root expert.</item>
-        <item>Tamirda - Bringing back toggles&amp;being there to help.</item>
-        <item>Tdunham - Awesome mods thread&amp;being there to help.</item>
-        <item>Ananjaser1211 – SystemUI theme mod&amp;being so nice</item>
-        <item>Grouxho - Official status mod.</item>
-        <item>Eleo - beta testing, TUR csc &amp; being a friend</item>
-        <item>Craftingmod - thanks for S8 brightness bar mod.</item>
-        <item>NormaTeam - Base,mods and tons of bugs.</item>
+        <item>DaxGirl - Awesome Rom Control&amp;WubyDax development</item>
+        <item>Wuby986 - Private Mode fix&amp;DpiChanger&amp;WubyDax development</item>
+        <item>thereAssaad - AirCommand&amp;Tons of help</item>
+        <item>Ouwesh - Chinese rom perks&amp;just being nice</item>
+        <item>Geiti94 - 32 bit apps tips&amp;framework fix guide</item>
+        <item>Ambasadii -Hardware info problem solution</item>
+        <item>Edzamber - sBrowser updates</item>
+        <item>Mhmdalsfaf - Adreno drivers</item>
+        <item>Darkera - The master of note3 ports, ever</item>
+        <item>Gharrington - 3minit dev</item>
+        <item>Chainfire - The root expert</item>
+        <item>Tamirda - Bringing back toggles&amp;being there to help</item>
+        <item>Tdunham - Awesome mods thread&amp;being there to help</item>
+        <item>Ananjaser1211 – Too much to list, a dear friend</item>
+        <item>Grouxho - Official status mod, Grouxho rom control</item>
+        <item>Craftingmod - Thanks for S8 brightness bar mod and rom fixes</item>
+        <item>NormaTeam - Base,mods and tons of bugs</item>
         <item>Oidy - S8 clock mod</item>
+        <item>Corsicanu - Pls sand k thx for everything</item>
+        <item>BlackM3sa - Always ready to help, encyclopedia of porting</item>
+        <item>Ale95 - The 32 bit port master</item>
+        <item>Patrick.H - Vrtheme speedup</item>
+        <item>djmax81 - SqLite fix </item>
+        <item>txr33 - Email policy mod</item>
+        <item>josete_1976 - Modded S8 Launcher</item>
 
 
     </string-array>
@@ -117,9 +137,15 @@
         <item>https://forum.xda-developers.com/member.php?u=1042140</item>
         <item>https://forum.xda-developers.com/member.php?u=4637718</item>
         <item>https://forum.xda-developers.com/member.php?u=4985020</item>
-        <item>https://forum.xda-developers.com/member.php?u=4598795</item>
         <item>https://forum.xda-developers.com/member.php?u=7937275</item>
-        <item>http://bbs.gfan.com</item>
+        <item>http://weibo.com/208458222?refer_flag=1005055010_&amp;is_all=1</item>
         <item>https://forum.xda-developers.com/member.php?u=6781297</item>
+        <item>https://forum.xda-developers.com/member.php?u=4658360</item>
+        <item>https://forum.xda-developers.com/member.php?u=6911575</item>
+        <item>https://forum.xda-developers.com/member.php?u=5244417</item>
+        <item>https://forum.xda-developers.com/member.php?u=7503246</item>
+        <item>https://forum.xda-developers.com/member.php?u=2562519</item>
+        <item>https://forum.xda-developers.com/member.php?u=3512588</item>
+        <item>https://forum.xda-developers.com/member.php?u=6817362</item>
     </string-array>
 </resources>

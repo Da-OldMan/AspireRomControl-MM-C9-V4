@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <PreferenceCategory android:title="Home button">
+    <PreferenceCategory android:title="Home Button">
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="true"
             android:key="nrom_Homehuanxing"
@@ -20,7 +20,7 @@
             android:title="Select app to run on long Home keypress"
             app:showSearch="false" />
     </PreferenceCategory>
-    <PreferenceCategory android:title="Task key">
+    <PreferenceCategory android:title="Task Key">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:entries="@array/long_menu_entries"
             android:entryValues="@array/long_menu_values"
@@ -39,7 +39,7 @@
             android:summary="%s"
             android:title="Customize the short press Task key" />
     </PreferenceCategory>
-    <PreferenceCategory android:title="Back key">
+    <PreferenceCategory android:title="Back Key">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:entries="@array/long_back_entries"
             android:entryValues="@array/long_back_values"

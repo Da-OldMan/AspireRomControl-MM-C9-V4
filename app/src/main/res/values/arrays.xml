@@ -74,98 +74,6 @@
         <item>2500</item>
         <item>5000</item>
     </string-array>
-    <string-array name="carrier_entries">
-        <item>Stock Carrier Label</item>
-        <item>Custom Carrier Label</item>
-    </string-array>
-    <string-array name="carrier_entry_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="clock_date_display_entries">
-        <item>Hide week</item>
-        <item>Week is small</item>
-        <item>Day of the week</item>
-    </string-array>
-    <string-array name="clock_date_display_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="clock_date_format_entries_values">
-        <item>dd/MM/yy</item>
-        <item>MM/dd/yy</item>
-        <item>yyyy-MM-dd</item>
-        <item>yyyy-dd-MM</item>
-        <item>dd-MM-yyyy</item>
-        <item>MM-dd-yyyy</item>
-        <item>MMM dd</item>
-        <item>MMM dd, yyyy</item>
-        <item>MMMM dd, yyyy</item>
-        <item>EEE</item>
-        <item>EEE dd</item>
-        <item>EEE dd/MM</item>
-        <item>EEE MM/dd</item>
-        <item>EEE dd MMM</item>
-        <item>EEE MMM dd</item>
-        <item>EEE MMMM dd</item>
-        <item>EEEE dd/MM</item>
-        <item>EEEE MM/dd</item>
-    </string-array>
-    <string-array name="clock_date_style_entries">
-        <item>Normal date</item>
-        <item>Lowercase date</item>
-        <item>Uppercase date</item>
-    </string-array>
-    <string-array name="clock_date_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="clock_font_style_entries">
-        <item>Bold</item>
-        <item>Condensed</item>
-        <item>Light</item>
-        <item>Light Italic</item>
-        <item>Use System Font (restart UI to set)</item>
-        <item>Chococooky</item>
-        <item>Coming Soon</item>
-        <item>Cool Jazz</item>
-        <item>Lindsey for Samsung</item>
-        <item>MTL</item>
-    </string-array>
-    <string-array name="clock_font_style_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="clock_format_entries">
-        <item>Ordinary clock</item>
-        <item>English clock</item>
-        <item>Text clock</item>
-    </string-array>
-    <string-array name="clock_format_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="clock_style_entries">
-        <item>Centered</item>
-        <item>Left</item>
-        <item>Right</item>
-    </string-array>
-    <string-array name="clock_style_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
     <string-array name="crop_entries">
         <item>Center crop</item>
         <item>Center inside</item>
@@ -233,16 +141,6 @@ Oct/16/2014"</item>
         <item>15</item>
         <item>16</item>
         <item>17</item>
-    </string-array>
-    <string-array name="tomatolei_statusbar_clock_am_pm_style_entries">
-        <item>"Don't show"</item>
-        <item>Small AM/PM</item>
-        <item>Regular AM/PM</item>
-    </string-array>
-    <string-array name="tomatolei_statusbar_clock_am_pm_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="gear_reboot_entries">
         <item>Off</item>
@@ -892,66 +790,218 @@ Oct/16/2014"</item>
         <item>5000</item>
         <item>10000</item>
     </string-array>
-    <string-array name="tomatolei_clock_style_entries">
-        <item>Centered</item>
-        <item>Keep Right</item>
-        <item>Left</item>
+    <string-array name="data_usage_gravity_entries">
+        <item>To end</item>
+        <item>Center horizontal</item>
+        <item>To start</item>
     </string-array>
-    <string-array name="tomatolei_clock_style_values">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="tomatolei_clock_weekday_entries">
-        <item>Hide week</item>
-        <item>Smaller weeks</item>
-        <item>Normal week</item>
-    </string-array>
-    <string-array name="tomatolei_clock_weekday_values">
+    <string-array name="data_usage_gravity_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="tomatolei_clock_date_format_entries">
-        <item>Day/Month/Short year</item>
-        <item>Short year/Month/Day</item>
-        <item>Long year-Month-Day</item>
-        <item>Day-Month-Long Year</item>
-        <item>Day-Long Month</item>
-        <item>Short day</item>
-        <item>Long day</item>
-        <item>Day number</item>
-        <item>Short day-Day number</item>
-        <item>Long day-Day number</item>
-        <item>Long day-Day/Month</item>
-        <item>Long day-Month/Day</item>
-        <item>Short day-Day/Month</item>
-        <item>Short day-Month/Day</item>
+    <string-array name="data_usage_text_style_entries">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold italic</item>
     </string-array>
-    <string-array name="tomatolei_clock_date_format_values">
+    <string-array name="data_usage_text_style_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="num_columns_toggle_entries">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="num_columns_toggle_values">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="num_amount_toggle_entries">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="num_amount_toggle_values">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="carrier_entries">
+        <item>Actual carrier text</item>
+        <item>Custom text</item>
+    </string-array>
+    <string-array name="carrier_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Right clock</item>
+        <item>Center clock</item>
+        <item>Left clock</item>
+        <item>Hide clock</item>
+    </string-array>
+    <string-array name="clock_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="clock_format_entries">
+        <item>Normal clock</item>
+        <item>Funky clock</item>
+        <item>Word clock</item>
+    </string-array>
+    <string-array name="clock_format_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="clock_ampm_entries">
+        <item>Hide Am/Pm</item>
+        <item>Small Am/Pm</item>
+        <item>Regular Am/Pm</item>
+    </string-array>
+    <string-array name="clock_ampm_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_date_display_entries">
+        <item>Hide date</item>
+        <item>Small date</item>
+        <item>Big date</item>
+    </string-array>
+    <string-array name="clock_date_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_date_format_entries_values">
         <item>dd/MM/yy</item>
-        <item>yy/MM/dd</item>
+        <item>MM/dd/yy</item>
         <item>yyyy-MM-dd</item>
+        <item>yyyy-dd-MM</item>
         <item>dd-MM-yyyy</item>
+        <item>MM-dd-yyyy</item>
         <item>MMM dd</item>
-        <item>EEEEE</item>
+        <item>MMM dd, yyyy</item>
+        <item>MMMM dd, yyyy</item>
         <item>EEE</item>
-        <item>dd</item>
-        <item>EEEEE dd</item>
+        <item>EEEE</item>
         <item>EEE dd</item>
         <item>EEE dd/MM</item>
         <item>EEE MM/dd</item>
-        <item>EEEEE dd/MM</item>
-        <item>EEEEE MM/dd</item>
+        <item>EEE dd MMM</item>
+        <item>EEE dd MMMM</item>
+        <item>EEEE dd MMMM</item>
+        <item>EEE MMM dd</item>
+        <item>EEE MMMM dd</item>
+        <item>EEEE MMMM dd</item>
+        <item>EEEE dd/MM</item>
+        <item>EEEE MM/dd</item>
     </string-array>
-    <string-array name="tomatolei_clock_date_style_entries">
+    <string-array name="clock_date_style_entries">
         <item>Normal</item>
-        <item>Lower case</item>
-        <item>Capital</item>
+        <item>Lowercase</item>
+        <item>Uppercase</item>
     </string-array>
-    <string-array name="tomatolei_clock_date_style_values">
+    <string-array name="clock_date_style_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="clock_date_position_entries">
+        <item>Date on the left side of clock</item>
+        <item>Date on the right side of clock</item>
+    </string-array>
+    <string-array name="clock_date_position_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clock_font_style_entries">
+        <item>Normal</item>
+        <item>Italic</item>
+        <item>Bold</item>
+        <item>Bold Italic</item>
+        <item>Light</item>
+        <item>Light Italic</item>
+        <item>Thin</item>
+        <item>Thin Italic</item>
+        <item>Condensed</item>
+        <item>Condensed Italic</item>
+        <item>Condensed Light</item>
+        <item>Condensed Light Italic</item>
+        <item>Condensed Bold</item>
+        <item>Condensed Bold Italic</item>
+        <item>Medium</item>
+        <item>Medium Italic</item>
+        <item>Black</item>
+        <item>Black Italic</item>
+        <item>DancingScript</item>
+        <item>DancingScript Bold</item>
+        <item>casual</item>
+        <item>NotoSerif Normal</item>
+        <item>NotoSerif Italic</item>
+        <item>NotoSerif Bold</item>
+        <item>NotoSerif Bold Italic</item>
+        <item>Droid San</item>
+        <item>NotoSansDevanagari</item>
+    </string-array>
+    <string-array name="clock_font_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
     </string-array>
 </resources>

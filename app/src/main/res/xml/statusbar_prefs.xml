@@ -65,81 +65,162 @@
                 android:title="In the Middle" />
         </PreferenceScreen>
     </PreferenceScreen>
-    <PreferenceScreen
-        android:summary="Clock, date&amp;week statusbar display settings"
-        android:title="Status bar date &amp; clock">
+    <PreferenceScreen android:title="Custom Clock &amp; Date">
+        <PreferenceCategory android:title="Statusbar Clock Customization" />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="true"
-            android:key="tomatolei_status_bar_clock"
-            android:summaryOff="Disabled"
-            android:summaryOn="Enabled"
-            android:title="Display clock on statusbar" />
+            android:key="is_clock_enabled"
+            android:summaryOff="Hide clock&amp;date"
+            android:summaryOn="Show clock&amp;date"
+            android:title="Clock and Date" />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="false"
-            android:dependency="tomatolei_status_bar_clock"
-            android:key="tomatolei_clock_use_second"
-            android:summaryOff="Disabled"
-            android:summaryOn="Enabled"
-            android:title="Display seconds in statusbar clock" />
+            android:dependency="is_clock_enabled"
+            android:key="is_second_enabled"
+            android:summaryOff="Hide seconds"
+            android:summaryOn="Show seconds"
+            android:title="Show seconds in clock" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="1"
+            android:entries="@array/clock_format_entries"
+            android:entryValues="@array/clock_format_values"
+            android:key="is_clock_format_type"
+            android:title="Clock Format" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:dependency="is_clock_format_type"
+            android:key="is_normal_upper"
+            android:summaryOff="Uppercase disabled"
+            android:summaryOn="Uppercase enabled"
+            android:title="Uppercase date text" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_style_entries"
+            android:entryValues="@array/clock_style_values"
+            android:key="is_clock_position_locations"
+            android:summary="%s"
+            android:title="Clock Position" />
         <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
-            android:defaultValue="14"
-            android:key="tomatolei_statusbar_clock_font_size"
-            android:title="Clock size"
-            app:maxValue="24" />
+            android:defaultValue="12"
+            android:dependency="is_clock_enabled"
+            android:key="is_clock_scald"
+            android:title="Clock Font Size"
+            app:maxValue="21"
+            app:minValue="6"
+            app:unitsValue=" dp" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            alphaSlider="true"
+            hexValue="true"
+            android:defaultValue="\#ffffffff"
+            android:dependency="is_clock_enabled"
+            android:key="is_clocked_colored"
+            android:summary="Choose color"
+            android:title="Clock Color"
+            app:packageNameToKill="com.android.systemui" />/>
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:defaultValue="0"
-            android:dependency="tomatolei_status_bar_clock"
-            android:entries="@array/tomatolei_clock_style_entries"
-            android:entryValues="@array/tomatolei_clock_style_values"
-            android:key="tomatolei_statusbar_clock_style"
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_font_style_entries"
+            android:entryValues="@array/clock_font_style_values"
+            android:key="is_clock_fonts"
             android:summary="%s"
-            android:title="Clock position" />
+            android:title="Clock Font" />
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
-            android:defaultValue="2"
-            android:dependency="tomatolei_status_bar_clock"
-            android:entries="@array/tomatolei_statusbar_clock_am_pm_style_entries"
-            android:entryValues="@array/tomatolei_statusbar_clock_am_pm_style_values"
-            android:key="tomatolei_statusbar_clock_am_pm_style"
-            android:summary="%s"
+            android:defaultValue="1"
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_ampm_entries"
+            android:entryValues="@array/clock_ampm_values"
+            android:key="is_ampm_style"
             android:title="Am/Pm Style" />
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+            android:defaultValue="0"
+            android:dependency="is_clock_enabled"
+            android:key="is_clock_padding"
+            android:title="Vertical Clock Padding"
+            app:maxValue="10"
+            app:minValue="-10"
+            app:unitsValue=" dp" />
+        <PreferenceCategory android:title="Statusbar Date Customization" />
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:defaultValue="0"
-            android:dependency="tomatolei_status_bar_clock"
-            android:entries="@array/tomatolei_clock_weekday_entries"
-            android:entryValues="@array/tomatolei_clock_weekday_values"
-            android:key="tomatolei_statusbar_clock_date_display"
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_date_display_entries"
+            android:entryValues="@array/clock_date_display_values"
+            android:key="is_clockdated_formatted"
             android:summary="%s"
-            android:title="Display the day of the week on statusbar" />
+            android:title="Date Size" />
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
-            android:defaultValue="EEEEE"
-            android:dependency="tomatolei_status_bar_clock"
-            android:entries="@array/tomatolei_clock_date_format_entries"
-            android:entryValues="@array/tomatolei_clock_date_format_values"
-            android:key="tomatolei_statusbar_clock_date_format"
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_date_position_entries"
+            android:entryValues="@array/clock_date_position_values"
+            android:key="is_dated_posi_locations"
             android:summary="%s"
-            android:title="Week Day&amp;Date format" />
+            android:title="Date Position" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_date_style_entries"
+            android:entryValues="@array/clock_date_style_values"
+            android:key="is_dated_stylish"
+            android:summary="%s"
+            android:title="Date Style" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:dependency="is_clock_enabled"
+            android:entries="@array/clock_date_format_entries_values"
+            android:entryValues="@array/clock_date_format_entries_values"
+            android:key="is_dated_formatted"
+            android:summary="%s"
+            android:title="Date Format" />
+        <com.wubydax.romcontrol.v2.prefs.MyEditTextPreference
+            android:dependency="is_clock_enabled"
+            android:dialogTitle="Write date example EEE"
+            android:key="is_dated_formatted"
+            android:summary="write your date format"
+            android:title="Custom Date Format" />
+        <PreferenceCategory android:title="Clock button" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:dependency="is_clock_enabled"
+            android:key="is_clock_tap_to_launch_custom_app"
+            android:summaryOff="Button disabled"
+            android:summaryOn="Button enabled"
+            android:title="Short/Longpress on clock button"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui" />
+        <com.wubydax.romcontrol.v2.prefs.IntentDialogPreference
+            android:dependency="is_clock_tap_to_launch_custom_app"
+            android:key="shortpress_clock_custom_app"
+            android:title="Shortpress On Clock"
+            app:intentSeparator="\##" />
+        <com.wubydax.romcontrol.v2.prefs.IntentDialogPreference
+            android:dependency="is_clock_tap_to_launch_custom_app"
+            android:key="longpress_clock_custom_app"
+            android:title="Longpress On Clock"
+            app:intentSeparator="\##" />
     </PreferenceScreen>
+
     <PreferenceScreen
         android:summary="Customize the statusbar battery icon"
-        android:title="Battery icon">
+        android:title="Battery Icon">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:defaultValue="0"
             android:entries="@array/battery_icon_entries"
             android:entryValues="@array/battery_icon_values"
             android:key="battery_icon_type"
-            android:title="Battery icon" />
+            android:title="Battery Icon" />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="0"
             android:key="status_bar_show_battery_percent"
             android:summaryOff="Hidden"
             android:summaryOn="Displayed"
-            android:title="Display stock icon with percentages" />
+            android:title="Display Stock Icon with Percentages" />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
             android:defaultValue="true"
             android:key="display_battery_percentage"
             android:summaryOff="Hidden"
             android:summaryOn="Displayed"
-            android:title="Display percentage text on statusbar" />
+            android:title="Display Percentage Text on Statusbar" />
         <PreferenceScreen
             android:summary="Battery Bar on top of the Statusbar"
             android:title="Battery Bar">
@@ -194,7 +275,7 @@
     </PreferenceScreen>
     <PreferenceScreen
         android:summary="Internet traffic speed display"
-        android:title="Traffic Speed display">
+        android:title="Traffic Speed Display">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:defaultValue="0"
             android:entries="@array/traffic_state_items"
@@ -262,6 +343,161 @@
         android:entryValues="@array/SignalPositionValue"
         android:key="leftsignal"
         android:title="Signal Position" />
+    <PreferenceScreen
+        android:summary="Customize the Quick Toggles"
+        android:title="Quick Toggles Mods">
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="6"
+            android:entries="@array/num_amount_toggle_entries"
+            android:entryValues="@array/num_amount_toggle_values"
+            android:key="aspire_toggle_number"
+            android:title="Amount of scrolling toggles on first swipe"
+            app:packageNameToKill="com.android.systemui" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:entries="@array/num_columns_toggle_entries"
+            android:entryValues="@array/num_columns_toggle_values"
+            android:key="QSPanel_NumberCount"
+            android:summary="Number of toggle collumns on expanded notification"
+            android:title="Number of toggle collumns"
+            app:packageNameToKill="com.android.systemui" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="aspire_tiles_text"
+            android:summaryOff="Text under toggles is Hidden"
+            android:summaryOn="Text under toggles is Shown"
+            android:title="Text under first swipe toggles" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:summary="Data Usage month report"
+        android:title="Data Usage 6'th Gear Mod">
+        <PreferenceCategory android:title="Data Usage view preferences">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:defaultValue="true"
+                android:key="data_usage_visibility"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Data usage view visibility" />
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                android:defaultValue="#e61e4e78"
+                android:dependency="data_usage_visibility"
+                android:key="data_usage_text_color"
+                android:title="Data usage text color" />
+            <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                android:defaultValue="0"
+                android:dependency="data_usage_visibility"
+                android:entries="@array/data_usage_gravity_entries"
+                android:entryValues="@array/data_usage_gravity_values"
+                android:key="data_usage_text_gravity"
+                android:title="Data usage text gravity" />
+            <com.wubydax.romcontrol.v2.prefs.MyListPreference
+                android:defaultValue="0"
+                android:dependency="data_usage_visibility"
+                android:entries="@array/data_usage_text_style_entries"
+                android:entryValues="@array/data_usage_text_style_values"
+                android:key="data_usage_view_text_style"
+                android:title="Data usage text style" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:summary="Device info customization"
+        android:title="Device Info Settings">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="device_info_visibility"
+            android:summaryOff="Disabled"
+            android:summaryOn="Enabled"
+            android:title="Enable device info view" />
+        <PreferenceCategory
+            android:dependency="device_info_visibility"
+            android:title="Text colors">
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                android:defaultValue="#ffffffff"
+                android:key="gear_info_names_color"
+                android:title="Info names text color" />
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+                android:defaultValue="#ffffffff"
+                android:key="gear_info_values_color"
+                android:title="Info values text color" />
+        </PreferenceCategory>
+        <PreferenceCategory
+            android:dependency="device_info_visibility"
+            android:title="Device Info Items">
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_model"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Device model" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_android_version"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Android version" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_build_version"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Build version" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_battery_level"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Battery level" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_network_name"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Network name" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_wifi_info"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="WIFI info" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_next_alarm"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Next alarm" />
+            <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+                android:defaultValue="true"
+                android:key="device_up_time"
+                android:summaryOff="Hidden"
+                android:summaryOn="Shown"
+                android:title="Device up time" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="Carrier Label Text Preferences">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="true"
+            android:key="carrier_label_visibility"
+            android:summaryOff="Hidden"
+            android:summaryOn="Shown"
+            android:title="Carrier label visibility" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:defaultValue="#ffffff"
+            android:dependency="carrier_label_visibility"
+            android:key="carrier_label_text_color"
+            android:title="Carrier label text color" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:defaultValue="0"
+            android:dependency="carrier_label_visibility"
+            android:entries="@array/carrier_entries"
+            android:entryValues="@array/carrier_entry_values"
+            android:key="is_custom_carrier_label"
+            android:title="Carrier label text"
+            app:dependentValue="0" />
+        <com.wubydax.romcontrol.v2.prefs.MyEditTextPreference
+            android:defaultValue="Custom Text"
+            android:dependency="is_custom_carrier_label"
+            android:key="custom_carrier_label"
+            android:title="Custom text for carrier label" />
+    </PreferenceScreen>
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
         android:key="aspire_is_sb_dt2s"

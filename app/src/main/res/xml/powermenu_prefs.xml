@@ -30,7 +30,7 @@
         android:key="power_recovery"
         android:summaryOff="Disabled"
         android:summaryOn="Enabled"
-        android:title="Recovery mode" />
+        android:title="Recovery Mode" />
     <!--<com.wubydax.romcontrol.v2.prefs.MySwitchPreference-->
         <!--android:defaultValue="false"-->
         <!--android:key="power_download"-->
@@ -42,5 +42,5 @@
         android:key="power_emergency"
         android:summaryOff="Disabled"
         android:summaryOn="Enabled"
-        android:title="Emergency mode" />
+        android:title="Emergency Mode" />
 </PreferenceScreen>

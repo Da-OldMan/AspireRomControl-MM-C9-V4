@@ -4,25 +4,25 @@
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:key="torchlight_enable"
         android:summary="Press the Volume Up key when screen is off to turn on the flashlight, Volume Down to disable"
-        android:title="Lockscreen flashlight" />
+        android:title="Lockscreen Flashlight" />
     <com.wubydax.romcontrol.v2.prefs.MyListPreference
         android:entries="@array/torchlight_timeout_entries"
         android:entryValues="@array/torchlight_timeout_values"
         android:key="torchlight_timeout"
-        android:title="Auto timeout for the flashlight" />
+        android:title="Auto Timeout for the Flashlight" />
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="true"
         android:key="keyguard_charging_notif"
         android:summaryOff="Hidden"
         android:summaryOn="Displayed"
-        android:title="Charging information"
+        android:title="Charging Information"
         app:packageNameToKill="com.android.systemui" />
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
         android:key="nrom_lockscreen_lunar"
         android:summaryOff="Disabled"
         android:summaryOn="Enabled"
-        android:title="Enable Lunar time on the lockscreen" />
+        android:title="Enable Lunar time on the Lockscreen" />
     <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
         android:defaultValue="17"
         android:key="aod_brightness"
@@ -35,5 +35,12 @@
         android:summaryOff="Hidden"
         android:summaryOn="Visible"
         android:title="Weather on Lockscreen"
+        app:packageNameToKill="com.android.systemui" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="aspire_kg_rotation"
+        android:summaryOff="Lockscreen rotation disabled"
+        android:summaryOn="Lockscreen rotation enabled"
+        android:title="Lockscreen Rotation"
         app:packageNameToKill="com.android.systemui" />
 </PreferenceScreen>

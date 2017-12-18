@@ -3,12 +3,32 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <PreferenceScreen
         android:key="key_private_mode"
+        android:summary="Private Mode Settings"
         android:persistent="false"
         android:title="Private Mode">
         <intent
             android:action="android.intent.action.MAIN"
             android:targetClass="com.android.settings.personalpage.PersonalPageSettings"
             android:targetPackage="com.android.settings" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:summary="Samsung Music App Mods"
+        android:title="Samsung Music">
+        <com.wubydax.romcontrol.v2.prefs.FilePreference
+            android:defaultValue="false"
+            android:key="aspire_smusic_edgelight"
+            android:summaryOff="Edge light disabled"
+            android:summaryOn="Edge light enabled"
+            android:title="S8 Music edge light"
+            app:isSilent="false"
+            app:packageNameToKill="com.sec.android.app.music" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:dependency="aspire_smusic_edgelight"
+            android:key="aspire_smusic_rectangle"
+            android:summaryOff="Samsung Music round corners are Disabled"
+            android:summaryOn="Samsung Music round corners are Enabled"
+            android:title="Samsung Music round corners" />
     </PreferenceScreen>
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:defaultValue="false"
@@ -30,4 +50,10 @@
         android:summaryOff="Email Security Mod is Disabled"
         android:summaryOn="Email Security Mod is Enabled"
         android:title="Email Exchange Security Disable Mod" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="0"
+        android:key="aspire_safe_volume"
+        android:summaryOff="Safe Volume Warning Currently Enabled"
+        android:summaryOn="Safe Volume Warning Currently Disabled"
+        android:title="Safe Volume Warning" />
 </PreferenceScreen>
