@@ -56,7 +56,7 @@
         <item>Added Debloating SmartManager in Aroma</item>
         <item>Fixed incall ringing when with headphones&amp;silent/vibrate mode</item>
         <item>Reverted SoundAlive to old, fully working version</item>
-        <item>Remoded latest SamsungMusic&amp;port with Lightning (thanks to @Corsicanu)</item>
+        <item>Latest SamsungMusic with Lightning mods(thanks to @Corsicanu)</item>
         <item>Latest 6h0st Aspire Kernel !</item>
         <item>Completely new clock&amp;date mod (thanks @thereassaad)</item>
         <item>Two new devices added by 6h0st: Us Cellular&amp;KDDI Corporation</item>
@@ -64,6 +64,7 @@
         <item>Added SBrowser edge panel</item>
         <item>Rtl fixes for StatusBar mods</item>
         <item>New rom control Call menu</item>
+        <item>Fixed call forwarding menu</item>
         <item>Much more things for you to discover</item>
         <item> </item>
         <item> </item>
