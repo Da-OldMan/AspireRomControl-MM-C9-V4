@@ -1,20 +1,41 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\f2591520e5d951e059fafaf807694254\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\bc936920636b277f35de0eceb1dbe236\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\2ad6f9fbfc3980e9f988436838880860\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\d2104e288091e107eef967701ad61c35\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\13e5cbbe129858ef47a485a00216c518\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\e85b9074e3fb96d5c64e59dbc5e2d7a5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\f60b71fb9751a277b810c5d576aa1572\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\4cb5442d382e26cf75061dba31e52ee9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c0867b9fb5152a952f20dccb26506d4d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\d1b57956e30cde0e949c7b3958df8f5a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\87b3210fbeada15e831cdbdf2aedb4ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\6c2c2acbe692d1e7cce2a36e7b50923c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\0ee6e347edbcda2ba7c8f49c351e6ce4\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:4:11-46
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:3:11-57
-	xmlns:android
-		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:1-59:12
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_SETTINGS
 ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:6:5-72
 	android:name
@@ -93,30 +114,42 @@ ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\s
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:25:22-88
 application
 ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:27:5-57:19
-MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.android\build-cache\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.android\build-cache\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.android\build-cache\335eeba3e89521a9b2a131eee729d4d13d7739a2\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.android\build-cache\ef3d7b7d3bbe9b3572d9b6409df09bdf7c3d1c0c\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.android\build-cache\9d301cc39180e43a6cd5dc88e216f4e541c0e1c1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.android\build-cache\e48759ed4c7cbafd50dd68b34dd08b52398d493b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.android\build-cache\ba12986ebb019116351a59d02f2ee0825523601a\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.android\build-cache\25caf53c65e633cfdc190fc11d48bccefe45b2cb\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.android\build-cache\842482f56d96161f2800519e988197cd765db914\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.android\build-cache\ee44ace9d7d371f09b3d01e5f7f771e109d0e504\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.android\build-cache\21e575d36d272288b159f27e2c837557f9c4a0ec\output\AndroidManifest.xml:22:5-20
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.android\build-cache\a597434d564b4e6c746323087c85ae08e7daf260\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:31:9-41
+MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\f2591520e5d951e059fafaf807694254\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\f2591520e5d951e059fafaf807694254\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\bc936920636b277f35de0eceb1dbe236\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\bc936920636b277f35de0eceb1dbe236\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\2ad6f9fbfc3980e9f988436838880860\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\2ad6f9fbfc3980e9f988436838880860\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\d2104e288091e107eef967701ad61c35\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\d2104e288091e107eef967701ad61c35\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\13e5cbbe129858ef47a485a00216c518\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\13e5cbbe129858ef47a485a00216c518\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\e85b9074e3fb96d5c64e59dbc5e2d7a5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\e85b9074e3fb96d5c64e59dbc5e2d7a5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\f60b71fb9751a277b810c5d576aa1572\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\f60b71fb9751a277b810c5d576aa1572\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\4cb5442d382e26cf75061dba31e52ee9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\4cb5442d382e26cf75061dba31e52ee9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c0867b9fb5152a952f20dccb26506d4d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c0867b9fb5152a952f20dccb26506d4d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\d1b57956e30cde0e949c7b3958df8f5a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\d1b57956e30cde0e949c7b3958df8f5a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\6c2c2acbe692d1e7cce2a36e7b50923c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\6c2c2acbe692d1e7cce2a36e7b50923c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\0ee6e347edbcda2ba7c8f49c351e6ce4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\0ee6e347edbcda2ba7c8f49c351e6ce4\AndroidManifest.xml:25:5-20
 	android:supportsRtl
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:33:9-36
+	android:label
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:31:9-41
 	tools:ignore
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:35:9-48
-	android:allowBackup
-		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:29:9-35
-	android:icon
-		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:30:9-43
 	android:largeHeap
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:32:9-33
+	android:icon
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:29:9-35
 	android:theme
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:34:9-44
 	android:name
@@ -167,24 +200,43 @@ ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\s
 		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml:54:13-61
 uses-sdk
 INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.android\build-cache\034c06ea7f46c4b42d74be76bf2d2a7fd9e613ec\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.android\build-cache\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.android\build-cache\335eeba3e89521a9b2a131eee729d4d13d7739a2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.android\build-cache\ef3d7b7d3bbe9b3572d9b6409df09bdf7c3d1c0c\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.android\build-cache\9d301cc39180e43a6cd5dc88e216f4e541c0e1c1\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.android\build-cache\e48759ed4c7cbafd50dd68b34dd08b52398d493b\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.android\build-cache\ba12986ebb019116351a59d02f2ee0825523601a\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.android\build-cache\25caf53c65e633cfdc190fc11d48bccefe45b2cb\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Thomas\.android\build-cache\1e7767959277a65e8b4aec0a8fc9e87e236a060f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.android\build-cache\842482f56d96161f2800519e988197cd765db914\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.android\build-cache\ee44ace9d7d371f09b3d01e5f7f771e109d0e504\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.android\build-cache\21e575d36d272288b159f27e2c837557f9c4a0ec\output\AndroidManifest.xml:20:5-43
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.android\build-cache\a597434d564b4e6c746323087c85ae08e7daf260\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\f2591520e5d951e059fafaf807694254\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\f2591520e5d951e059fafaf807694254\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\bc936920636b277f35de0eceb1dbe236\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\bc936920636b277f35de0eceb1dbe236\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\2ad6f9fbfc3980e9f988436838880860\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\2ad6f9fbfc3980e9f988436838880860\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\d2104e288091e107eef967701ad61c35\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\d2104e288091e107eef967701ad61c35\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\13e5cbbe129858ef47a485a00216c518\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\13e5cbbe129858ef47a485a00216c518\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\e85b9074e3fb96d5c64e59dbc5e2d7a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\e85b9074e3fb96d5c64e59dbc5e2d7a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\f60b71fb9751a277b810c5d576aa1572\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\f60b71fb9751a277b810c5d576aa1572\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\4cb5442d382e26cf75061dba31e52ee9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\4cb5442d382e26cf75061dba31e52ee9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c0867b9fb5152a952f20dccb26506d4d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c0867b9fb5152a952f20dccb26506d4d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\d1b57956e30cde0e949c7b3958df8f5a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\d1b57956e30cde0e949c7b3958df8f5a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\87b3210fbeada15e831cdbdf2aedb4ee\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\87b3210fbeada15e831cdbdf2aedb4ee\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\6c2c2acbe692d1e7cce2a36e7b50923c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\6c2c2acbe692d1e7cce2a36e7b50923c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\0ee6e347edbcda2ba7c8f49c351e6ce4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\0ee6e347edbcda2ba7c8f49c351e6ce4\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.android\build-cache\1d7a1e4283cb368d07f2e52da6383e9e2a82e37f\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Thomas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\bc936920636b277f35de0eceb1dbe236\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Thomas\AndroidStudioProjects\AspireRomControl-MM-C9-V2\app\src\main\AndroidManifest.xml

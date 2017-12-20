@@ -30,6 +30,7 @@
     <application
         android:name="com.wubydax.romcontrol.v2.MyApp"
         android:allowBackup="true"
+        android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:largeHeap="true"
